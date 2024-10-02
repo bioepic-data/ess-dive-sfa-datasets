@@ -1,0 +1,26 @@
+Column_Name,Unit,Description
+Contact_Name,Free Text,Primary contact person for the location. This could be a PI or technician responsible for answering questions regarding the location and associated instrumentation
+Contact_Email,Valid Email,Best email address for the contact (can be an individual or group email address)
+Contact_Affiliation,Free Text,Primary instittuion the contact is affiliated with
+Metadata_Provider_Name,Free Text,Person/People who provided the location metadata. Separate names using semicolons.
+Location_ID,AA-XXXY,"Persistent site identifier that is unique across the East River Community Observatory. For the format AA-XXXY, where A is the drainage basin (except for Snodgrass), X is a letter and Y is a number. This site ID should be used while referring to the locations in datasets or publications about the site."
+Location_Name,Free Text,"A location name that is more commonly used. Location names are not necessarily unique, can change over time, and should not be solely used to identify sites."
+Location_Alias,Free Text,"An optional field to indicate other names or identifiers that have been used for the site, either before the formal site ID system was established or names used by other organizations."
+Location_Activity,Free Text,Keyword that indicates the primary purpose of the location being established as a measurement point (e.g. Water Quality Monitoring Station). Locations are typically grouped by the Location Activity for display in maps or on the SFA portal. This field was referred to as Location Type in version 1.
+Location_Category,Controlled List,"Choices are SFA Intensive, SFA Satellite, SFA One-off Sampling, SFA Collaborator, External Datasource. SFA Intensive then refers to the locations where several measurements are made and produce data for multiple years - e.g. the sites in Pumphouse, Snodgrass regions. SFA Satellite locations are other locations where there is some regular sampling (e.g. Brush Creek Confluence), but it isn't part of a cohort of measurements. For locations that are sampled intermittently or only once, use SFA One-off sampling"
+Measurement_Categories,Controlled List,"One or a combination of the following categories - Hydrogeology, Biogeochemistry, Climate, Vegetation. Multiple categories should be separated by semicolons."
+Years_Data_Collected,Free Text,Indicate dates of research activity at the location. If the site is no longer active include an end date. Otherwise specify as Start date - Present (as of date metadata was entered)  
+Research_Theme,Free Text,A 5-10 word highlight for the type of scientific research conducted at the location
+Description,Free Text,A brief description of location and the purpose of data collection there
+Geographic_Region,Controlled List,"This can be a region or subregion (or subcatchment) that the location belongs to. See Geographic Region tab and fill in appropriate code. If region is not listed, contact wfsfa-data@googlegroups.com"
+Parent_Location_ID,Controlled List,"This is used to construct the location hierarchy, and should be either another location ID or a region/sub-region/plot/transect that the location is a part of. See the Geographic Region tab to fill in the appropriate parent location. If a region is not listed, contact wfsfa-data@googlegroups.com"
+Corner1_Lat,Decimal Degrees,Bounding box coordinates for the plot (4 corners)
+Corner1_Long,Decimal Degrees,Bounding box coordinates for the plot (4 corners)
+Corner2_Lat,Decimal Degrees,Bounding box coordinates for the plot (4 corners)
+Corner2_Long,Decimal Degrees,Bounding box coordinates for the plot (4 corners)
+Corner3_Lat,Decimal Degrees,Bounding box coordinates for the plot (4 corners)
+Corner3_Long,Decimal Degrees,Bounding box coordinates for the plot (4 corners)
+Corner4_Lat,Decimal Degrees,Bounding box coordinates for the plot (4 corners)
+Corner4_Long,Decimal Degrees,Bounding box coordinates for the plot (4 corners)
+Center_Lat,Decimal Degrees,Plot center coordinates
+Center_Long,Decimal Degrees,Plot center coordinates

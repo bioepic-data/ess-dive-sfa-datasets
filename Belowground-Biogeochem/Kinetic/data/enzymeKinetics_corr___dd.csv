@@ -1,0 +1,28 @@
+﻿Column_or_Row_Name,Unit,Definition,Column_or_Row_Long_Name,Data_Type
+sampleID,N/A,"Descriptive sample identifier indicating sampling site and date, core number and sampling depth.",Unique sample identifier,text
+IGSN,N/A,Unique geologic sample registration identifier.,Intervational Geo Sample Number,text
+core,N/A,Name of replicate soil core.,Core,text
+depth,cm,"Depth interval in the soil core, below the surface.",Depth interval,text
+enzyme,N/A,Abbreviaton of enzyme type. See accompanying file: enzymeTraits_design_results_tables.xlsx,Enzyme type,text
+temperature,degreeCelsius,Incubation temperature of the enzyme assay.,Incubation temperature,numeric
+n,N/A,Number of biological replicates,Number of samples,numeric
+Vmax_ds,nmol/g_dry_soil/h,Maximum enzyme reaction velocity on a dry soil basis. Missing data = -9999,Vmax per mass dry soil,numeric
+Vmax_ds_mean,nmol/g_dry_soil/h,Mean maximum enzyme reaction velocity on a dry soil basis. Missing data = -9999,Mean Vmax per mass dry soil,numeric
+Vmax_ds_sd,nmol/g_dry_soil/h,Standard deviation of maximum enzyme reaction velocity on a dry soil basis. Missing data = -9999,Standard deviation of Vmax per mass dry soil,numeric
+Vmax_ds_se,nmol/g_dry_soil/h,Standard error of maximum enzyme reaction velocity on a dry soil basis. Missing data = -9999,Standard error of Vmax per mass dry soil,numeric
+Vmax_MBC,nmol/microg_MBC/h,Maximal enzyme reaction velocity on a microbial biomass carbon basis. Missing data = -9999,Vmax per mass microbial biomass carbon,numeric
+Vmax_MBC_mean,nmol/microg_MBC/h,Mean maximal enzyme reaction velocity on a microbial biomass carbon basis. Missing data = -9999,Mean Vmax per mass microbial biomass carbon,numeric
+Vmax_MBC_sd,nmol/microg_MBC/h,Standard deviation of maximal enzyme reaction velocity on a microbial biomass carbon basis. Missing data = -9999,Standard deviation of Vmax per mass microbial biomass carbon,numeric
+Vmax_MBC_se,nmol/microg_MBC/h,Standard error of maximal enzyme reaction velocity on a microbial biomass carbon basis. Missing data = -9999,Standard error of Vmax per mass microbial biomass carbon,numeric
+Km,micromolar,Enzyme half-saturation constant (Michaelis constant). Missing data = -9999,Km,numeric
+Km_mean,micromolar,Mean enzyme half-saturation constant (Michaelis constant). Missing data = -9999,Mean Km,numeric
+Km_sd,micromolar,Standard deviation of enzyme half-saturation constant (Michaelis constant). Missing data = -9999,Standard deviation of Km,numeric
+Km_se,micromolar,Standard error of enzyme half-saturation constant (Michaelis constant). Missing data = -9999,Standard error of Km,numeric
+CE_ds,N/A,Apparent enzyme catalytic efficiency calculated as the ratio between Vmax_ds and Km. Missing data = -9999,Catalytic efficiency per mass dry soil,numeric
+CE_ds_mean,N/A,Mean apparent enzyme catalytic efficiency calculated as the ratio between Vmax_ds and Km. Missing data = -9999,Mean catalytic efficiency per mass dry soil,numeric
+CE_ds_sd,N/A,Standard deviation of apparent enzyme catalytic efficiency calculated as the ratio between Vmax_ds and Km. Missing data = -9999,Standard deviation of catalytic efficiency per mass dry soil,numeric
+CE_ds_se,N/A,Standard error of apparent enzyme catalytic efficiency calculated as the ratio between Vmax_ds and Km. Missing data = -9999,Standard error of catalytic efficiency per mass dry soil,numeric
+CE_MBC,N/A,Biomass-specific enzyme catalytic efficiency calculated as the ratio between Vmax_MBC and Km. Missing data = -9999,Catalytic efficiency per mass microbial biomass carbon,numeric
+CE_MBC_mean,N/A,Mean biomass-specific enzyme catalytic efficiency calculated as the ratio between Vmax_MBC and Km. Missing data = -9999,Mean catalytic efficiency per mass microbial biomass carbon,numeric
+CE_MBC_sd,N/A,Standard deviation of biomass-specific enzyme catalytic efficiency calculated as the ratio between Vmax_MBC and Km. Missing data = -9999,Standard deviation of catalytic efficiency per mass microbial biomass carbon,numeric
+CE_MBC_se,N/A,Standard error of biomass-specific enzyme catalytic efficiency calculated as the ratio between Vmax_MBC and Km. Missing data = -9999,Standard error of catalytic efficiency per mass microbial biomass carbon,numeric

@@ -1,0 +1,10 @@
+ Dataset source,Dataset type,Manganese,Vanadium
+RAWS,Total precipitation ,0.38,0.4
+,Average temperature,0.19,0.18
+,Humidity,0.19,0.18
+,Penman evapotranspiration,0.16,0.1
+NOAA,Rainfall,0.13,0.13
+,Snowfall,0.21,0.19
+USGS,Daily discharge,0.2,0.5
+Site observation,Depth to groundwater,0.03,0.05
+Qualitative,Irrigation withdrawal,0.13,0.2

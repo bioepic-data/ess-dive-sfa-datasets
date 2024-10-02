@@ -1,0 +1,37 @@
+Location_ID,Location_Name,Location_Type,Parent_Location_ID,Description
+ER,East River,Region,N/A,East River Drainage
+CC,Coal Creek,Region,N/A,Coal Creek Drainage
+SR,Slate River,Region,N/A,Slate River Drainage
+WG,Washington Gulch,Region,N/A,Washington Gulch Drainage
+TR,Taylor River,Region,N/A,Taylor River Drainage
+XX,Other Drainages,Region,N/A,"Any region/drainage not in the East River, Coal Creek, Slate River and Washington Gulch drainages is considered outside the East River Community Observatory domain"
+LT,Lower Triangle,Sub-region,ER,Lower Triangle Subcatchment
+CU,Copper Creek,Sub-region,ER,Copper Subcatchment
+PH,Pumphouse,Sub-region,LT,Intensively Monitored Region near the Pumphouse Station
+GT,Gothic,Sub-region,ER,"Region around Gothic Mountain, also contains the Rocky Mountain Biological Laboratory"
+SG,Snodgrass,Sub-region,ER,Snodgrass Mountain
+BCC,Brush Creek Confluence,Sub-region,ER,Region downstream of the Pumphouse near the confluence of East River and Brush Creek 
+ERC,East River Corridor,Horizontal path,ER,Instream locations within the East River
+MA,Meander A,Sub-region,PH,Meander in the Pumphouse Region
+MC,Meander C,Sub-region,PH,Meander in the Pumphouse Region
+MD,Meander D,Sub-region,PH,Meander in the Pumphouse Region
+MG,Meander G,Sub-region,PH,Meander in the Pumphouse Region
+ML,Meander L,Sub-region,PH,Meander in the Pumphouse Region
+MO,Meander O,Sub-region,PH,Meander with Oxbow cutoff
+MZ,Meander Z,Sub-region,BCC,Meander in the Brushcreek Region
+RM,RMBL Research Meadow,Sub-region,ER,RMBL Gothic Research Meadow. Described in Chadwick et al. (2020): 10.21952/WTR/1573029
+BD,Bradley,Sub-region,ER,Described in Chadwick et al. (2020): 10.21952/WTR/1573029
+T403,"403 Trail, East River",Sub-region,ER,Described in Chadwick et al. (2020): 10.21952/WTR/1573029
+WGM,Washington Gulch Mid,Sub-region,WG,Described in Chadwick et al. (2020): 10.21952/WTR/1573029
+UC,Upper Coal Creek,Sub-region,CC,Described in Chadwick et al. (2020): 10.21952/WTR/1573029
+WGU,Washington Gulch Upper,Sub-region,WG,Described in Chadwick et al. (2020): 10.21952/WTR/1573029
+RCK,Rock Creek,Sub-region,ER,Described in Chadwick et al. (2020): 10.21952/WTR/1573029
+PG,Poverty Gulch,Sub-region,N/A,Described in Chadwick et al. (2020): 10.21952/WTR/1573029
+MtC,Mt. Cinnamon,Sub-region,N/A,Described in Chadwick et al. (2020): 10.21952/WTR/1573029
+US,Upper Slate River,Sub-region,SR,Described in Chadwick et al. (2020): 10.21952/WTR/1573029
+RW,Redwell Basin,Sub-region,SR,Described in Chadwick et al. (2020): 10.21952/WTR/1573029
+LC,Lower Coal,Sub-region,CC,Described in Chadwick et al. (2020): 10.21952/WTR/1573029
+GS,Coal Creek Iron Gossen,Sub-region,CC,Described in Chadwick et al. (2020): 10.21952/WTR/1573029
+LS,Lower Slate,Sub-region,SR,Described in Chadwick et al. (2020): 10.21952/WTR/1573029
+LMWL,Local Meteorological Water Line,Sub-region,WG,Mid-elevation region for isotopic sampling of rain and snow water
+SMtB,Southslope Mt. Baldy,Sub-region,ER,Upper subalpine region in the East River drainage basin

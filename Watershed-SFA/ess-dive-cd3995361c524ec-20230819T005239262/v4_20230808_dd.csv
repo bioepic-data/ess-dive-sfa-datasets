@@ -1,0 +1,16 @@
+Column_or_Row_Name,Unit,Definition,Data_Type
+File_Name,N/A,Name of the files in the dataset/data package.,text
+File_Description,N/A,A brief description of the files in the dataset/data package.,text
+Standard,N/A,Standard applied to the data file.,text
+Missing_Value_Codes,N/A,Missing value codes contained within data file.,text
+Data_Orientation,N/A,Orientation of the data contained within the data file.,text
+Column_or_Row_Name,N/A,Column headers from each csv file in the dataset.,text
+Unit,N/A,Units that apply to a given column in the dataset.,text
+Definition,N/A,Description of the information in a given column in the dataset.,text
+Data_Type,N/A,Type of data (text; numeric; date).,text
+location_name,N/A,Unique Location_ID identifier for a particular site within the Watershed Function SFA field site,text
+latitude,decimal degree,Latitude of the locaton where data was collected (WG84 format).,numeric
+longitude,decimal degree,Longitude of the location where data was collected (WG84 format).,numeric
+date,YYYY-MM-DD,Date samples were collected in the field.,date
+ammonia_n,parts per million (ppm),mean values for ammonia concentrations in parts per million (ppm),numeric
+tdn,micrograms per Liter (ug/L),mean values for total dissolved nitrogen (TDN) in micrograms per Liter (ug/L),numeric

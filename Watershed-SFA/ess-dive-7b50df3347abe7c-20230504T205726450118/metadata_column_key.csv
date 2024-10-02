@@ -1,0 +1,43 @@
+ï»¿csv,column,description
+sample_site,SamplingArea,"Area where sampling occurred, description provided in sample_area.csv"
+sample_site,Campaign,Name of sampling effort
+sample_site,SampleSiteCode,"Sample site identifier, all associated physical samples have internal tracking codes that begin with this number"
+sample_site,Month,
+sample_site,Day,
+sample_site,Year,
+sample_site,Longitude,
+sample_site,Latitude,
+sample_site,EPSG,Code indicating the projection information for the lat/long information. https://epsg.io/
+sample_site,GPS_source,Device used to take GPS measurement
+sample_site,Elevation_m,Elevation of sampling site in m
+sample_site,VegetationType,Class of vegetation as determined in the field
+sample_site,FieldVegHeightMax_cm,Maximum height measured in a meadow plot or the maximum height of a sampled shrub. Heights were not taken for trees.
+sample_site,FieldVegHeightMedian_cm,Median height of vegetation growing in meadow plots
+sample_site,SoilMoisture_%_1,Soil moisture measurement (1) taken by field teams using Campbell Scientific Hydrosense TDR probes https://s.campbellsci.com/documents/us/manuals/hydrosns.pdf
+sample_site,SoilMoisture_%_2,Soil moisture measurement (2) taken by field teams using Campbell Scientific Hydrosense TDR probes https://s.campbellsci.com/documents/us/manuals/hydrosns.pdf
+sample_site,SoilMoisture_%_3,Soil moisture measurement (3) taken by field teams using Campbell Scientific Hydrosense TDR probes https://s.campbellsci.com/documents/us/manuals/hydrosns.pdf
+sample_site,Foliar_IGSN,"Registration code for physical foliar sample, recorded and issued unique identifier on https://www.geosamples.org/ "
+species_list,CoverCode,Code used in fractional cover data to indicate species 
+species_list,Family,
+species_list,Genus,
+species_list,Species,
+species_list,AltFieldCode,"Alternate field code when multiple spellings or identifications were used for the field code, may also be present in fractional cover data"
+species_list,Notes,"Notes about species identity or code, mosty made by C.F. Rick Williams"
+raw_rtk_gps_points,SampleSiteCode,"Sample site identifier, all associated physical samples have internal tracking codes that begin with this number"
+raw_rtk_gps_points,FieldPointName,"Individual GPS point identifiers given in the field - all four corners of plots were taken, so there are multiple points per sample site in many cases"
+raw_rtk_gps_points,Northing,
+raw_rtk_gps_points,Easting,
+raw_rtk_gps_points,Elevation,Elevation of sampling site in m
+raw_rtk_gps_points,Code,Field code for identification purposes
+raw_rtk_gps_points,EPSG,Code indicating the projection information for the lat/long information. https://epsg.io/
+CRBU2018_AOP_Crowns.geojson,,polygon file containing the delineated extents of each sampling site - spatial extents specific to the NEON AOP collections from 2018 and mosiacing performed by Brodrick et al. DOI: 10.15485/1618131
+fractional_cover,SampleSiteCode,"Sample site identifier, all associated physical samples have internal tracking codes that begin with this number"
+fractional_cover,SamplingArea,"Area where sampling occurred, description provided in sample_area.csv"
+fractional_cover,CollectionDate,Date of fractional cover determination 
+fractional_cover,CoverCode,"Code indicating what this cover is, links to the species_list.csv CoverCode or AltFieldCode"
+fractional_cover,FractionalCover,Percent of sampling site that was covered with this cover type/species. This was determined on an area basis using a quad in the case of meadow sites. 
+fractional_cover,Notes,
+sampling_area,SamplingArea,"Location code for sample area, links to SamplingArea in other sheets"
+sampling_area,FullName,Full length site name
+sampling_area,State,US state
+sampling_area,Country,country 

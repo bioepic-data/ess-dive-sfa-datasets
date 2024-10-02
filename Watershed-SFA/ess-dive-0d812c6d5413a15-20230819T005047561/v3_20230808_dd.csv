@@ -1,0 +1,50 @@
+Column_or_Row_Name,Unit,Definition,Data_Type
+File_Name,N/A,Name of the files in the dataset/data package.,text
+File_Description,N/A,A brief description of the files in the dataset/data package.,text
+Standard,N/A,Standard applied to the data file.,text
+Missing_Value_Codes,N/A,Missing value codes contained within data file.,text
+Data_Orientation,N/A,Orientation of the data contained within the data file.,text
+Column_or_Row_Name,N/A,Column headers from each csv file in the dataset.,text
+Unit,N/A,Units that apply to a given column in the dataset.,text
+Definition,N/A,Description of the information in a given column in the dataset.,text
+Data_Type,N/A,Type of data (text; numeric; date).,text
+location_name,N/A,Location_ID for the sites at the WFSFA field site,text
+latitude,decimal degree,Latitude of the locaton where data was collected (WG84 format).,numeric
+longitude,decimal degree,Longitude of the location where data was collected (WG84 format).,numeric
+date,YYYY-MM-DD,Date samples were collected in the field,date
+aluminum,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Aluminum in part per billion (ppb),numeric
+antimony,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Antimony in part per billion (ppb),numeric
+arsenic,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Arsenic in part per billion (ppb),numeric
+barium,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Barium in part per billion (ppb),numeric
+beryllium,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of berylium in part per billion (ppb),numeric
+boron,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Boron in part per billion (ppb),numeric
+cadmium,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Cadmium in part per billion (ppb),numeric
+calcium,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Calcium in part per billion (ppb),numeric
+cesium,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Cesium in part per billion (ppb),numeric
+chromium,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Chromium in part per billion (ppb),numeric
+cobalt,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Cobalt in part per billion (ppb),numeric
+copper,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Copper in part per billion (ppb),numeric
+europium,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Europium in part per billion (ppb),numeric
+germanium,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Germanium in part per billion (ppb),numeric
+iron,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Iron in part per billion (ppb),numeric
+lead,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Lead in part per billion (ppb),numeric
+lithium,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of lithium in part per billion (ppb),numeric
+magnesium,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Magnesium in part per billion (ppb),numeric
+manganese,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Manganese in part per billion (ppb),numeric
+molybdenum,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Molybdenum in part per billion (ppb),numeric
+nickel,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Nickel in part per billion (ppb),numeric
+phosphorus,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Phosphorus in part per billion (ppb),numeric
+potassium,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Potassium in part per billion (ppb),numeric
+rubidium,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Rubidium in part per billion (ppb),numeric
+selenium,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Selenium in part per billion (ppb),numeric
+silicon,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Silicon in part per billion (ppb),numeric
+silver,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Silver in part per billion (ppb),numeric
+sodium,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Sodium in part per billion (ppb),numeric
+strontium,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Strontium in part per billion (ppb),numeric
+thorium,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Thorium in part per billion (ppb),numeric
+tin,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Tin in part per billion (ppb),numeric
+titanium,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Titanium in part per billion (ppb),numeric
+uranium,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Uranium in part per billion (ppb),numeric
+vanadium,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Vanadium in part per billion (ppb),numeric
+zinc,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Zinc in part per billion (ppb),numeric
+zirconium,parts per billion (ppb),Inductively coupled plasma mass spectrometry (ICP-MS) measurement of the concentration of Zirconium in part per billion (ppb),numeric

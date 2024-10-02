@@ -1,0 +1,4 @@
+Hydrostratigraphic unit,"Porosity, ?","Permeability, k","van Genuchten parameter, ?","van Genuchten parameter, m","Residual liquid saturation, Sr"
+,[-],[m2],[kg-1 m s2],[-],[-]
+Fill,0.21,4.52 x 10-12,5.07 x 10-4,0.18,0.07
+Alluvium ,0.2,9.67 x 10-12,8.46 x 10-4,0.31,0.13

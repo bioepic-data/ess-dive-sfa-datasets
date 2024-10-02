@@ -1,0 +1,19 @@
+Column_or_Row_Name,Unit,Definition,Data_Type
+File_Name,N/A,Name of the files in the dataset/data package.,text
+File_Description,N/A,A brief description of the files in the dataset/data package.,text
+Standard,N/A,Standard applied to the data file.,text
+Missing_Value_Codes,N/A,Missing value codes contained within data file.,text
+Data_Orientation,N/A,Orientation of the data contained within the data file.,text
+Column_or_Row_Name,N/A,Column headers from each csv file in the dataset.,text
+Unit,N/A,Units that apply to a given column in the dataset.,text
+Definition,N/A,Description of the information in a given column in the dataset.,text
+Data_Type,N/A,Type of data (text; numeric; date).,text
+date,YYYY-MM-DD,Date samples were collected in the field,date
+location_name,N/A,Location_ID for the sites at the WFSFA field site,text
+latitude,decimal degree,Latitude of the locaton where data was collected (WG84 format).,numeric
+longitude,degree,Longitude of the location where data was collected (WG84 format).,numeric
+chloride,micrmoles per liter (Âµmol/L; ÂµM),anion chromatography measurement for chloride concentration in micromoles per liter (uM),numeric
+fluoride,micrmoles per liter (Âµmol/L; ÂµM),anion chromatography measurement for fluroide concentration in micromoles per liter (uM),numeric
+nitrate,micrmoles per liter (Âµmol/L; ÂµM),anion chromatography measurement for nitrate (as nitrate) concentration in micromoles per liter (uM),numeric
+phosphate,micrmoles per liter (Âµmol/L; ÂµM),anion chromatography measurement for phosphate concentration in micromoles per liter (uM),numeric
+sulfate,micrmoles per liter (Âµmol/L; ÂµM),anion chromatography measurement for sulfate concentration in micromoles per liter (uM),numeric

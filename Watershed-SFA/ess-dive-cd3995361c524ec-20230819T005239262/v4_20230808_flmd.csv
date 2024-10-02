@@ -1,0 +1,10 @@
+File_Name,File_Description,Standard,Missing_Value_Codes,Data_Orientation
+v4_20230808_flmd.csv,File-level metadata associated with dataset. This file is an updated version (version 4) of the file-level metadata file.,ESS-DIVE FLMD,N/A; -9999,horizontal
+v4_20230808_dd.csv,Data dictionary defining column headers and other terms across the dataset. This file is an updated version (version 4) of the data dictionary file.,ESS-DIVE FLMD,N/A; -9999,horizontal
+Detemination_of_Method_Detection_Limits__MDLs__for_DIC__NPOC_and_TDN_Analyses__Shimadzu_.docx,Microsoft word document for determination for Method Detection Limits (MDLs) for TDN and Ammonia data.,N/A,N/A,N/A
+Detemination_of_Method_Detection_Limits__MDLs__for_DIC__NPOC_and_TDN_Analyses__Shimadzu_.pdf,PDF document for determination for Method Detection Limits (MDLs) for TDN and Ammonia data.,N/A,N/A,N/A
+Detemination_of_Method_Detection_Limit_for_Ammonia_and_the_Interferences_by_LACHAT_Flow_Injection_Analysis_by_Wenming_Dong.docx,Microsoft word document for detemination of Method Detection Limit for Ammonia and the interferences by LACHAT Flow Injection Analysis.,N/A,N/A,N/A
+Detemination_of_Method_Detection_Limit_for_Ammonia_and_the_Interferences_by_LACHAT_Flow_Injection_Analysis_by_Wenming_Dong.pdf,PDF document for detemination of Method Detection Limit for Ammonia and the interferences by LACHAT Flow Injection Analysis.,N/A,N/A,N/A
+locations.csv,Location information for the sites containing data. This file contains both Location_IDs and the latitude and longitude measurements associated with the Location_IDs. Latitude and longitude measurements are in WGS84 format.,ESS-DIVE CSV,"N/A, -9999",horizontal
+*_ammonia_n.csv,File containing mean values for ammonia concentrations in parts per million (ppm). Asterisk marks Location_ID for which the location the data is collected from.,ESS-DIVE CSV,N/A; -9999,horizontal
+*_tdn.csv,File containing mean values for total dissolved nitrogen (TDN) in parts per million (ppm). Asterisk marks Location_ID for which the location the data is collected from.,ESS-DIVE CSV,N/A; -9999,horizontal

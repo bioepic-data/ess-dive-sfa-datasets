@@ -1,0 +1,10 @@
+ Dataset source,Dataset type,Chloride,Sulfate,Vanadium
+RAWS,Total precipitation ,0.31,0.61,0.28
+,Average temperature,0.53,0.56,0.38
+,Humidity,0.4,0.53,0.4
+,Penman evapotranspiration,0.56,0.59,0.4
+NOAA,Rainfall,0.34,0.31,0.28
+,Snowfall,0.3,0.24,0.24
+USGS,Daily discharge,0.49,0.51,0.4
+Site observation,Depth to groundwater,0.7,0.88,0.55
+Qualitative,Irrigation withdrawal,0.41,0.55,0.34

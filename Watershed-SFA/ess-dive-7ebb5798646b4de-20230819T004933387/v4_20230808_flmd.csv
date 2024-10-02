@@ -1,0 +1,9 @@
+File_Name,File_Description,Standard,Missing_Value_Codes,Data_Orientation
+v4_20230808_flmd.csv,File-level metadata associated with dataset. This file is an updated version (version 4) of the file-level metadata file.,ESS-DIVE FLMD,N/A; -9999,horizontal
+v4_20230808_dd.csv,Data dictionary defining column headers and other terms across the dataset. This file is an updated version (version 4) of the data dictionary file.,ESS-DIVE FLMD,N/A; -9999,horizontal
+locations.csv,Location information for the sites containing data. This file contains both Location_IDs and the latitude and longitude measurements associated with the Location_IDs. Latitude and longitude measurements are in WGS84 format.,ESS-DIVE CSV,"N/A, -9999",horizontal
+*_chloride.csv,File containing anion chromatography measurement for chloride concentration in micromoles per liter (uM). Asterisk marks Location_ID for which the location the data is collected from.,ESS-DIVE CSV,N/A; -9999,horizontal
+*_fluoride.csv,File containing anion chromatography measurement for fluroide concentration in micromoles per liter (uM). Asterisk marks Location_ID for which the location the data is collected from.,ESS-DIVE CSV,N/A; -9999,horizontal
+*_nitrate.csv,File containing anion chromatography measurement for nitrate (as nitrate) concentration in micromoles per liter (uM). Asterisk marks Location_ID for which the location the data is collected from.,ESS-DIVE CSV,N/A; -9999,horizontal
+*_phosphate.csv,File containing anion chromatography measurement for phosphate concentration in micromoles per liter (uM). Asterisk marks Location_ID for which the location the data is collected from.,ESS-DIVE CSV,N/A; -9999,horizontal
+*_sulfate.csv,File containing anion chromatography measurement for sulfate concentration in micromoles per liter (uM). Asterisk marks Location_ID for which the location the data is collected from.,ESS-DIVE CSV,N/A; -9999,horizontal

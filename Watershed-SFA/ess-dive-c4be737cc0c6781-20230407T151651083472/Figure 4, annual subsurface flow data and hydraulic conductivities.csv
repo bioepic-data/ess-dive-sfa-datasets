@@ -1,0 +1,12 @@
+"Figure 4a.,",,,,,,,Figure 4b.,,,,,,
+,P-ET,Pe-ET,Qa(measured K),Qa(2-yr fit K),Qa(5-yr fit K),,,,measured K,2-year fit K,,5-year fit K,
+,,508mm threshold,,508mm threshold,508mm threshold,,,,,average,stdev,average,stdev
+,mm,mm,mm,mm,mm,,surface soil K,m/s,9.70E-06,8.85E-04,2.35E-04,1.47E-04,8.28E-06
+WY2017,389.1,343.4,388.7,343.4,344.9,,subsoil K,m/s,7.90E-06,1.08E-04,8.19E-05,2.71E-04,1.19E-05
+WY2018,-8.2,37.5,348.2,37.6,101.1,,weathering zone K,m/s,1.10E-05,1.23E-06,3.24E-07,3.85E-06,1.70E-07
+WY2019,309.6,269.0,356.6,129.8,262.6,,bedrock T (fit),m2/s,1.42E-05,1.04E-06,1.45E-07,2.26E-06,3.71E-07
+WY2020,113.3,153.9,336.6,31.4,83.6,,,,,,,,
+WY2021,68.7,68.7,324.5,29.9,79.6,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

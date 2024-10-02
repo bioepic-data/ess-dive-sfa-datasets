@@ -1,0 +1,19 @@
+﻿Column_or_Row_Name,Unit,Definition,Column_or_Row_Long_Name,Data_Type
+sampleID,N/A,"Descriptive sample identifier indicating sampling site and date, core number and sampling depth.",Unique sample identifier,text
+IGSN,N/A,Unique geologic sample registration identifier.,Intervational Geo Sample Number,text
+plot,N/A,"Experimental field plot replicate number. Each numberc corresponds to a pair of plots, where one was heated by 4 degree Celsius above ambient temperature and the other was not; see variable Field_Treatment.",Field soil plot,text
+soilDepth,cm,"Soil depth interval, below the surface.",Depth interval,text
+fieldTreatment,N/A,"Experimental temperature regime of the  field plot: Heated, soil plot heated by 4 degree Celsius above ambient temperature; or Control, unheated control soil plot.",Field temperature treatment,text
+amendment,N/A,"Nutrient amendment to soils at the beginning of the incubation: Control, no amendment; C, carbon amendment (cellulobiose); NP, nitrogen and phosphorus co-amendment (ammonium and phosphate); CNP, carbon, nitrogen, and phosphorus co-amendment (cellulobiose, ammonium, and phosphate)",Incubation amendment,text
+CO2_1,mg CO2-C/g dry soil/day,Respiration rate at day 1 of incubation. Missing data = -9999,CO2 rate day 1,numeric
+CO2_3,mg CO2-C/g dry soil/day,Respiration rate at day 3 of incubation. Missing data = -9999,CO2 rate day 3,numeric
+CO2_8,mg CO2-C/g dry soil/day,Respiration rate at day 8 of incubation. Missing data = -9999,CO2 rate day 8,numeric
+CO2_16,mg CO2-C/g dry soil/day,Respiration rate at day 16 of incubation. Missing data = -9999,CO2 rate day 16,numeric
+CO2_28,mg CO2-C/g dry soil/day,Respiration rate at day 28 of incubation. Missing data = -9999,CO2 rate day 28,numeric
+cumulativeRespiration,mg CO2-C/g dry soil,Cumulative respiration during the 28 day incubation. Missing data = -9999,Cumulative respiration,numeric
+ammonium_1,mg NH4-N/kg dry soil,Ammonium concentration at day 1 of incubation. Missing data = -9999,Ammonium day 1,numeric
+ammonium_28,mg NH4-N/kg dry soil,Ammonium concentration at day 28 of incubation. Missing data = -9999,Ammonium day 28,numeric
+nitrate_1,mg NO3-N/kg dry soil,Nitrate concentration at day 1 of incubation. Missing data = -9999,Nitrate day 1,numeric
+nitrate_28,mg NO3-N/kg dry soil,Nitrate concentration at day 28 of incubation. Missing data = -9999,Nitrate day 28,numeric
+CUE,N/A,Microbial carbon use effciency at day 28 of incubation. Missing data = -9999,Carbon use efficency,numeric
+netNmineralization,mg N/kg dry soil/day,Net N mineralization rate during the incubation. Missing data = -9999,Net N mineralization,numeric

@@ -1,0 +1,25 @@
+Simulation,Description,Reactions considered, Water Level,Temperature
+Steady water table and fixed temperature simulations,,,,
+S1,Base case simulation (no microbial reactions),Table 4,Constant levels,Constant T
+,,,,(12 °C)
+S2,S1 + microbial contributions from heterotrophic processes,S1 + Table 5 (,Constant levels,Constant T
+,,",",,(12 °C)
+,,",",,
+,,",",,
+,,",",,
+,,",and ",,
+,,),,
+,,,,
+S3,S1 + microbial contributions from heterotrophic and chemolithoautotrophic processes,S2 + Table 5 (,Constant levels,Constant T
+,,",",,(12 °C)
+,,",",,
+,,and,,
+,,),,
+Simulations to capture short-term water table rise and temperature gradients,,,,
+S3.1,S3 + water table rise in the April – June 2013 time frame,Same as S3,Fluctuating,Constant T
+,,,,(12 °C)
+S3.1’,S3 + water table fluctuations in the April 2013 – April 2014 time frame,Same as S3,Fluctuating,Constant T
+,,,,(12 °C)
+S3.2,S3 + temperature gradient on June 2013 ,Same as S3,Constant levels,Fixed  Gradient
+,,,,
+S3.2’,S3 + temperature fluctuations in the April 2013 – April 2014 time frame,Same as S3,Constant levels,Fluctuating 

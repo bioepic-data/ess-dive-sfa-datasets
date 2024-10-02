@@ -1,0 +1,15 @@
+﻿Site,
+Depth,
+14C TT,radiocarbon-derived C turnover time (years)
+%C,
+Fep,Operationally define organically complexed Fe (g kg-1 soil)
+Alp,Operationally define organically complexed Al (g kg-1 soil)
+Feo-p,Operationally-defined poorly crystalline Fe (g kg-1 soil)
+Alo-p,Operationally-defined poorly crystalline Al (g kg-1 soil)
+Feo-p + Alo-p,
+MAST,Mean annual soil temp (oC)
+MASM,Mean annual soil moisture (oC)
+MAT,Mean annual air temp (oC)
+MAP,Mean annual soil temp (oC)
+Earthworm,activity? (Y/N)
+pH,

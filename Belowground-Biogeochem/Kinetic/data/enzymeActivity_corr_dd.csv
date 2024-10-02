@@ -1,0 +1,9 @@
+﻿Column_or_Row_Name,Unit,Definition,Column_or_Row_Long_Name,Data_Type
+sampleID,N/A,"Descriptive sample identifier indicating sampling site and date, core number and sampling depth.",Unique sample identifier,text
+IGSN,N/A,Unique geologic sample registration identifier.,Intervational Geo Sample Number,text
+core,N/A,Name of replicate soil core.,Core,text
+depth,cm,"Depth interval in the soil core, below the surface.",Depth interval,text
+enzyme,N/A,Abbreviaton of enzyme type. See accompanying file: enzymeTraits_design_results_tables.xlsx,Enzyme type,text
+temperature,degreeCelsius,Incubation temperature of the enzyme assay.,Incubation temperature,numeric
+substrate_conc,micromolar,Concentration of fluorogenic substrate added to the assay.,Substrate concentration,numeric
+activity,nmol/g_dry_soil/h,Potential enzyme activity rate based on fluorometric assay. Missing data = -9999,Activity rate,numeric

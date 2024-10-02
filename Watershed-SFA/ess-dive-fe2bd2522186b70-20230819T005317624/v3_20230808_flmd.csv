@@ -1,0 +1,6 @@
+File_Name,File_Description,Standard,Missing_Value_Codes,Data_Orientation
+v3_20230808_flmd.csv,File-level metadata associated with dataset. This file is an updated version (version 3) of the file-level metadata file.,ESS-DIVE FLMD,"N/A, -9999",horizontal
+v3_20230808_dd.csv,Data dictionary defining column headers and other terms across the dataset. This file is an updated version (version 3) of the data dictionary file.,ESS-DIVE FLMD,"N/A, -9999",horizontal
+locations.csv,Location information for the sites containing data. This file contains both Location_IDs and the latitude and longitude measurements associated with the Location_IDs. Latitude and longitude measurements are in WGS84 format.,ESS-DIVE CSV,"N/A, -9999",horizontal
+*_deltad.csv,Data for liquid water delta2H measured in parts per thousand. Asterisk marks Location_ID for which the location the data is collected from.,ESS-DIVE CSV,"N/A, -9999",horizontal
+*_deltao18.csv,Data for liquid water delta18O measured in parts per thousand. Asterisk marks Location_ID for which the location the data is collected from.,ESS-DIVE CSV,"N/A, -9999",horizontal

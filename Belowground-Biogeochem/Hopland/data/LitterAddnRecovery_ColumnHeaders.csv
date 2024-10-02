@@ -1,0 +1,31 @@
+Year,year sampled
+Block,
+Treatment,experimental treatment applied
+Litter Addn,horizon to which litter was added
+Horiozn,Horizon ro which labeled litter was added
+Lysimeter,number
+depth,cm
+increment,depth increment (cm)
+gwc_2mm,gravimetric water content of the <2mm bulk soil (mass water/mass soil)
+m_soil,mass of <2mm soil recovered (g)
+m_co_rt,mass of >2mm diam (coarse) root (g)
+m_fi_rt,mass of <2mm diam (fine) root (g)
+m_rt,mass of root (g)
+C13_soil,d13C of <2mm soil
+C13_co_rt,d13C of coarse root
+C13_fi_rt,d13C of fine root
+F_soil,Fractional abundance of 13C in the soil sample
+F_co_rt,Fractional abundance of 13C in the soil sample
+F_fi_rt,Fractional abundance of 13C in the soil sample
+C_soil,g C / g Soil
+C_co_rt,g C / g coarse root
+C_fi_rt,g C / g fine root
+Fc_soil,fractional abundance of 13C in the disturbance control calculated separately for each sampling and treatment
+Fc_rt,fractional abundance of 13C in the applied root ltter
+x_soil,Porportion of C in soil dereived from labeled root litter
+x_coroot,Porportion of C in coarse roots dereived from labeled root litter
+x_firoot,Porportion of Cin fine roots dereived from labeled root litter
+g_C_soil,g C in recovered <2mm soil
+g_C_co_rt,g C in recovered coarse roots
+g_C_fi_rt,g C in recovered in fine roots
+g_C_added to A or B,Labeled litter addition (g C)

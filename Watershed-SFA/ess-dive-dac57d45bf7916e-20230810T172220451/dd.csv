@@ -1,0 +1,292 @@
+Column_or_Row_Name,Unit,Definition,Data_Type
+File_Name,N/A,Name of the files in the dataset/data package.,text
+File_Description,N/A,A brief description of the files in the dataset/data package.,text
+Standard,N/A,Standard applied to the data file.,text
+UTC_Offset,N/A,UTC offset of date/timestamp.,numeric
+File_Version,N/A,Version number of file.,numeric
+Contact,N/A,Contact for the associated file.,text
+Date_Start,YYYY-MM-DD,Start of data contained within file.,date
+Date_End,YYYY-MM-DD,End of data contained within file.,date
+Missing_Value_Codes,N/A,Missing value codes.,text
+Data_Orientation,N/A,Orientation of the field name row or column.,text
+File_Path,N/A,File path within the data package.,text
+Column_or_Row_Name,N/A,Column or row name contained within a file.,text
+Unit,N/A,Unit of column or row name.,text
+Definition,N/A,Definition of column or row name.,text
+Data_Type,N/A,Type of data that the column or row contains.,text
+Sample,N/A,Sample name and location name of tracer data collection.,text
+Sample_Date,MM/DD/YYYY,Date of sample collection for tracer data.,date
+CFC11,pmol/kg,CFC11 measurement in pmol/kg. All samples analyzed at the University of Utah's Noble Gas Lab. The CFC concentrations are means of triplicate samples.,numeric
+CFC11_sd,pmol/kg,Standard deviation of CFC11. 1 standard deviation of the triplicate samples.,numeric
+CFC12,pmol/kg,CFC12 measurement in pmol/kg. All samples analyzed at the University of Utah's Noble Gas Lab. The CFC concentrations are means of triplicate samples.,numeric
+CFC12_sd,pmol/kg,Standard deviation of CFC12. 1 standard deviation of the triplicate samples.,numeric
+CFC113,pmol/kg,CFC13 measurement in pmol/kg. All samples analyzed at the University of Utah's Noble Gas Lab. The CFC concentrations are means of triplicate samples.,numeric
+CFC113_sd,pmol/kg,Standard deviation of CFC13. 1 standard deviation of the triplicate samples.,numeric
+SF6,fmol/kg,SF6 measurement in fmol/kg. All samples analyzed at the University of Utah's Noble Gas Lab.,numeric
+H3,TU,H3 measurement in TU. All samples analyzed at the University of Utah's Noble Gas Lab.,numeric
+H3_sd,TU,Standard deviation of H3. 1 standard deviation reported by University of Utah Noble Gas Lab.,numeric
+SiteID,N/A,Site where sample was collected for noblegas measurements.,text
+Date Sampled,MM/DD/YYYY,Date of sample collection for noble gas data.,date
+Date Run,MM/DD/YYYY,Date of sample run for noble gas data.,date
+4He,ccSTP/g(H2O) ,4He measurement in ccSTP/g(H2O).,numeric
+err4He,ccSTP/g(H2O) ,Error for 4He measurement.,numeric
+Ne,ccSTP/g(H2O) ,Ne measurement in ccSTP/g(H2O).,numeric
+errNe,ccSTP/g(H2O) ,Error for Ne measurement.,numeric
+Ar,ccSTP/g(H2O) ,Ar measurement in ccSTP/g(H2O).,numeric
+errAr,ccSTP/g(H2O) ,Error for Ar measurement.,numeric
+Kr,ccSTP/g(H2O) ,Kr measurement in ccSTP/g(H2O).,numeric
+errKr,ccSTP/g(H2O) ,Error for Kr measurement.,numeric
+Xe,ccSTP/g(H2O) ,Xe measurement in ccSTP/g(H2O).,numeric
+errXe,ccSTP/g(H2O) ,Error for Xe measurement.,numeric
+N2,ccSTP/g(H2O) ,N2 measurement in ccSTP/g(H2O). N2 value based on N2/Ar ratio measured on Quadrapole Mass Spectrometer multiplied by Ar from MAP 215-50.,numeric
+errN2,ccSTP/g(H2O) ,Error for N2 measurement.,numeric
+CH4,ccSTP/g(H2O) ,Ch4 measurement in ccSTP/g(H2O).,numeric
+errCH4,ccSTP/g(H2O) ,Error for CH4 measurement.,numeric
+R/Ra,N/A, Measured 3He/4He of sample divided by 3He/4He ratio of air.,numeric
+errR/Ra,N/A, Error for measured 3He/4He of sample divided by 3He/4He ratio of air.,numeric
+3He,ccSTP/g(H2O) ,3He measurement in ccSTP/g(H2O),numeric
+err3He,ccSTP/g(H2O) ,Error for 3He measurement in ccSTP/g(H2O),numeric
+20Ne/22Ne,N/A,Measured Ne isotope ratio.,numeric
+err20Ne/22Ne,N/A,Error for measured Ne isotope ratio.,numeric
+40Ar/36Ar,N/A,Measured Ar isotope ratio.,numeric
+err40Ar/36Ar,N/A,Error for measured Ar isotope ratio.,numeric
+86Kr/84Kr,N/A,Measured Kr isotope ratio.,numeric
+err86Kr/84Kr,N/A,Error for measured Kr isotope ratio.,numeric
+130Xe/132Xe,N/A,Measured Xe isotope ratio.,numeric
+err130Xe/132Xe,N/A,Error for measured Xe isotope ratio.,numeric
+Laboratory Comments,N/A,Laboratory comments associated with data collection or analysis.,text
+CFC11,pptv,cfc11 input concentration in pptv,numeric
+CFC12,pptv,cfc12 input concentration in pptv,numeric
+CFC113,pptv,cfc113 input concentration in pptv,numeric
+SF6,pptv,sf6 input concentration in pptv,numeric
+H3,tu,tritum input concentration in tritium units (TU).,numeric
+run,N/A,Model run number,numeric
+mod,N/A,Model type identifier.,text
+f1,N/A,Mixing fraction for component 1 in lumped parameter mdoel.,numeric
+f2,N/A,Mixing fraction for component 2 in lumped parameter mdoel.,numeric
+tau1,years,Mean residence time of mixing component 1,numeric
+tau2,years,Mean residence time of mixing component 2,numeric
+tau,years,Mean residence time of combined mixing componenets,numeric
+eta1,N/A,Shape factor for exponential-piston flow model; mixing fraction 1,numeric
+eta2,N/A,Shape factor for exponential-piston flow model; mixing fraction 2,numeric
+D1,N/A,Dispersion coefficient for mixing fraction 1,numeric
+D2,N/A,Dispersion coefficient for mixing fraction 2,numeric
+bbar,millimeters,Average fraction fracture aperature,text
+Phi_im,N/A,Porosity of immobile zone/matrix,text
+He4_ter_1,ccSTP/g(H2O) ,Terrigentic 4He; mixing component 1,numeric
+He4_ter,ccSTP/g(H2O) ,Terrigentic 4He,numeric
+CFC12_1,pptv,modeled cfc12; mixing component 1,numeric
+CFC12,pptv,modeled cfc12,numeric
+H3_1,tu,modeled tritium; mixing component 1,numeric
+H3,tu,modeled tritium,numeric
+He3_1,ccSTP/g(H2O) ,modeled 3He; mixing component 1,numeric
+He3,ccSTP/g(H2O) ,modeled 3He,numeric
+SF6_1,pptv,modeld sf6; mixing component 1,numeric
+SF6,pptv,modeled sf6,numeric
+H3_He3,N/A,modeled H3 to He3 ratio,numeric
+He4_ter_2,ccSTP/g(H2O) ,Terrigentic 4He; mixing component 2,numeric
+CFC12_2,pptv,modeled cfc12; mixing component 2,numeric
+H3_2,tu,modeled tritium; mixing component 2,numeric
+He3_2,ccSTP/g(H2O) ,modeled 3He; mixing component 2,numeric
+SF6_2,pptv,modeled sf6; mixing component 2,numeric
+Year,YYYY,year for reconstructed cfc and sf6 input timeseries,date
+CFC11NH,ppt,cfc11 concentration in northern hemisphere,numeric
+CFC11SH,ppt,cfc11 concentration in southern hemisphere,numeric
+CFC12NH,ppt,cfc12 concentration in northern hemisphere,numeric
+CFC12SH,ppt,cfc12 concentration in southern hemisphere,numeric
+CFC113NH,ppt,cfc113 concentration in northern hemisphere,numeric
+CFC113SH,ppt,cfc113 concentration in southern hemisphere,numeric
+CCl4NH,ppt,ccl4 concentration in northern hemisphere,numeric
+CCl4SH,ppt,ccl4 concentration in southern hemisphere,numeric
+SF6NH,ppt,sf6 concentration in northern hemisphere,numeric
+SF6SH,ppt,sf6 concentration in southern hemisphere,numeric
+N2ONH,ppb,n2o concentration in northern hemisphere,numeric
+N2OSH,ppb,n2o concentration in southern hemisphere,numeric
+cfc11_ppt,ppt,cfc11 input timeseries,numeric
+cfc12_ppt,ppt,cfc12 input timeseries,numeric
+cfc113_ppt,ppt,cfc113 input timeseries,numeric
+sf6_ppt,ppt,sf6 input timeseries,numeric
+Month,N/A,month number,text
+Correlation,N/A,"Correlation type (options: a, b, rsquared)",text
+Bismark_ND,N/A,correlation coefficient,numeric
+Boston_MA,N/A,correlation coefficient,numeric
+Cape_Hatteras_NC,N/A,correlation coefficient,numeric
+Chicago_IL,N/A,correlation coefficient,numeric
+Lincoln_NE,N/A,correlation coefficient,numeric
+Madison_WI,N/A,correlation coefficient,numeric
+Ocala_FL,N/A,correlation coefficient,numeric
+Salt_Lake_City_UT,N/A,correlation coefficient,numeric
+Waco_TX,N/A,correlation coefficient,numeric
+Washington_DC,N/A,correlation coefficient,numeric
+"49-47,125-120",N/A,correlation coefficient,numeric
+"49-47,120-115",N/A,correlation coefficient,numeric
+"49-47,115-110",N/A,correlation coefficient,numeric
+"49-47,110-105",N/A,correlation coefficient,numeric
+"49-47,105-100",N/A,correlation coefficient,numeric
+"49-47,100-95",N/A,correlation coefficient,numeric
+"49-47,<95",N/A,correlation coefficient,numeric
+"47-45,125-120",N/A,correlation coefficient,numeric
+"47-45,120-115",N/A,correlation coefficient,numeric
+"47-45,115-110",N/A,correlation coefficient,numeric
+"47-45,110-105",N/A,correlation coefficient,numeric
+"47-45,105-100",N/A,correlation coefficient,numeric
+"47-45,100-95",N/A,correlation coefficient,numeric
+"47-45,95-90",N/A,correlation coefficient,numeric
+"47-45,90-85",N/A,correlation coefficient,numeric
+"47-45,70-65",N/A,correlation coefficient,numeric
+"45-43,125-120",N/A,correlation coefficient,numeric
+"45-43,120-115",N/A,correlation coefficient,numeric
+"45-43,115-110",N/A,correlation coefficient,numeric
+"45-43,110-105",N/A,correlation coefficient,numeric
+"45-43,105-100",N/A,correlation coefficient,numeric
+"45-43,100-95",N/A,correlation coefficient,numeric
+"45-43,95-90",N/A,correlation coefficient,numeric
+"45-43,90-85",N/A,correlation coefficient,numeric
+"45-43,85-80",N/A,correlation coefficient,numeric
+"45-43,80-75",N/A,correlation coefficient,numeric
+"45-43,75-70",N/A,correlation coefficient,numeric
+"45-43,<70",N/A,correlation coefficient,numeric
+"43-41,125-120",N/A,correlation coefficient,numeric
+"43-41,120-115",N/A,correlation coefficient,numeric
+"43-41,115-110",N/A,correlation coefficient,numeric
+"43-41,110-105",N/A,correlation coefficient,numeric
+"43-41,105-100",N/A,correlation coefficient,numeric
+"43-41,100-95",N/A,correlation coefficient,numeric
+"43-41,95-90",N/A,correlation coefficient,numeric
+"43-41,90-85",N/A,correlation coefficient,numeric
+"43-41,85-80",N/A,correlation coefficient,numeric
+"43-41,80-75",N/A,correlation coefficient,numeric
+"43-41,<75",N/A,correlation coefficient,numeric
+"41-39,125-120",N/A,correlation coefficient,numeric
+"41-39,120-115",N/A,correlation coefficient,numeric
+"41-39,115-110",N/A,correlation coefficient,numeric
+"41-39,110-105",N/A,correlation coefficient,numeric
+"41-39,105-100",N/A,correlation coefficient,numeric
+"41-39,100-95",N/A,correlation coefficient,numeric
+"41-39,95-90",N/A,correlation coefficient,numeric
+"41-39,90-85",N/A,correlation coefficient,numeric
+"41-39,85-80",N/A,correlation coefficient,numeric
+"41-39,80-75",N/A,correlation coefficient,numeric
+"41-39,<75",N/A,correlation coefficient,numeric
+"39-37,125-120",N/A,correlation coefficient,numeric
+"39-37,120-115",N/A,correlation coefficient,numeric
+"39-37,115-110",N/A,correlation coefficient,numeric
+"39-37,110-105",N/A,correlation coefficient,numeric
+"39-37,105-100",N/A,correlation coefficient,numeric
+"39-37,100-95",N/A,correlation coefficient,numeric
+"39-37,95-90",N/A,correlation coefficient,numeric
+"39-37,90-85",N/A,correlation coefficient,numeric
+"39-37,85-80",N/A,correlation coefficient,numeric
+"39-37,<80",N/A,correlation coefficient,numeric
+"37-35,125-120",N/A,correlation coefficient,numeric
+"37-35,120-115",N/A,correlation coefficient,numeric
+"37-35,115-110",N/A,correlation coefficient,numeric
+"37-35,110-105",N/A,correlation coefficient,numeric
+"37-35,105-100",N/A,correlation coefficient,numeric
+"37-35,100-95",N/A,correlation coefficient,numeric
+"37-35,95-90",N/A,correlation coefficient,numeric
+"37-35,90-85",N/A,correlation coefficient,numeric
+"37-35,85-80",N/A,correlation coefficient,numeric
+"37-35,<80",N/A,correlation coefficient,numeric
+"35-33,120-115",N/A,correlation coefficient,numeric
+"35-33,115-110",N/A,correlation coefficient,numeric
+"35-33,110-105",N/A,correlation coefficient,numeric
+"35-33,105-100",N/A,correlation coefficient,numeric
+"35-33,100-95",N/A,correlation coefficient,numeric
+"35-33,95-90",N/A,correlation coefficient,numeric
+"35-33,90-85",N/A,correlation coefficient,numeric
+"35-33,85-80",N/A,correlation coefficient,numeric
+"35-33,<80",N/A,correlation coefficient,numeric
+"33-31,120-115",N/A,correlation coefficient,numeric
+"33-31,115-110",N/A,correlation coefficient,numeric
+"33-31,110-105",N/A,correlation coefficient,numeric
+"33-31,105-100",N/A,correlation coefficient,numeric
+"33-31,100-95",N/A,correlation coefficient,numeric
+"33-31,95-90",N/A,correlation coefficient,numeric
+"33-31,90-85",N/A,correlation coefficient,numeric
+"33-31,<85",N/A,correlation coefficient,numeric
+"31-29,105-100",N/A,correlation coefficient,numeric
+"31-29,100-95",N/A,correlation coefficient,numeric
+"31-29,95-90",N/A,correlation coefficient,numeric
+"31-29,90-85",N/A,correlation coefficient,numeric
+"31-29,<85",N/A,correlation coefficient,numeric
+"29-27,100-95",N/A,correlation coefficient,numeric
+"29-27,85-80",N/A,correlation coefficient,numeric
+"<27,100-95",N/A,correlation coefficient,numeric
+"<27,85-80",N/A,correlation coefficient,numeric
+Year,N/A,year number,numeric
+Month,N/A,month number,numeric
+Group,N/A,global network of isotopes in precipitation identifier,text
+Project,N/A,global network of isotopes in precipitation identifier,text
+Site,N/A,global network of isotopes in precipitation site name,text
+Country,N/A,global network of isotopes in precipitation country,text
+WMO Code,N/A,global network of isotopes in precipitation identifier,text
+Latitude,N/A,global network of isotopes in precipitation site latitude,numeric
+Longitude,N/A,global network of isotopes in precipitation site longitude ,numeric
+Altitude,N/A,global network of isotopes in precipitation site altitude,numeric
+Type of Site,N/A,global network of isotopes in precipitation identifier,text
+Source of Information,N/A,global network of isotopes in precipitation identifier,text
+Sample Name,N/A,global network of isotopes in precipitation identifier,numeric
+Media Type,N/A,global network of isotopes in precipitation identifier,text
+Date,N/A,global network of isotopes in precipitation identifier,date
+Begin of Period,N/A,global network of isotopes in precipitation identifier,date
+End of Period,N/A,global network of isotopes in precipitation identifier,date
+Comment,N/A,global network of isotopes in precipitation identifier,text
+O18,permill,global network of isotopes in precipitation O18 concentration,numeric
+O18 Provider,N/A,global network of isotopes in precipitation identifier,text
+H2,permill,global network of isotopes in precipitation H2 concentration,numeric
+H2 Provider,N/A,global network of isotopes in precipitation identifier,text
+H3,tu,global network of isotopes in precipitation H3 concentration,numeric
+H3 Error,N/A,global network of isotopes in precipitation H2 concentration error,numeric
+H3 Provider,N/A,global network of isotopes in precipitation identifier,text
+Precipitation,mm,global network of isotopes in precipitation identifier,numeric
+Air Temperature,C,global network of isotopes in precipitation identifier,numeric
+Vapour Pressure,pa,global network of isotopes in precipitation identifier,numeric
+well,N/A,well name,text
+dNe,%,percent difference in modeled and measured Ne concentration,numeric
+dNe_1sd,%,1 standard deviation in percent difference in modeled and measured Ne concentration,numeric
+1sd_m,meters/celsius,1 standard deviation in modeled lapse rate slope,numeric
+b,meters,modeled lapse rate intercept,numeric
+1sd_b,meters,1 standard deviation in modeled lapse rate intercept,numeric
+Ae,ccSTP/g(H2O) ,modeled initial excess air volume,numeric
+1sd_Ae,ccSTP/g(H2O) ,1 standard deviation in modeled excess air volume,numeric
+F,N/A,modeled excess air fractionation factor,numeric
+1sd_F,N/A,1 standard deviation in modeled excess air fractionation factor,numeric
+E,meters,modeled recharge elevation,numeric
+1sd_E,meters,1 standard deviation in modeled recharge elevation,numeric
+T,celsius,modeled recharge temperature,numeric
+1sd_T,celsius,1 standard deviation in modeled recharge temperature,numeric
+mean,variable,MCMC mean of variable of interest,numeric
+sd,variable,MCMC standard deviation of variable of interest,numeric
+hdi_3%,variable,MCMC 3% probability density of variable of interest,numeric
+hdi_97%,variable,MCMC 97% probability density of variable of interest,numeric
+mcse_mean,variable,MCMC output statistic,numeric
+mcse_sd,variable,MCMC output statistic,numeric
+ess_bulk,N/A,MCMC effective sample size,numeric
+ess_tail,N/A,MCMC effective sample size,numeric
+r_hat,N/A,MCMC convergence statistic,numeric
+median,variable,MCMC median of variable of interest,numeric
+wells,N/A,well name,text
+He,ccSTP/g(H2O) ,He concentration,numeric
+He_err,ccSTP/g(H2O) ,error in He concentration,numeric
+Ne,ccSTP/g(H2O) ,Ne concentration,numeric
+Ne_err,ccSTP/g(H2O) ,error in Ne concentration,numeric
+Ar,ccSTP/g(H2O) ,Ar concentration,numeric
+Ar_err,ccSTP/g(H2O) ,error in Ar concentration,numeric
+Kr,ccSTP/g(H2O) ,Kr concentration,numeric
+Kr_err,ccSTP/g(H2O) ,error in Kr concentration,numeric
+Xe,ccSTP/g(H2O) ,Xe concentration,numeric
+Xe_err,ccSTP/g(H2O) ,error in Kr concentration,numeric
+Parameter Category,N/A,Parameter type category,text
+Parameter,N/A,Variable of measurement,text
+Location,N/A,Name of location of air temperature measurement,text
+Depth,meters,Depth of measurement location,numeric
+Timestamp,MM/DD/YYYY,Date of air temperature measurement,date
+Value,degreesCelsius,Air temperature measurement value in degreesCelsius,numeric
+Unit,N/A,Unit of air temperature measurement,text
+Data Source,N/A,Source of data,text
+Location,N/A,Site name,text
+Note,N/A,Site note,text
+Lat,UTM,Latitude of location for measurement,numeric
+Long,UTM,Longitude of location for measurement,numeric
+Elevation_ft,feet,Elevation of location for measurement,numeric

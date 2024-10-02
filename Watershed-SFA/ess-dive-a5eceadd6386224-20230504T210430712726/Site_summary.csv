@@ -1,0 +1,54 @@
+Read me:,This data package is divided into 4 use cases that correspond to the 4 scenerios described in Chen et al. 2020 (in review). ,,,,,,,,
+Use Case 1,This use case mainly include Fluxnet sites and simulated ET and RECO results from HPM. The objective for this use case is to test HPM's capability for estimating flux over time,,,,,,,,
+Use Case 2,This use case aims at testing HPM's capability for estimating flux over space with one Fluxnet used for model development and another site in the same ecoregion for validation,,,,,,,,
+Use Case 3,"This use case involves simulated ET data from CLM at Snotel sites. Weather forcing inputs from Daymet, SNOTEL are combined together.",,,,,,,,
+Use Case 4,"This use case includes 16 locations selected at the East River Watershed with 4 distinctive vegetation types, including deciduous forests (DF), evergreen forests (EF), riparian shrubland (RS) and meadow grassland (MS)",,,,,,,,
+Fluxnet and SNOTEL sites,,Original fluxnet data can be acquired from fluxnet.fluxdata.org,,,,,,,
+Site ID,Site Name,"Latitude, Longitude",Elevation (m),Mean Annual temperature (,Mean Annual  Precipitation (m),Climate Koeppen,Vegetation IGBP,Ecoregions (Level II),Period of Record 
+,,,,),,,,,
+US-NR1,Niwot Ridge,"(40.0329, -105.5464)",3050,1.5,800,Dfc,ENF,Western Cordillera,2000-2014
+CA-Oas,Saskatchewan-Aspen,"(53.6289, -106.1978)",530,0.34,428.53,Dfc,DBF,Boreal Plain,1997-2010
+CA-Obs,Saskatchewan-Black Spruce,"(53.9872, -105.1178)",628.94,0.79,405.6,Dfc,ENF,Boreal Plain,1999-2010
+US-SRM,Santa Rita Mesquite,"(31.8214, -110.8661)",1120,17.92,380,Bsk,WSA,Western Sierra Madre Piedmont,2005-2015
+US-Ton,Tonzi Ranch,"(38.4316, -120.9660)",177,15.8,559,Csa,WSA,Mediterranean California,2002-2015
+US-Var,Vaira Ranch-lone,"(38.4133, -120.9507)",129,15.8,559,Csa,GRA,Mediterranean California,2002-2015
+US-Whs,Walnut Gulch Lucky Hills Shrub,"(31.7438, -110.0522)",1370,17.6,320,Bsk,OSH,Western Sierra Madre Piedmont,2008-2015
+US-Wkg,Walnut Gulch Kendall Grasslands,"(31.7365, -109.9419)",1531,15.64,407,Bsk,GRA,Western Sierra Madre Piedmont,2005-2015
+ER-BT*,East River-Butte,"(38.894, -106.945)",3096,2.38,821,Dfc,N/A,Western Cordillera,1995-2017
+ER-SP*,East River-Schofield Pass,"(39.02, -107.05)",3261,2.46,1064,Dfc,N/A,Western Cordillera,1995-2017
+ER-PK*,East River-Porphyry Creek,"(38.49, -106.34)",3280,1.97,574,Dfc,N/A,Western Cordillera,1995-2017
+,,,,,,,,,
+East River Sites,,Original SNOTEL data can be acquired from https://www.wcc.nrcs.usda.gov/snow/,,,,,,,
+Site_id,Easting (m),Northing (m),Vegetation Type,Aspect,Elevation (m),,,,
+DF1,327085,4309878,Deciduous Forest,South,2983,,,,
+DF2,326288,4312504,Deciduous Forest,South,3177,,,,
+DF3,330012,4313132,Deciduous Forest,North,3108,,,,
+DF4,326854,4313192,Deciduous Forest,South,3098,,,,
+MS1,328246,4312832,Meadow,South,3095,,,,
+MS2,327010,4315059,Meadow,South,2790,,,,
+MS3,328738,4306139,Meadow,North,2890,,,,
+MS4,334270,4309465,Meadow ,North,2929,,,,
+RS1,333406.5,4308340,Riparian Shrubland,South,2760,,,,
+RS2,327846,4312497,Riparian Shrubland,South,2723,,,,
+RS3,334641,4305632,Riparian Shrubland,North,2740,,,,
+RS4,330760,4310097,Riparian Shrubland,South,2855,,,,
+EF1,329573,4314569,Evergreen Forest,South,3026,,,,
+EF2,333106,4307313,Evergreen Forest,North,3102,,,,
+EF3,325056,4310456,Evergreen Forest,South,2961,,,,
+EF4,335141,4309614,Evergreen Forest,North,3131,,,,
+,,,,,,,,,
+Data Variables,Name,Unit,,,,,,,
+AirT,Air temperature,degreeC,,,,,,,
+P,Rain precipitation,mm,,,,,,,
+SR,Solar radiation,W/m2,,,,,,,
+days,Day of year,,,,,,,,
+sn,Snow precipitation ,mm,,,,,,,
+RECO,Measured ecosystem respiration,gCm-2d-1,,,,,,,
+HPM_RECO,HPM estimated ecosystem respiration,gCm-2d-1,,,,,,,
+ET,Measured evapotranspiration,mm/d,,,,,,,
+HPM_ET,HPM estimated evapotranspiration,mm/d,,,,,,,
+NDVI,Normalized difference vegetation index,,,,,,,,
+SoilT,Soil temperature,degreeC,,,,,,,
+VWC,Volumetric water content,,,,,,,,
+,,,,,,,,,
+"For data variables in SNOTEL sites (ER-**), all variables start with site name are from SNOTEL database; all variables start with ""CLM"" are used for CLM; and other climate forcing variables are from DAYMET data ",,,,,,,,,

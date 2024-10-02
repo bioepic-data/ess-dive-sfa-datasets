@@ -1,0 +1,47 @@
+Column_Header,Analyte,Units,Detection_Limit
+Date,local date,YYYY-MM-DD,-9999
+Time,local time,UTC-06 hr,-9999
+water level,water level,cm below ground surface,-9999
+pH,pH,N/A,-9999
+Cond,electrical conductivity,microSiemens per cm,-9999
+ORP,oxidation reduction potential,mV,-9999
+DO,dissolved oxygen,micromoles per liter,0.78
+FeII,Fe(II),micromoles per liter,1.43
+S-II,S(-II),micromoles per liter,3.12
+DOC,dissolved organic carbon,millimoles per liter,0.01
+DIC,dissolved inorganic carbon,millimoles per liter,0.01
+Na,Na,moles per liter,1.09E-06
+Mg,Mg,moles per liter,1.03E-06
+Mn,Mn,moles per liter,1.82E-09
+Ca,Ca,moles per liter,6.24E-07
+Fe,Fe,moles per liter,5.37E-09
+Li,Li,moles per liter,7.20E-08
+B,B,moles per liter,7.40E-07
+Al,Al,moles per liter,1.85E-07
+Si,Si,moles per liter,1.78E-05
+K,K,moles per liter,1.28E-07
+V,V,moles per liter,5.89E-09
+Cr,Cr,moles per liter,4.81E-09
+Se,Se,moles per liter,1.27E-07
+Ti,Ti,moles per liter,1.04E-08
+Ni,Ni,moles per liter,5.11E-09
+Co,Co,moles per liter,5.09E-09
+Cu,Cu,moles per liter,3.15E-07
+Zn,Zn,moles per liter,1.53E-07
+Ge,Ge,moles per liter,1.38E-08
+Rb,Rb,moles per liter,5.85E-10
+Sr,Sr,moles per liter,2.28E-09
+Zr,Zr,moles per liter,2.19E-09
+Mo,Mo,moles per liter,5.21E-09
+Ag,Ag,moles per liter,2.78E-09
+Cd,Cd,moles per liter,2.67E-09
+Sn,Sn,moles per liter,2.53E-09
+Sb,Sb,moles per liter,2.46E-09
+Cs,Cs,moles per liter,3.76E-10
+Ba,Ba,moles per liter,1.46E-09
+Eu,Eu,moles per liter,3.29E-10
+Pb,Pb,moles per liter,9.65E-10
+Th,Th,moles per liter,4.31E-10
+U,U,moles per liter,4.20E-11
+P,P,moles per liter,3.23E-06
+As,As,moles per liter,6.67E-09

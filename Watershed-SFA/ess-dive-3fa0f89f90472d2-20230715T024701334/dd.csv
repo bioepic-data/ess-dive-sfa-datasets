@@ -1,0 +1,108 @@
+Column_or_Row_Name,Unit,Definition,Data_Type
+Contact_Name,Free text,First and last name of the contact for the sensor.,text
+Contact_Email,Valid email,Email address for contact that is responsible for sensor.,text
+Contact_Affiliation,Free text,Affiliation of the person responsible for the sensor.,text
+Metadata_Provider_Name,Free text,Name of the person who provided the metadata for the sensor.,text
+Variable_Name,Free text,Variable measurement recorded by sensor.,text
+Instrument,N/A,Model number associated with the sensor.,text
+dateTime_Start,YYYY-MM-DD hh:mm,Date and time when sensor started collecting data.,numeric
+dateTime_End,YYYY-MM-DD hh:mm,Date and time when sensor stopped collecting data.,numeric
+Height_Depth,meters above or below ground surface,"Depth(s) at which measurements have been taken in units of ""m above or below ground surface"".",numeric
+Height_Depth_Reference,N/A,"Reference point for your depth measurement (options: ground, water surface, top of casing, other).",text
+Notes,Free text,"Provide additional details not already captured in the sensor metadata template that are needed to help interpret the data: notes on sensor malfunction, if variable you are providing in this row is derived, a sensor alias, details on on well casing, data logger information, seasonal operation of sensor",text
+Contact_Name,Free Text,Primary contact person for the location. This could be a PI or technician responsible for answering questions regarding the location and associated instrumentation,text
+Contact_Email,Valid Email,Best email address for the contact (can be an individual or group email address),text
+Contact_Affiliation,Free Text,Primary instittuion the contact is affiliated with.,text
+Metadata_Provider_Name,Free Text,Person/People who provided the location metadata.,text
+Location_ID,AA-XXXY,"Persistent site identifier that is unique across the East River Community Observatory. For the format AA-XXXY, where A is the drainage basin (except for Snodgrass), X is a letter and Y is a number. This site ID should be used while referring to the locations in datasets or publications about the site.",text
+Location_Name,Free Text,"A location name that is more commonly used. Location names are not necessarily unique, can change over time, and should not be solely used to identify sites.",text
+Location_Alias,Free Text,"An optional field to indicate other names or identifiers that have been used for the site, either before the formal site ID system was established or names used by other organizations.",text
+Location_Activity,Free Text,Keyword that indicates the primary purpose of the location being established as a measurement point (e.g. Water Quality Monitoring Station).,text
+Location_Category,Controlled List,"Choices are SFA Intensive, SFA Satellite, SFA One-off Sampling, SFA Collaborator, External Datasource. SFA Intensive then refers to the locations where several measurements are made and produce data for multiple years - e.g. the sites in Pumphouse, Snodgrass regions. SFA Satellite locations are other locations where there is some regular sampling (e.g. Brush Creek Confluence), but it isn't part of a cohort of measurements. For locations that are sampled intermittently or only once, use SFA One-off sampling",text
+Measurement_Categories,Controlled List,"One or a combination of the following categories - Hydrogeology, Biogeochemistry, Climate, Vegetation. Multiple categories should be separated by semicolons.",text
+Years_Data_Collected,Free Text,Indicate dates of research activity at the location. If the site is no longer active include an end date. Otherwise specify as Start date - Present (as of date metadata was entered)  ,text
+Research_Theme,Free Text,A 5-10 word highlight for the type of scientific research conducted at the location,text
+Description,Free Text,A brief description of location and the purpose of data collection there,text
+Geographic_Region,Controlled List,This can be a region or subregion (or subcatchment) that the location belongs to.,text
+Parent_Location_ID,Controlled List,"This is used to construct the location hierarchy, and should be either another location ID or a region/sub-region/plot/transect that the location is a part of.",text
+Latitude,Decimal Degrees,"Coordinates for a point measurement. If the location is a plot, use the Plot tab to enter the bounding box coordinates",numeric
+Longitude,Decimal Degrees,"Coordinates for a point measurement. If the location is a plot, use the Plot tab to enter the bounding box coordinates",numeric
+Lat_Long_Measurement_Method,Free Text,How the latitude/longitude coordinates were obtained indicative of measurement precision,text
+Topographical_Elevation,m,The ground surface elevation of the location ,numeric
+Topo_Elev_Measurement_Method,Controlled List,"Choices are LIDAR, USGS DEM. When locations are within the LIDAR boundary they are assigned an elevation off the LIDAR measurements. Otherwise elevations are assigned based on the USGS Digital Elevation Model. ",text
+Depth_Profile_Elevations,Free Text,"For multilevel locations (e.g. instrumented wells, snow pits) indicate depths at which measurements have been made in units of ""m below ground surface"". Multiple depths should be separated by semicolons.",text
+Instrumentation,Free Text,"Description of instrumentation at the location. If the location was a sample, and no instrumentation is present mark as N/A",text
+Variables_Measured,Free Text,"If known, specify variables measured at the location.",text
+Related_Reference,Free Text,Published references with the location metadata. This could be a journal publication or a dataset publication,text
+DateTime,YYYY-MM-DD hh:mm,Date and time (to known resolution) of measurement.,date
+File_Name,N/A,Name of the files in the dataset/data package.,text
+File_Description,N/A,A brief description of the files in the dataset/data package.,text
+File_Path,N/A,File path within the data package.,text
+InstallationMethod_ID,N/A,Unique user-determined ID for a method described in the InstallationMethods_Description column in InstallationMethods.csv and listed as a metadata header row term in the data file(s).,text
+InstallationMethod_Description,N/A,"Free text field to describe the sensor installation/deployment design, structure, or general information.",text
+HeaderRows_*,N/A,"The number of header rows in a given data file(s). In each file, the number of header rows replaces the asterisk.",text
+Instrument_Summary,N/A,Free text field providing general information about the instrumentation used for a given column of data (e.g. make and model of sensor).,text
+Data_Type,N/A,Type of data (text; numeric; date).,text
+Standard,N/A,Standard applied to the data file.,text
+Contact,N/A,Contact for any questions regarding the associated file.,text
+Start_Date,YYYY-MM-DD,The earliest date of data contained in the file.,date
+End_Date,YYYY-MM-DD,The latest date of data contained in the file.,date
+Missing_Value_Codes,N/A,Missing value codes contained within the data file.,text
+Data_Orientation,N/A,Orientation of the field name row or column.,text
+Notes,N/A,Free text notes associated with row or column on data file.,text
+Depth,meters,Depth at which the sensor is deployed.,numeric
+Depth_Reference,N/A,Reference for measurement value for depth measurement.,text
+Elevation,meters_above_mean_sea_level_NAVD88,Elevation at which the sensor is deployed.,numeric
+Elevation_Reference,N/A,Reference for measurement value for elevation measurement.,text
+Site_Type,N/A,Water body type or local environmental context in which sensor was deployed. The field uses the ENVO controlled vocabulary https://www.ebi.ac.uk/ols/ontologies/envo).,text
+Configuration,N/A,Description of sensor installation/deployment configuration. The field uses the following controlled vocabulary: Well; Piezometer; Open water column; Buried in sediment or soil; Surface of sediment or soil; Engineered flow-through structure.,text
+Water_Name,N/A,Full name of water body at place of instrumentation.,text
+Site_Name,N/A,Site name associated with field sensor infrastructure.,text
+DateTime_Start,YYYY-MM-DD hh:mm:ss,Start date and time of an InstallationMethod_ID. YYYY-MM-DD hh:mm:ss.,date
+DateTime_End,YYYY-MM-DD hh:mm:ss,End date and time of an InstallationMethod_ID. YYYY-MM-DD hh:mm:ss.,date
+UTC_Offset,N/A,UTC offset of date/timestamp associated with location.,text
+Site_ID,N/A,Site ID (Location_ID) associated with the instrumentation within the field.,Column header
+Corrected_Depth,meters,Corrected water level depth measurement.,numeric
+Q,m3/s,"Streamflow measurement, see specific data file for instrumentation information.",numeric
+Error,percent,Error associated with streamflow measurement.,numeric
+Meter_Type,N/A,Meter used for measurement for data.,text
+Collector_(2nd),N/A,Name of person(s) who performed measurement.,text
+Notes,N/A,Notes associated with measurements.,text
+Number,N/A,Number associated with measurement.,numeric
+Diff_Press,kpa; psi,Differential pressure measurement. See metadata information for instrumentation details and dataflag_units for units.,numeric
+Abs_Press,kpa; psi,Absolute pressure measurement. See metadata information for instrumentation details and dataflag_units for units.,numeric
+Water_Temperature,"degree_celsius, degree_fahrenheit",Water temperature measurement. See metadata information for instrumentation details and dataflag_units for units.,numeric
+Water_Level,feet; meters,Water level measurement. See metadata information for instrumentation details and dataflag_units for units.,numeric
+Baro_Press,kpa; psi,Barometric pressure measurement. See metadata information for instrumentation details and dataflag_units for units.,numeric
+DataFlag_Units,N/A,Data flag for units. See metadata information for unit information.,numeric
+DataFlag_Time,N/A,Data flag for time. See metadata information for time zone information.,numeric
+WY_day,N/A,Day within water year for measurement.,numeric
+Water_level_above_sensor,meters,Water level measurement above sensor. See metadata information for instrumentation details.,numeric
+Streamflow,m3/s,"Streamflow measurement, see specific data file for instrumentation information.",numeric
+date,YYYY-MM-DD,Date of measurement collected.,date
+mean_daily_water_level_above_sensor,meters,Mean daily water level above sensor measurement. See metadata information for specifics on instrumentation.,numeric
+mean_daily_Q,m3/s,"Mean daily streamflow measurement, see specific data file for instrumentation information.",numeric
+time,hh:mm,Time of measurement collected.,time
+ms,N/A,Milliseconds for measurement collected.,time
+Daily_Mean_Sensor_Depth,meters,Mean daily sensor depth measurement. See metadata information for specifics on instrumentation.,numeric
+Daily_Mean_Q,N/A,"Mean daily streamflow measurement, see specific data file for instrumentation information.",numeric
+2016,N/A,"Streamflow measurement averages for a particular date in 2016, used to compare streamflow measurements across water years.",numeric
+2017,N/A,"Streamflow measurement averages for a particular date in 2017, used to compare streamflow measurements across water years.",numeric
+2018,N/A,"Streamflow measurement averages for a particular date in 2018, used to compare streamflow measurements across water years.",numeric
+2019,N/A,"Streamflow measurement averages for a particular date in 2019, used to compare streamflow measurements across water years.",numeric
+Average_m3/d_2016,m3/d,Average streamflow measurement per day in 2016.,numeric
+Average_m3/d_2017,m3/d,Average streamflow measurement per day in 2017.,numeric
+Average_m3/d_2018,m3/d,Average streamflow measurement per day in 2018.,numeric
+Average_m3/d_2019,m3/d,Average streamflow measurement per day in 2019.,numeric
+vol_AF_2016,N/A,Volumetric AF average in 2016.,numeric
+vol_AF_2017,N/A,Volumetric AF average in 2017.,numeric
+vol_AF_2018,N/A,Volumetric AF average in 2018.,numeric
+vol_AF_2019,N/A,Volumetric AF average in 2018.,numeric
+USGS_Almont_daily_Flow,m3/s,USGS Almont daily flow measurement for instantaneous measurements.,numeric
+Collectors,N/A,Name of person(s) who performed measurement.,text
+Corrected_Depth_Solinst,meters,Corrected water level depth measurement from Solinst.,numeric
+JF,Pascal,JF (pascal) measurement used in rating curve.,numeric
+Rustlers,meters,Rustlers (meters) measurement used in rating curve.,numeric
+Individual,N/A,Name of person(s) who performed measurement.,text
+HOST_Connect,N/A,HOST_Connect information noted within a raw data file.,text
+EOF,N/A,EOF information noted within a raw data file.,text

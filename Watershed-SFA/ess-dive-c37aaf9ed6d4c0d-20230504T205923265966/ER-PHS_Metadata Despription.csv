@@ -1,0 +1,45 @@
+Column Names,Company,Sensor,Units,Description
+Time,"Campbell, Meter",Data logger,-,Timestamp in Mountain Standard Time (MST).
+CO2_conc_(ppm),eosense,eosFD ,ppm,30-min scan of soil CO2 concentration
+CO2_flux_(umol/m2s),eosense,eosFD ,umol/m2s,30-min scan of soil CO2 flux
+Soil_heat_flux_(W/m2),Hukseflux,HFP01,W/m2,30-min scan of soil heat flux from soil surface
+PAR_(umol/m2s),Apogee,SQ-521,umol/m2s,30-min scan of photosynthetic active radiation flux at 1 m
+In_short_wave_(W/m2),Apogee,SN-500,W/m2,(Upward facing) 30-min scan of incoming short wave radiation at 1 m. Note the sensor is not heated.
+Out_short_wave_(W/m2),Apogee,SN-500,W/m2,(Downward facing) 30-min scan of outgoing short wave radiation at 1 m. Note the sensor is not heated.
+In_long_wave_(W/m2),Apogee,SN-500,W/m2,(Upward facing) 30-min scan of incoming long wave radiation at 1 m. Note the sensor is not heated.
+Out_long_wave_(W/m2),Apogee,SN-500,W/m2,(Downward facing) 30-min scan of outgoing long wave radiation at 1 m. Note the sensor is not heated.
+Net_short_wave_(W/m2),Calculated,Calculated,W/m2,User calculated net short wave radiation as [In_short_wave_(W/m2)] - [Out_short_wave_(W/m2)]
+Net_long_wave_(W/m2),Calculated,Calculated,W/m2,User calculated net long wave radiation as [In_long_wave_(W/m2)] - [Out_long_wave_(W/m2)]
+Net_rad_(W/m2),Calculated,Calculated,W/m2,User calculated net radiation as [Net_short_wave_(W/m2)] + [Net_long_wave_(W/m2)]
+Cal_oxygen_(%),Apogee,SO-421,pct,"30-min scan of oxygen concentration, internally calibrated with sensor temperature. Note the sensor is not heated."
+Infrared_temp_(C),Apogee,SI-411,C,30-min scan of surfaceinfrared  temperature at the target
+S1_wc_(m3/m3),METER,TEROS 12 ,m3/m3,Hourly averaged 1-min soil volumetric water content at 115 cm depth. Note if site is ER-PHS4 depth = 106 cm.
+S1_temp_(C),METER,TEROS 12,C,Hourly averaged 1-min soil temperature at 115 cm depth. Note if site is ER-PHS4 depth = 106 cm.
+S1_ec_(mS/cm),METER,TEROS 12,mS/cm,Hourly averaged 1-min soil saturation extract electrical conductivity at 115 cm depth. Note if site is ER-PHS4 depth = 106 cm.
+S2_wc_(m3/m3),METER,TEROS 12,m3/m3,Hourly averaged 1-min soil volumetric water content at 60 cm depth
+S2_temp_(C),METER,TEROS 12,C,Hourly averaged 1-min soil temperature at 60 cm depth
+S2_ec_(mS/cm),METER,TEROS 12,mS/cm,Hourly averaged 1-min soil saturation extract electrical conductivity at 60 cm depth
+S3_wc_(m3/m3),METER,TEROS 12,m3/m3,Hourly averaged 1-min soil volumetric water content at 30 cm depth
+S3_temp_(C),METER,TEROS 12,C,Hourly averaged 1-min soil temperature at 30 cm depth
+S3_ec_(mS/cm),METER,TEROS 12,mS/cm,Hourly averaged 1-min soil saturation extract electrical conductivity at 30 cm depth
+S4_wc_(m3/m3),METER,TEROS 12,m3/m3,Hourly averaged 1-min soil volumetric water content at 10 cm depth
+S4_temp_(C),METER,TEROS 12,C,Hourly averaged 1-min soil temperature at 10 cm depth
+S4_ec_(mS/cm),METER,TEROS 12,mS/cm,Hourly averaged 1-min soil saturation extract electrical conductivity at 10 cm depth
+S5_wp_(kPa),METER,TEROS 21,kPa,Hourly averaged 1-min soil matric potential at 30 cm depth
+S5_temp_(C),METER,TEROS 21,C,Hourly averaged 1-min soil temperature at 30 cm depth
+Solar_radiation_(W/m2),METER,ATMOS 41,W/m2,"Hourly averaged 1-min incoming short wave radiation at 3 m height. Note the sensor is open and not heated, so it is subject to the effects of snow accumulation."
+Precipitation_(mm),METER,ATMOS 41,mm,"Hourly accumulation rainfall. Note the sensor is open and not heated, so it is subject to the effects of snow accumulation, and it does not measure snow precipitation."
+Lightning_activity_(number),METER,ATMOS 41,-,Hourly accumulation lightning strikes
+Lightning_distance_(km),METER,ATMOS 41,km,Hourly averaged distance of the lightning strikes
+Wind_direction_(degree),METER,ATMOS 41,degree,Hourly averaged 1-min wind direction at 3 m. Note snow accumulation in measurement pathway may affect wind measurement.
+Wind_speed_(m/s),METER,ATMOS 41,m/s,Hourly averaged 1-min wind speed at 3 m. Note snow accumulation in measurement pathway may affect wind measurement.
+Gust_speed_(m/s),METER,ATMOS 41,m/s,Hourly maximum 1-min wind gust at 3 m. Note snow accumulation in measurement pathway may affect wind measurement.
+Air_temp_(C),METER,ATMOS 41,C,Hourly averaged 1-min air temperature at 3 m
+Vapor_p_(kPa),METER,ATMOS 41,kPa,Hourly averaged 1-min vapor pressure at 3 m
+Atm_p_(kPa),METER,ATMOS 41,kPa,Hourly averaged 1-min barometric pressure at 3 m
+X_axis_level_(degree),METER,ATMOS 41,degree,Hourly averaged 1-min tilt of the ATMOS 41 sensor
+Y_axis_level_(degree),METER,ATMOS 41,degree,Hourly averaged 1-min tilt of the ATMOS 41 sensor
+Max_precipitation_rate_(mm/hr),METER,ATMOS 41,mm/hr,Hourly maximum 1-min rainfall rate 
+RH_sensor_temp_(C),METER,ATMOS 41,C,Hourly averaged 1-min relative humidity sensor temperature at 3 m
+VPD_(kPa),METER,ATMOS 41,kPa,"Internal calculated vapor pressure deficit at 3 m with vapor pressure, relative humidity and sensor temperature measurements"
+VPD_Cal_(kPa),Calculated,Calculated,kPa,User calculated vapor pressure as ?(0.6108 * exp((17.27*['RH_sensor_temp_(C)'])/(['RH_sensor_temp_(C)']+237.3))) - ['Vapor_p_(kPa)']

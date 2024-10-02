@@ -1,0 +1,11 @@
+ï»¿"Figure 9. Soil water balance calculations of ET, compared with ET(CLM) over summer-fall intervals following cessation of snowmelt drainage. Uncertainties in rainfall and ET(CLM) were estimated as 10% of their respective values. Uncertainties in soil water losses were assigned to standard errors from values obtained at PLM1, PLM2, and PLM3. Uncertainties in ET(water balance) were estimated as the root mean-square uncertainties from summing soil water losses and rainfall.",,,,,,,,,,,,,
+intervals ending on 10-31-20xx,,,,rainfall totals,,profile-averaged âVWC (soilwater change),,,,intervals ending on 10-31-20xx,,,
+begin,end,days,ET interval,Butte,Butte uncert.,PLM1,PLM2,PLM3,ave. loss,stdev,ET(water balance),uncert.,ET(CLM)
+,,,,mm,mm,mm,mm,mm,mm,mm,mm,mm,mm
+7/8/17,10/31/17,115,7/8/17 - 10/31/17,188.0,18.8,-59.4,-50.4,-26.5,45.4,17.0,233.4,25.3,186.1
+6/15/18,10/31/18,138,6/15/18 - 10/31/18,164.0,16.4,-110.4,-50.0,-32.8,64.4,40.7,228.4,43.9,241.5
+7/19/19,10/31/19,104,7/19/19 - 10/31/19,68.0,6.8,-56.0,-53.4,-69.2,59.5,8.5,127.5,10.9,141.7
+6/21/20,10/31/20,132,6/21/20 - 10/31/20,116.0,11.6,-100.4,-47.7,-96.3,81.5,29.3,197.5,31.5,218.5
+7/3/21,10/31/21,120,7/3/21 - 10/31/21,191.0,19.1,-49.6,-66.3,-88.1,68.0,19.3,259.0,27.2,187.1
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

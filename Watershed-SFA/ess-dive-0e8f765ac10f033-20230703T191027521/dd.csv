@@ -1,0 +1,30 @@
+Column_or_Row_Name,Unit,Definition,Data_Type
+File_Name,N/A,Name of the files in the dataset/data package.,text
+File_Description,N/A,A brief description of the files in the dataset/data package.,text
+Standard,N/A,Standard applied to the data file.,text
+UTC_Offset,N/A,UTC offset of date/timestamp.,numeric
+File_Version,N/A,Version number of file contained within dataset.,numeric
+Contact,N/A,Contact for the associated file.,text
+Date_Start,YYYY-MM-DD,Start of data contained within file.,date
+Date_End,YYYY-MM-DD,End of data contained within file.,date
+Missing_Value_Codes,N/A,Missing value codes used within dataset.,text
+Data_Orientation,N/A,Orientation of the field name row or column.,text
+Column_or_Row_Name,N/A,Column or row name contained within a file.,text
+Unit,N/A,Unit of column or row name within file.,text
+Definition,N/A,Definition of column or row name.,text
+Data_Type,N/A,Type of data that the column or row contains.,text
+Location_ID,N/A,"Location identifier for East River Community Observatory sites as part of the Watershed Function SFA project. Detailed location information contained within Varadharajan et al., 2023 DOI: 10.15485/1660962.",text
+Depth [m],meters,Depth of sub-core samples collected in the monitoring well PLM3 for mineral concentration profiles.,numeric
+Albite [w/w%],w/w%,Albite mineral concentration profile determined by X-Ray diffraction (XRD).,numeric
+Calcite [w/w%],w/w%,Calcite mineral concentration profile determined by X-Ray diffraction (XRD).,numeric
+Dolomite [w/w%],w/w%,Dolomite mineral concentration profile determined by X-Ray diffraction (XRD).,numeric
+Pyrite [w/w%],w/w%,Pyrite mineral concentration profile determined by X-Ray diffraction (XRD).,numeric
+Goethite [w/w%],w/w%,Goethite mineral concentration profile determined by X-Ray diffraction (XRD).,numeric
+Quartz [w/w%],w/w%,Quartz mineral concentration profile determined by X-Ray diffraction (XRD).,numeric
+Chlorite (Fe-rich; Tusc) [w/w%],w/w%,Chlorite_Fe-rich_Tusc mineral concentration profile determined by X-Ray diffraction (XRD).,numeric
+Illite [w/w%],w/w%,"Albite (iron-rich, tusc) mineral concentration profile determined by X-Ray diffraction (XRD).",numeric
+Depth [m],meters,Depth of gas samples (CO2) collected in the unsaturated zone in the vicinity of the monitoring well PLM2.,numeric
+Average [ppm],ppm,Average of gas samples (CO2) collected in the unsaturated zone in the vicinity of the monitoring well PLM2.,numeric
+STD [ppm],ppm,Standard deviation of gas samples (CO2) collected in the unsaturated zone in the vicinity of the monitoring well PLM2.,numeric
+min [ppm],ppm,Minimum of gas samples (CO2) collected in the unsaturated zone in the vicinity of the monitoring well PLM2.,numeric
+max [ppm],ppm,Maximum of gas samples (CO2) collected in the unsaturated zone in the vicinity of the monitoring well PLM2.,numeric

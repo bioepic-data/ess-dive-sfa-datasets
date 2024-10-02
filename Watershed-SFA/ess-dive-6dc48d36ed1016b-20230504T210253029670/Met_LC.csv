@@ -1,0 +1,18 @@
+FID,Station_na,Latitude,Longitude,NLCD Value,NLCD LC,Best CLM fit Value
+0,nrcs_680,38.816667,-106.58333,42,Evergreen Forest,2
+1,nrcs_737,39.016667,-107.05,42,Evergreen Forest,2
+2,nrcs_380,38.9,-106.95,41,Deciduous Forest,8
+3,nrcs_1141,38.983333,-106.75,42,Evergreen Forest,2
+4,castnet_gothic,38.95627,-106.98587,71,Grassland/Herbaceous,15
+5,wu_KCOMTCRE2,38.91503143,-106.9589233,41,Deciduous Forest,8
+6,wu_KCOCREST4,38.8803978,-106.9762039,52,Shrub/Scrub,10 or 11
+7,wu_KCOCREST6,38.84946442,-106.9446716,71,Grassland/Herbaceous,15
+8,wu_KCOCREST10,38.89424896,-106.9719391,71,Grassland/Herbaceous,15
+9,wu_MRMEX,39.0283,-107.064,90,Woody Wetlands,1
+10,wu_MTAPC2,38.9086,-106.603,71,Grassland/Herbaceous,15
+11,Mexican_Cut,39.0257971,-107.0606522,42,Evergreen Forest,2
+12,Judd_Falls,38.96065217,-106.9835507,71,Grassland/Herbaceous,15
+13,Billy_Barr,38.96021739,-106.9911594,90,Woody Wetlands,1
+14,Kettle_Ponds,38.93985507,-106.9716667,71,Grassland/Herbaceous,15
+15,Snodgrass_Mountain,38.92949275,-106.9855072,42,Evergreen Forest,2
+16,Almont,38.65369565,-106.8591304,21,"Developed, Open Space",1

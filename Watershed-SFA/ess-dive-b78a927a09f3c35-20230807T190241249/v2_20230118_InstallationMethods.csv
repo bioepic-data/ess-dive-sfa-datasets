@@ -1,0 +1,3 @@
+InstallationMethod_ID,InstallationMethod_Description,Latitude,Longitude,Site_ID,Depth,Elevation,Site_Name,Site_Type,Configuration,DateTime_Start,DateTime_End,UTC_Offset
+PLM1_300cm,Sensor deployed to fixed location to 300 centimeter (3 meter) depth. Waterlevel measurements are from In-Situ Aqua TROLL 200 Data Logger.,38.91977114,-106.9492731,ER-PLM1,300,2787.16,Hillslope Borehole (M1),borehole [ENVO:00002226],Well,2016-11-30 21:00:00,-9999,-6
+PLM6_200cm,Sensor deployed to fixed location to 200 centimeter (2 meter) depth. Waterlevel measurements are from In-Situ Aqua TROLL 200 Data Logger.,38.92079803,-106.9484325,ER-PLM6,200,2759.65,Hillslope well (M6),borehole [ENVO:00002226],Well,2016-11-30 20:20:00,-9999,-6

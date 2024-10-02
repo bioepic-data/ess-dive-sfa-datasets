@@ -1,0 +1,8 @@
+File_Name,File_Description,Standard,Missing_Value_Codes,Data_Orientation
+v3_20230808_flmd.csv,File-level metadata associated with dataset. This file is an updated version (version 3) of the file-level metadata file.,ESS-DIVE FLMD,"N/A, -9999",horizontal
+v3_20230808_dd.csv,Data dictionary defining column headers and other terms across the dataset. This file is an updated version (version 3) of the data dictionary file.,ESS-DIVE FLMD,"N/A, -9999",horizontal
+Detemination_of_Method_Detection_Limits__MDLs__for_DIC__NPOC_and_TDN_Analyses__Shimadzu_.docx,Miscrosoft word document for the determination of Method Detection Limits (MDLs) for DIC and NPOC data.,N/A,N/A,N/A
+Detemination_of_Method_Detection_Limits__MDLs__for_DIC__NPOC_and_TDN_Analyses__Shimadzu_.pdf,PDF document for the determination of Method Detection Limits (MDLs) for DIC and NPOC data.,N/A,N/A,N/A
+locations.csv,Location information for the sites containing data. This file contains both Location_IDs and the latitude and longitude measurements associated with the Location_IDs. Latitude and longitude measurements are in WGS84 format.,ESS-DIVE CSV,"N/A, -9999",horizontal
+*_dic.csv,File containing mean values for dissolved organic carbon (DOC) in milligrams per liter (mg/l). Asterisk marks Location_ID for which the location the data is collected from.,ESS-DIVE CSV,"N/A, -9999",horizontal
+*_npoc.csv,File containing mean values for dissolved organic carbon (DOC) analyzed as non-purgeable organic carbon (NPOC) in milligrams per liter (mg/l). Asterisk marks Location_ID for which the location the data is collected from.,ESS-DIVE CSV,"N/A, -9999",horizontal

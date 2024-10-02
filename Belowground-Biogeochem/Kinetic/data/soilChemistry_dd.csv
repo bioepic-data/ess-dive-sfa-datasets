@@ -1,0 +1,12 @@
+﻿Column_or_Row_Name,Unit,Definition,Column_or_Row_Long_Name,Data_Type
+sampleID,N/A,"Descriptive sample identifier indicating sampling site and date, core number and sampling depth.",Unique sample identifier,text
+IGSN,N/A,Unique geologic sample registration identifier.,Intervational Geo Sample Number,text
+core,N/A,Name of replicate soil core.,Core,text
+depth,cm,"Depth interval in the soil core, below the surface.",Depth interval,text
+GWC,g_H2O/g_dry_soil,Mass of water per mass of soil. Missing data = -9999,Gravimetric water content,numeric
+DOC,mg/kg_dry_soil,Concentration of KCl-extractable soil dissolved organic carbon. Missing data = -9999,Dissolved organic carbon,numeric
+TDN,mg/kg_dry_soil,Concentration of KCl-extractable total soil dissolved nitrogen. Missing data = -9999,Total dissolved nitrogen,numeric
+DOC_TDN_ratio,N/A,Dissolved organic carbon to total dissolved nitrgen ratio. Missing data = -9999,DOC to TDN ratio,numeric
+MBC,mg/kg_dry_soil,Concentration of KCl-extractable microbial biomass carbon after chloroform fumigation of soil. Missing data = -9999,Microbial biomass carbon,numeric
+MBN,mg/kg_dry_soil,Concentration of KCl-extractable microbial biomass nitrogen after chloroform fumigation of soil. Missing data = -9999,Microbial biomass nitrogen,numeric
+MBC_MBN_ratio,N/A,Microbial biomass carbon to nitrogen ratio. Missing data = -9999,MBC to MBN ratio,numeric

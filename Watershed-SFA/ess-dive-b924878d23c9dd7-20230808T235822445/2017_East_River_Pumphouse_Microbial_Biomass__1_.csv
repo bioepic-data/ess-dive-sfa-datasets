@@ -1,0 +1,421 @@
+Lab_ID_LBNL,IGSN,Latitude,Longitude,Location,Field_Site,Elevation,Block,Plot,Replicate,Topographic_Position,Depth_Increment,Date_Collected,Microbial Biomass Carbon (µg C per g soil),Microbial Biomass Nitrogen (µg N per g soil)
+1,,38.92022817,-106.9486757,East_River,Pumphouse_Hillslope,2765,A,A1,1,Upslope,0-5 cm,9/12/2016,180.910,45.01
+2,,38.92022817,-106.9486757,East_River,Pumphouse_Hillslope,2765,A,A1,1,Upslope,5-15 cm,9/12/2016,200.360,45.78
+3,,38.92022817,-106.9486757,East_River,Pumphouse_Hillslope,2765,A,A1,1,Upslope,15 cm +,9/12/2016,204.930,59.12
+4,,38.92027083,-106.9486578,East_River,Pumphouse_Hillslope,2765,A,A1,1,Downslope,0-5 cm,9/12/2016,171.770,40.44
+5,,38.92027083,-106.9486578,East_River,Pumphouse_Hillslope,2765,A,A1,1,Downslope,5-15 cm,9/12/2016,245.540,57.19
+6,,38.92027083,-106.9486578,East_River,Pumphouse_Hillslope,2765,A,A1,1,Downslope,15 cm +,9/12/2016,228.930,47.81
+7,,38.92029772,-106.9487593,East_River,Pumphouse_Hillslope,2765,A,A2,2,Upslope,0-5 cm,9/12/2016,188.450,41.89
+8,,38.92029772,-106.9487593,East_River,Pumphouse_Hillslope,2765,A,A2,2,Upslope,5-15 cm,9/12/2016,230.420,52.47
+9,,38.92029772,-106.9487593,East_River,Pumphouse_Hillslope,2765,A,A2,2,Upslope,15 cm +,9/12/2016,190.300,40.76
+10,,38.92025952,-106.9488273,East_River,Pumphouse_Hillslope,2765,A,A2,2,Downslope,0-5 cm,9/12/2016,289.060,59.39
+11,,38.92025952,-106.9488273,East_River,Pumphouse_Hillslope,2765,A,A2,2,Downslope,5-15 cm,9/12/2016,241.010,49.16
+12,,38.92025952,-106.9488273,East_River,Pumphouse_Hillslope,2765,A,A2,2,Downslope,15 cm +,9/12/2016,210.920,53.78
+13,,38.92030701,-106.9483947,East_River,Pumphouse_Hillslope,2765,B,B1,1,Upslope,0-5 cm,9/12/2016,232.130,55.14
+14,,38.92030701,-106.9483947,East_River,Pumphouse_Hillslope,2765,B,B1,1,Upslope,5-15 cm,9/12/2016,297.700,66.64
+15,,38.92030701,-106.9483947,East_River,Pumphouse_Hillslope,2765,B,B1,1,Upslope,15 cm +,9/12/2016,209.930,43.01
+16,,38.92034772,-106.9483399,East_River,Pumphouse_Hillslope,2765,B,B1,1,Downslope,0-5 cm,9/12/2016,189.420,39.74
+17,,38.92034772,-106.9483399,East_River,Pumphouse_Hillslope,2765,B,B1,1,Downslope,5-15 cm,9/12/2016,213.850,44.21
+18,,38.92034772,-106.9483399,East_River,Pumphouse_Hillslope,2765,B,B1,1,Downslope,15 cm +,9/12/2016,194.290,52.4
+19,,38.92034595,-106.9485022,East_River,Pumphouse_Hillslope,2765,B,B2,2,Upslope,0-5 cm,9/12/2016,182.500,46.17
+20,,38.92034595,-106.9485022,East_River,Pumphouse_Hillslope,2765,B,B2,2,Upslope,5-15 cm,9/12/2016,298.000,68.72
+21,,38.92034595,-106.9485022,East_River,Pumphouse_Hillslope,2765,B,B2,2,Upslope,15 cm +,9/12/2016,191.350,51.56
+22,,38.92040592,-106.9484972,East_River,Pumphouse_Hillslope,2765,B,B2,2,Downslope,0-5 cm,9/12/2016,211.000,46.66
+23,,38.92040592,-106.9484972,East_River,Pumphouse_Hillslope,2765,B,B2,2,Downslope,5-15 cm,9/12/2016,300.650,68.71
+24,,38.92040592,-106.9484972,East_River,Pumphouse_Hillslope,2765,B,B2,2,Downslope,15 cm +,9/12/2016,193.950,44.84
+25,,38.92040586,-106.9486826,East_River,Pumphouse_Hillslope,2765,C,C1,1,Upslope,0-5 cm,9/12/2016,135.280,38.02
+26,,38.92040586,-106.9486826,East_River,Pumphouse_Hillslope,2765,C,C1,1,Upslope,5-15 cm,9/12/2016,187.660,56.37
+27,,38.92040586,-106.9486826,East_River,Pumphouse_Hillslope,2765,C,C1,1,Upslope,15 cm +,9/12/2016,123.940,43.97
+28,,38.92045047,-106.9486656,East_River,Pumphouse_Hillslope,2765,C,C1,1,Downslope,0-5 cm,9/12/2016,101.160,35.9
+29,,38.92045047,-106.9486656,East_River,Pumphouse_Hillslope,2765,C,C1,1,Downslope,5-15 cm,9/12/2016,129.680,40.02
+30,,38.92045047,-106.9486656,East_River,Pumphouse_Hillslope,2765,C,C1,1,Downslope,15 cm +,9/12/2016,,10.21
+31,,38.92044255,-106.948818,East_River,Pumphouse_Hillslope,2765,C,C2,2,Upslope,0-5 cm,9/12/2016,86.810,24.93
+32,,38.92044255,-106.948818,East_River,Pumphouse_Hillslope,2765,C,C2,2,Upslope,5-15 cm,9/12/2016,153.830,39.31
+33,,38.92044255,-106.948818,East_River,Pumphouse_Hillslope,2765,C,C2,2,Upslope,15 cm +,9/12/2016,55.130,28.94
+34,,38.920496,-106.9487843,East_River,Pumphouse_Hillslope,2765,C,C2,2,Downslope,0-5 cm,9/12/2016,134.740,35.72
+35,,38.920496,-106.9487843,East_River,Pumphouse_Hillslope,2765,C,C2,2,Downslope,5-15 cm,9/12/2016,205.290,43.56
+36,,38.920496,-106.9487843,East_River,Pumphouse_Hillslope,2765,C,C2,2,Downslope,15 cm +,9/12/2016,184.730,38.79
+37,,38.92101504,-106.9480928,East_River,Pumphouse_Floodplain,2750,F,F1,1,Upslope,0-5 cm,9/12/2016,423.820,95.61
+38,,38.92101504,-106.9480928,East_River,Pumphouse_Floodplain,2750,F,F1,1,Upslope,5-15 cm,9/12/2016,479.910,97.11
+39,,38.92101504,-106.9480928,East_River,Pumphouse_Floodplain,2750,F,F1,1,Upslope,15 cm +,9/12/2016,136.550,43.3
+40,,38.92118901,-106.9479755,East_River,Pumphouse_Floodplain,2750,F,F2,2,Upslope,0-5 cm,9/12/2016,,17.59
+41,,38.92118901,-106.9479755,East_River,Pumphouse_Floodplain,2750,F,F2,2,Upslope,5-15 cm,9/12/2016,93.210,37.73
+42,,38.92118901,-106.9479755,East_River,Pumphouse_Floodplain,2750,F,F2,2,Upslope,15 cm +,9/12/2016,,27.5
+43,,38.92134244,-106.9477999,East_River,Pumphouse_Floodplain,2750,F,F3,3,Upslope,0-5 cm,9/12/2016,354.120,102.19
+44,,38.92134244,-106.9477999,East_River,Pumphouse_Floodplain,2750,F,F3,3,Upslope,5-15 cm,9/12/2016,,46.18
+45,,38.92134244,-106.9477999,East_River,Pumphouse_Floodplain,2750,F,F3,3,Upslope,15 cm +,9/12/2016,78.980,32.47
+49,,,,Washington_Gulch,Upper_Montane,2950,A,A1,1,Upslope,0-5 cm,10/20/2016,94.570,61.47
+50,,,,Washington_Gulch,Upper_Montane,2950,A,A1,1,Upslope,5-15 cm,10/20/2016,156.590,13.88
+51,,,,Washington_Gulch,Upper_Montane,2950,A,A1,1,Upslope,15 cm +,10/20/2016,124.910,2.72
+52,,,,Washington_Gulch,Upper_Montane,2950,A,A1,1,Downslope,0-5 cm,10/20/2016,14.310,44.91
+53,,,,Washington_Gulch,Upper_Montane,2950,A,A1,1,Downslope,5-15 cm,10/20/2016,197.630,20.56
+54,,,,Washington_Gulch,Upper_Montane,2950,A,A1,1,Downslope,15 cm +,10/20/2016,89.330,7.76
+55,,,,Washington_Gulch,Upper_Montane,2950,B,B1,1,Upslope,0-5 cm,10/20/2016,170.600,77.48
+56,,,,Washington_Gulch,Upper_Montane,2950,B,B1,1,Upslope,5-15 cm,10/20/2016,144.690,17.72
+57,,,,Washington_Gulch,Upper_Montane,2950,B,B1,1,Upslope,15 cm +,10/20/2016,114.050,33.04
+58,,,,Washington_Gulch,Upper_Montane,2950,B,B1,1,Downslope,0-5 cm,10/20/2016,312.130,52.8
+59,,,,Washington_Gulch,Upper_Montane,2950,B,B1,1,Downslope,5-15 cm,10/20/2016,188.590,53.62
+60,,,,Washington_Gulch,Upper_Montane,2950,B,B1,1,Downslope,15 cm +,10/20/2016,140.960,31.12
+61,,,,Washington_Gulch,Upper_Montane,2950,C,C1,1,Upslope,0-5 cm,10/20/2016,270.280,17.47
+62,,,,Washington_Gulch,Upper_Montane,2950,C,C1,1,Upslope,5-15 cm,10/20/2016,142.890,62.69
+63,,,,Washington_Gulch,Upper_Montane,2950,C,C1,1,Upslope,15 cm +,10/20/2016,127.890,38.42
+64,,,,Washington_Gulch,Upper_Montane,2950,C,C1,1,Downslope,0-5 cm,10/20/2016,197.870,80.5
+65,,,,Washington_Gulch,Upper_Montane,2950,C,C1,1,Downslope,5-15 cm,10/20/2016,173.810,60.12
+66,,,,Washington_Gulch,Upper_Montane,2950,C,C1,1,Downslope,15 cm +,10/20/2016,115.410,20.38
+67,,38.95600613,-107.0289451,Washington_Gulch,Lower_Subalpine,3150,A,A1,1,Upslope,0-5 cm,10/20/2016,78.080,96.04
+68,,38.95600613,-107.0289451,Washington_Gulch,Lower_Subalpine,3150,A,A1,1,Upslope,5-15 cm,10/20/2016,92.570,65.84
+69,,38.95600613,-107.0289451,Washington_Gulch,Lower_Subalpine,3150,A,A1,1,Upslope,15 cm +,10/20/2016,50.840,52.01
+70,,38.95601972,-107.028897,Washington_Gulch,Lower_Subalpine,3150,A,A1,1,Downslope,0-5 cm,10/20/2016,224.710,107.34
+71,,38.95601972,-107.028897,Washington_Gulch,Lower_Subalpine,3150,A,A1,1,Downslope,5-15 cm,10/20/2016,142.910,65.8
+72,,38.95601972,-107.028897,Washington_Gulch,Lower_Subalpine,3150,A,A1,1,Downslope,15 cm +,10/20/2016,75.910,80.34
+73,,38.95572723,-107.0288493,Washington_Gulch,Lower_Subalpine,3150,B,B1,1,Upslope,0-5 cm,10/20/2016,238.100,111.15
+74,,38.95572723,-107.0288493,Washington_Gulch,Lower_Subalpine,3150,B,B1,1,Upslope,5-15 cm,10/20/2016,109.700,51.95
+75,,38.95572723,-107.0288493,Washington_Gulch,Lower_Subalpine,3150,B,B1,1,Upslope,15 cm +,10/20/2016,54.480,69.27
+76,,38.95573168,-107.0287902,Washington_Gulch,Lower_Subalpine,3150,B,B1,1,Downslope,0-5 cm,10/20/2016,116.930,177.42
+77,,38.95573168,-107.0287902,Washington_Gulch,Lower_Subalpine,3150,B,B1,1,Downslope,5-15 cm,10/20/2016,77.400,110.83
+78,,38.95573168,-107.0287902,Washington_Gulch,Lower_Subalpine,3150,B,B1,1,Downslope,15 cm +,10/20/2016,65.090,46.98
+79,,38.95514771,-107.0276516,Washington_Gulch,Lower_Subalpine,3150,C,C1,1,Upslope,0-5 cm,10/20/2016,114.630,71.25
+80,,38.95514771,-107.0276516,Washington_Gulch,Lower_Subalpine,3150,C,C1,1,Upslope,5-15 cm,10/20/2016,91.430,27.4
+81,,38.95514771,-107.0276516,Washington_Gulch,Lower_Subalpine,3150,C,C1,1,Upslope,15 cm +,10/20/2016,83.070,134.54
+82,,38.95514736,-107.0284548,Washington_Gulch,Lower_Subalpine,3150,C,C1,1,Downslope,0-5 cm,10/20/2016,119.440,98.64
+83,,38.95514736,-107.0284548,Washington_Gulch,Lower_Subalpine,3150,C,C1,1,Downslope,5-15 cm,10/20/2016,87.900,102.13
+84,,38.95514736,-107.0284548,Washington_Gulch,Lower_Subalpine,3150,C,C1,1,Downslope,15 cm +,10/20/2016,23.440,32.22
+85,,38.9740448,-107.0367259,Washington_Gulch,Upper_Subalpine,3250,A,A1,1,Upslope,0-5 cm,10/20/2016,205.190,62.95
+86,,38.9740448,-107.0367259,Washington_Gulch,Upper_Subalpine,3250,A,A1,1,Upslope,5-15 cm,10/20/2016,111.870,228.95
+87,,38.9740448,-107.0367259,Washington_Gulch,Upper_Subalpine,3250,A,A1,1,Upslope,15 cm +,10/20/2016,10.230,83.32
+88,,38.97409283,-107.0367513,Washington_Gulch,Upper_Subalpine,3250,A,A1,1,Downslope,0-5 cm,10/20/2016,77.740,55.65
+89,,38.97409283,-107.0367513,Washington_Gulch,Upper_Subalpine,3250,A,A1,1,Downslope,5-15 cm,10/20/2016,226.980,174.08
+90,,38.97409283,-107.0367513,Washington_Gulch,Upper_Subalpine,3250,A,A1,1,Downslope,15 cm +,10/20/2016,93.120,65.79
+91,,38.97438861,-107.0365253,Washington_Gulch,Upper_Subalpine,3250,B,B1,1,Upslope,0-5 cm,10/20/2016,80.070,2.98
+92,,38.97438861,-107.0365253,Washington_Gulch,Upper_Subalpine,3250,B,B1,1,Upslope,5-15 cm,10/20/2016,91.610,58.3
+93,,38.97438861,-107.0365253,Washington_Gulch,Upper_Subalpine,3250,B,B1,1,Upslope,15 cm +,10/20/2016,12.850,53.76
+94,,38.97443553,-107.0365009,Washington_Gulch,Upper_Subalpine,3250,B,B1,1,Downslope,0-5 cm,10/20/2016,105.240,172.49
+95,,38.97443553,-107.0365009,Washington_Gulch,Upper_Subalpine,3250,B,B1,1,Downslope,5-15 cm,10/20/2016,84.130,69.78
+96,,38.97443553,-107.0365009,Washington_Gulch,Upper_Subalpine,3250,B,B1,1,Downslope,15 cm +,10/20/2016,82.580,94.31
+97,,38.97434007,-107.0370836,Washington_Gulch,Upper_Subalpine,3250,C,C1,1,Upslope,0-5 cm,10/20/2016,80.960,191.85
+98,,38.97434007,-107.0370836,Washington_Gulch,Upper_Subalpine,3250,C,C1,1,Upslope,5-15 cm,10/20/2016,154.440,67.39
+99,,38.97434007,-107.0370836,Washington_Gulch,Upper_Subalpine,3250,C,C1,1,Upslope,15 cm +,10/20/2016,159.870,55.46
+100,,38.97438018,-107.0370661,Washington_Gulch,Upper_Subalpine,3250,C,C1,1,Downslope,0-5 cm,10/20/2016,25.610,215.28
+101,,38.97438018,-107.0370661,Washington_Gulch,Upper_Subalpine,3250,C,C1,1,Downslope,5-15 cm,10/20/2016,50.240,65.75
+102,,38.97438018,-107.0370661,Washington_Gulch,Upper_Subalpine,3250,C,C1,1,Downslope,15 cm +,10/20/2016,80.960,27.66
+103,,38.99697542,-107.0674128,Washington_Gulch,Alpine,3400,A,A1,1,Upslope,0-5 cm,10/20/2016,22.940,40.62
+104,,38.99697542,-107.0674128,Washington_Gulch,Alpine,3400,A,A1,1,Upslope,5-15 cm,10/20/2016,290.570,11.02
+105,,38.99697542,-107.0674128,Washington_Gulch,Alpine,3400,A,A1,1,Upslope,15 cm +,10/20/2016,111.690,23.42
+106,,38.99697542,-107.0674128,Washington_Gulch,Alpine,3400,A,A1,1,Downslope,0-5 cm,10/20/2016,81.940,31.34
+107,,38.99697542,-107.0674128,Washington_Gulch,Alpine,3400,A,A1,1,Downslope,5-15 cm,10/20/2016,92.530,45.81
+108,,38.99697542,-107.0674128,Washington_Gulch,Alpine,3400,A,A1,1,Downslope,15 cm +,10/20/2016,157.970,7.95
+112,,38.91721605,-106.9559947,East_River,Pumphouse_Hillslope,2765,A,A1,1,Snow_Pit_A1,0-5 cm,3/7/2017,170.940,30.3
+113,,38.91721605,-106.9559947,East_River,Pumphouse_Hillslope,2765,A,A1,1,Snow_Pit_A1,5-15 cm,3/7/2017,23.500,30.72
+114,,38.91721605,-106.9559947,East_River,Pumphouse_Hillslope,2765,A,A1,1,Snow_Pit_A1,15 cm +,3/7/2017,0.960,32.65
+115,IEWFS0001,38.91721605,-106.9559947,East_River,Pumphouse_Hillslope,2765,A,A1,2,Snow_Pit_A1,0-5 cm,3/7/2017,76.360,35.22
+116,IEWFS0002,38.91721605,-106.9559947,East_River,Pumphouse_Hillslope,2765,A,A1,2,Snow_Pit_A1,5-15 cm,3/7/2017,89.340,32.95
+117,IEWFS0003,38.91721605,-106.9559947,East_River,Pumphouse_Hillslope,2765,A,A1,2,Snow_Pit_A1,15 cm +,3/7/2017,6.370,5.87
+118,IEWFS0004,38.92039953,-106.948287,East_River,Pumphouse_Hillslope,2765,B,B1,1,Snow_Pit_B1,0-5 cm,3/7/2017,362.420,26.67
+119,IEWFS0005,38.92039953,-106.948287,East_River,Pumphouse_Hillslope,2765,B,B1,1,Snow_Pit_B1,5-15 cm,3/7/2017,58.420,12.16
+120,IEWFS0006,38.92039953,-106.948287,East_River,Pumphouse_Hillslope,2765,B,B1,1,Snow_Pit_B1,15 cm +,3/7/2017,64.180,24.74
+121,IEWFS0007,38.920406,-106.9482866,East_River,Pumphouse_Hillslope,2765,B,B1,2,Snow_Pit_B1,0-5 cm,3/7/2017,214.430,24.46
+122,IEWFS0008,38.920406,-106.9482866,East_River,Pumphouse_Hillslope,2765,B,B1,2,Snow_Pit_B1,5-15 cm,3/7/2017,176.450,60.79
+123,IEWFS0009,38.920406,-106.9482866,East_River,Pumphouse_Hillslope,2765,B,B1,2,Snow_Pit_B1,15 cm +,3/7/2017,99.970,22.71
+124,,38.92101504,-106.9480928,East_River,Pumphouse_Floodplain,2750,F,F1,1,Snow_Pit_F1,0-5 cm,3/7/2017,,16.16
+125,,38.92101504,-106.9480928,East_River,Pumphouse_Floodplain,2750,F,F1,1,Snow_Pit_F1,5-15 cm,3/7/2017,327.970,48.56
+126,,38.92101504,-106.9480928,East_River,Pumphouse_Floodplain,2750,F,F1,1,Snow_Pit_F1,15 cm +,3/7/2017,184.610,31.76
+127,,38.92101504,-106.9480928,East_River,Pumphouse_Floodplain,2750,F,F1,2,Snow_Pit_F1,0-5 cm,3/7/2017,403.390,46.41
+128,,38.92101504,-106.9480928,East_River,Pumphouse_Floodplain,2750,F,F1,2,Snow_Pit_F1,5-15 cm,3/7/2017,198.370,25.98
+129,,38.92101504,-106.9480928,East_River,Pumphouse_Floodplain,2750,F,F1,2,Snow_Pit_F1,15 cm +,3/7/2017,40.180,2.55
+133,,38.92028116,-106.9489189,East_River,Pumphouse_Hillslope,2765,A,A1,1,Snow PitA1,0-5 cm,5/9/2017,338.971,46.08
+134,IEWFS000A,38.92028116,-106.9489189,East_River,Pumphouse_Hillslope,2765,A,A1,2,Snow PitA1,5-15 cm,5/9/2017,83.273,21.05
+135,IEWFS000B,38.92028116,-106.9489189,East_River,Pumphouse_Hillslope,2765,A,A1,3,Snow PitA1,15 cm +,5/9/2017,213.323,43.06
+136,,38.92028116,-106.9489189,East_River,Pumphouse_Hillslope,2765,A,A1,1,Snow PitA1,0-5 cm,5/9/2017,367.629,8.72
+137,,38.92028116,-106.9489189,East_River,Pumphouse_Hillslope,2765,A,A1,2,Snow PitA1,5-15 cm,5/9/2017,303.032,8.1
+138,,38.92028116,-106.9489189,East_River,Pumphouse_Hillslope,2765,A,A1,3,Snow PitA1,15 cm +,5/9/2017,390.050,32.85
+139,IEWFS000C,38.92028116,-106.9489189,East_River,Pumphouse_Hillslope,2765,A,A1,1,Snow PitA1,0-5 cm,5/9/2017,547.523,10.07
+140,IEWFS000D,38.92028116,-106.9489189,East_River,Pumphouse_Hillslope,2765,A,A1,2,Snow PitA1,5-15 cm,5/9/2017,233.501,34.01
+141,IEWFS000E,38.92028116,-106.9489189,East_River,Pumphouse_Hillslope,2765,A,A1,3,Snow PitA1,15 cm +,5/9/2017,325.075,20.34
+142,IEWFS000F,38.92045766,-106.9484528,East_River,Pumphouse_Hillslope,2765,B,B1,1,Snow PitB1,0-5 cm,5/9/2017,843.879,30.06
+143,IEWFS000G,38.92045766,-106.9484528,East_River,Pumphouse_Hillslope,2765,B,B1,2,Snow PitB1,5-15 cm,5/9/2017,568.961,6.7
+144,IEWFS000H,38.92045766,-106.9484528,East_River,Pumphouse_Hillslope,2765,B,B1,3,Snow PitB1,15 cm +,5/9/2017,173.397,25.83
+145,IEWFS000I,38.92045766,-106.9484528,East_River,Pumphouse_Hillslope,2765,B,B1,1,Snow PitB1,0-5 cm,5/9/2017,297.681,118.35
+146,IEWFS000J,38.92045766,-106.9484528,East_River,Pumphouse_Hillslope,2765,B,B1,2,Snow PitB1,5-15 cm,5/9/2017,95.587,67.44
+147,IEWFS000K,38.92045766,-106.9484528,East_River,Pumphouse_Hillslope,2765,B,B1,3,Snow PitB1,15 cm +,5/9/2017,611.342,12.86
+148,IEWFS000L,38.92045766,-106.9484528,East_River,Pumphouse_Hillslope,2765,B,B1,1,Snow PitB1,0-5 cm,5/9/2017,343.464,0
+149,IEWFS000M,38.92045766,-106.9484528,East_River,Pumphouse_Hillslope,2765,B,B1,2,Snow PitB1,5-15 cm,5/9/2017,449.796,66.85
+150,IEWFS000N,38.92045766,-106.9484528,East_River,Pumphouse_Hillslope,2765,B,B1,3,Snow PitB1,15 cm +,5/9/2017,83.300,29.28
+151,IEWFS000O,38.92057636,-106.948748,East_River,Pumphouse_Hillslope,2765,C,C1,1,Snow PitC1,0-5 cm,5/9/2017,240.223,0
+152,IEWFS000P,38.92057636,-106.948748,East_River,Pumphouse_Hillslope,2765,C,C1,2,Snow PitC1,5-15 cm,5/9/2017,714.965,60.58
+153,IEWFS000Q,38.92057636,-106.948748,East_River,Pumphouse_Hillslope,2765,C,C1,3,Snow PitC1,15 cm +,5/9/2017,446.411,32.16
+154,,38.92057636,-106.948748,East_River,Pumphouse_Hillslope,2765,C,C1,1,Snow PitC1,0-5 cm,5/9/2017,204.980,21.57
+155,,38.92057636,-106.948748,East_River,Pumphouse_Hillslope,2765,C,C1,2,Snow PitC1,5-15 cm,5/9/2017,866.923,36.14
+156,,38.92057636,-106.948748,East_River,Pumphouse_Hillslope,2765,C,C1,3,Snow PitC1,15 cm +,5/9/2017,284.534,41.93
+157,IEWFS000R,38.92057636,-106.948748,East_River,Pumphouse_Hillslope,2765,C,C1,1,Snow PitC1,0-5 cm,5/9/2017,,32.6
+158,IEWFS000S,38.92057636,-106.948748,East_River,Pumphouse_Hillslope,2765,C,C1,2,Snow PitC1,5-15 cm,5/9/2017,276.239,41.38
+159,IEWFS000T,38.92057636,-106.948748,East_River,Pumphouse_Hillslope,2765,C,C1,3,Snow PitC1,15 cm +,5/9/2017,207.806,38.41
+160,,38.92120173,-106.9479383,East_River,Pumphouse_Floodplain,2750,F,F1,1,,0-5 cm,5/9/2017,809.195,63.56
+161,,38.92120173,-106.9479383,East_River,Pumphouse_Floodplain,2750,F,F1,2,,5-15 cm,5/9/2017,341.145,39.71
+162,,38.92120173,-106.9479383,East_River,Pumphouse_Floodplain,2750,F,F1,3,,15 cm +,5/9/2017,411.097,36.53
+163,,38.92120173,-106.9479383,East_River,Pumphouse_Floodplain,2750,F,F2,1,,0-5 cm,5/9/2017,1003.940,30.89
+164,,38.92120173,-106.9479383,East_River,Pumphouse_Floodplain,2750,F,F2,2,,5-15 cm,5/9/2017,257.655,35.46
+165,,38.92120173,-106.9479383,East_River,Pumphouse_Floodplain,2750,F,F2,3,,15 cm +,5/9/2017,167.026,38.7
+166,,38.92120173,-106.9479383,East_River,Pumphouse_Floodplain,2750,F,F3,1,,0-5 cm,5/9/2017,1171.718,58.93
+167,,38.92120173,-106.9479383,East_River,Pumphouse_Floodplain,2750,F,F3,2,,5-15 cm,5/9/2017,294.237,39.66
+168,,38.92120173,-106.9479383,East_River,Pumphouse_Floodplain,2750,F,F3,3,,15 cm +,5/9/2017,73.851,33.89
+172,,38.92022545,-106.9487354,East_River,Pumphouse_Hillslope,2765,A,A1,1,Upslope,0-5 cm,6/9/2017,184.830,38.44
+173,,38.92022545,-106.9487354,East_River,Pumphouse_Hillslope,2765,A,A1,1,Upslope,5-15 cm,6/9/2017,,43.82
+174,,38.92022545,-106.9487354,East_River,Pumphouse_Hillslope,2765,A,A1,1,Upslope,15 cm +,6/9/2017,81.300,26.17
+175,,38.92029543,-106.9487578,East_River,Pumphouse_Hillslope,2765,A,A1,1,Downslope,0-5 cm,6/9/2017,109.499,55.76
+176,,38.92025652,-106.9488295,East_River,Pumphouse_Hillslope,2765,A,A1,1,Downslope,5-15 cm,6/9/2017,176.837,42.15
+177,,38.92025652,-106.9488295,East_River,Pumphouse_Hillslope,2765,A,A1,1,Downslope,15 cm +,6/9/2017,22.120,9.32
+178,,38.92025652,-106.9488295,East_River,Pumphouse_Hillslope,2765,A,A2,2,Upslope,0-5 cm,6/9/2017,121.429,11.66
+179,,38.92025652,-106.9488295,East_River,Pumphouse_Hillslope,2765,A,A2,2,Upslope,5-15 cm,6/9/2017,132.985,26.27
+180,,38.92025652,-106.9488295,East_River,Pumphouse_Hillslope,2765,A,A2,2,Upslope,15 cm +,6/9/2017,138.524,9.28
+181,IEWFS000U,38.92029772,-106.9487593,East_River,Pumphouse_Hillslope,2765,A,A2,2,Downslope,0-5 cm,6/9/2017,171.045,70.11
+182,IEWFS000V,38.92029772,-106.9487593,East_River,Pumphouse_Hillslope,2765,A,A2,2,Downslope,5-15 cm,6/9/2017,151.597,28.29
+183,IEWFS000W,38.92029772,-106.9487593,East_River,Pumphouse_Hillslope,2765,A,A2,2,Downslope,15 cm +,6/9/2017,,35.62
+184,IEWFS000X,38.92030701,-106.9483947,East_River,Pumphouse_Hillslope,2765,B,B1,1,Upslope,0-5 cm,6/9/2017,88.081,30.83
+185,IEWFS000Y,38.92030701,-106.9483947,East_River,Pumphouse_Hillslope,2765,B,B1,1,Upslope,5-15 cm,6/9/2017,,28.87
+186,IEWFS000Z,38.92030701,-106.9483947,East_River,Pumphouse_Hillslope,2765,B,B1,1,Upslope,15 cm +,6/9/2017,104.035,4.86
+187,,38.92040645,-106.9484762,East_River,Pumphouse_Hillslope,2765,B,B1,1,Downslope,0-5 cm,6/9/2017,29.032,18.73
+188,,38.92040645,-106.9484762,East_River,Pumphouse_Hillslope,2765,B,B1,1,Downslope,5-15 cm,6/9/2017,164.359,11.99
+189,,38.92040645,-106.9484762,East_River,Pumphouse_Hillslope,2765,B,B1,1,Downslope,15 cm +,6/9/2017,37.623,0
+190,,38.92032545,-106.9485316,East_River,Pumphouse_Hillslope,2765,B,B2,2,Upslope,0-5 cm,6/9/2017,21.610,55.5
+191,,38.92032545,-106.9485316,East_River,Pumphouse_Hillslope,2765,B,B2,2,Upslope,5-15 cm,6/9/2017,210.347,10.85
+192,,38.92032545,-106.9485316,East_River,Pumphouse_Hillslope,2765,B,B2,2,Upslope,15 cm +,6/9/2017,124.145,6.98
+193,IEWFS0010,38.92040592,-106.9484972,East_River,Pumphouse_Hillslope,2765,B,B2,2,Downslope,0-5 cm,6/9/2017,200.615,11.79
+194,IEWFS0011,38.92040592,-106.9484972,East_River,Pumphouse_Hillslope,2765,B,B2,2,Downslope,5-15 cm,6/9/2017,102.915,22.22
+195,IEWFS0012,38.92040592,-106.9484972,East_River,Pumphouse_Hillslope,2765,B,B2,2,Downslope,15 cm +,6/9/2017,,63.98
+196,IEWFS0013,38.92040586,-106.9486826,East_River,Pumphouse_Hillslope,2765,C,C1,1,Upslope,0-5 cm,6/9/2017,219.731,
+197,IEWFS0014,38.92040586,-106.9486826,East_River,Pumphouse_Hillslope,2765,C,C1,1,Upslope,5-15 cm,6/9/2017,90.398,
+198,IEWFS0015,38.92040586,-106.9486826,East_River,Pumphouse_Hillslope,2765,C,C1,1,Upslope,15 cm +,6/9/2017,190.388,
+199,,38.92043273,-106.9488035,East_River,Pumphouse_Hillslope,2765,C,C1,1,Downslope,0-5 cm,6/9/2017,,
+200,,38.92043273,-106.9488035,East_River,Pumphouse_Hillslope,2765,C,C1,1,Downslope,5-15 cm,6/9/2017,,
+201,,38.92043273,-106.9488035,East_River,Pumphouse_Hillslope,2765,C,C1,1,Downslope,15 cm +,6/9/2017,129.055,
+202,IEWFS0016,38.92044255,-106.948818,East_River,Pumphouse_Hillslope,2765,C,C2,2,Upslope,0-5 cm,6/9/2017,33.310,
+203,IEWFS0017,38.92044255,-106.948818,East_River,Pumphouse_Hillslope,2765,C,C2,2,Upslope,5-15 cm,6/9/2017,151.162,
+204,IEWFS0018,38.92044255,-106.948818,East_River,Pumphouse_Hillslope,2765,C,C2,2,Upslope,15 cm +,6/9/2017,74.619,
+205,,38.92043812,-106.9488231,East_River,Pumphouse_Hillslope,2765,C,C2,2,Downslope,0-5 cm,6/9/2017,124.729,
+206,,38.92043812,-106.9488231,East_River,Pumphouse_Hillslope,2765,C,C2,2,Downslope,5-15 cm,6/9/2017,,
+207,,38.92043812,-106.9488231,East_River,Pumphouse_Hillslope,2765,C,C2,2,Downslope,15 cm +,6/9/2017,113.544,
+208,,38.92101738,-106.9480872,East_River,Pumphouse_Floodplain,2750,F,F1,1,,0-5 cm,6/9/2017,609.345,
+209,,38.92101738,-106.9480872,East_River,Pumphouse_Floodplain,2750,F,F1,1,,5-15 cm,6/9/2017,333.758,
+210,,38.92101738,-106.9480872,East_River,Pumphouse_Floodplain,2750,F,F1,1,,15 cm +,6/9/2017,38.140,
+211,,38.92120107,-106.9479522,East_River,Pumphouse_Floodplain,2750,F,F2,2,,0-5 cm,6/9/2017,,
+212,,38.92120107,-106.9479522,East_River,Pumphouse_Floodplain,2750,F,F2,2,,5-15 cm,6/9/2017,347.576,
+213,,38.92120107,-106.9479522,East_River,Pumphouse_Floodplain,2750,F,F2,2,,15 cm +,6/9/2017,122.172,
+214,,38.92135999,-106.9478277,East_River,Pumphouse_Floodplain,2750,F,F3,3,,0-5 cm,6/9/2017,,
+215,,38.92135999,-106.9478277,East_River,Pumphouse_Floodplain,2750,F,F3,3,,5-15 cm,6/9/2017,301.967,
+216,,38.92135999,-106.9478277,East_River,Pumphouse_Floodplain,2750,F,F3,3,,15 cm +,6/9/2017,157.283,
+217,,,,Washington_Gulch,Upper_Montane,2950,A,A1,1,Upslope,0-5 cm,6/9/2017,270.272,
+218,,,,Washington_Gulch,Upper_Montane,2950,A,A1,1,Upslope,5-15 cm,6/9/2017,150.583,
+219,,,,Washington_Gulch,Upper_Montane,2950,A,A1,1,Upslope,15 cm +,6/9/2017,177.081,
+220,,,,Washington_Gulch,Upper_Montane,2950,A,A2,2,Downslope,0-5 cm,6/9/2017,163.065,
+221,,,,Washington_Gulch,Upper_Montane,2950,A,A2,2,Downslope,5-15 cm,6/9/2017,35.522,
+222,,,,Washington_Gulch,Upper_Montane,2950,A,A2,2,Downslope,15 cm +,6/9/2017,2.061,
+223,,,,Washington_Gulch,Upper_Montane,2950,B,B1,1,Upslope,0-5 cm,6/9/2017,271.612,
+224,,,,Washington_Gulch,Upper_Montane,2950,B,B1,1,Upslope,5-15 cm,6/9/2017,285.499,
+225,,,,Washington_Gulch,Upper_Montane,2950,B,B1,1,Upslope,15 cm +,6/9/2017,106.931,
+226,,,,Washington_Gulch,Upper_Montane,2950,B,B2,2,Downslope,0-5 cm,6/9/2017,274.222,
+227,,,,Washington_Gulch,Upper_Montane,2950,B,B2,2,Downslope,5-15 cm,6/9/2017,81.821,
+228,,,,Washington_Gulch,Upper_Montane,2950,B,B2,2,Downslope,15 cm +,6/9/2017,78.182,
+229,,,,Washington_Gulch,Upper_Montane,2950,C,C1,1,Upslope,0-5 cm,6/9/2017,,
+230,,,,Washington_Gulch,Upper_Montane,2950,C,C1,1,Upslope,5-15 cm,6/9/2017,297.654,
+231,,,,Washington_Gulch,Upper_Montane,2950,C,C1,1,Upslope,15 cm +,6/9/2017,153.919,
+232,,,,Washington_Gulch,Upper_Montane,2950,C,C2,2,Downslope,0-5 cm,6/9/2017,260.168,
+233,,,,Washington_Gulch,Upper_Montane,2950,C,C2,2,Downslope,5-15 cm,6/9/2017,72.979,
+234,,,,Washington_Gulch,Upper_Montane,2950,C,C2,2,Downslope,15 cm +,6/9/2017,8.527,
+235,,38.9740448,-107.0367259,Washington_Gulch,Lower_Subalpine,3150,A,A1,1,Upslope,0-5 cm,6/9/2017,263.770,
+236,,38.9740448,-107.0367259,Washington_Gulch,Lower_Subalpine,3150,A,A1,1,Upslope,5-15 cm,6/9/2017,,
+237,,38.9740448,-107.0367259,Washington_Gulch,Lower_Subalpine,3150,A,A1,1,Upslope,15 cm +,6/9/2017,71.966,
+238,,,,Washington_Gulch,Lower_Subalpine,3150,A,A2,2,Downslope,0-5 cm,6/9/2017,198.291,
+239,,,,Washington_Gulch,Lower_Subalpine,3150,A,A2,2,Downslope,5-15 cm,6/9/2017,,
+240,,,,Washington_Gulch,Lower_Subalpine,3150,A,A2,2,Downslope,15 cm +,6/9/2017,87.201,
+241,,38.95572723,-107.0288493,Washington_Gulch,Lower_Subalpine,3150,B,B1,1,Upslope,0-5 cm,6/9/2017,204.067,
+242,,38.95572723,-107.0288493,Washington_Gulch,Lower_Subalpine,3150,B,B1,1,Upslope,5-15 cm,6/9/2017,54.893,
+243,,38.95572723,-107.0288493,Washington_Gulch,Lower_Subalpine,3150,B,B1,1,Upslope,15 cm +,6/9/2017,154.940,
+244,,,,Washington_Gulch,Lower_Subalpine,3150,B,B2,2,Downslope,0-5 cm,6/9/2017,236.063,
+245,,,,Washington_Gulch,Lower_Subalpine,3150,B,B2,2,Downslope,5-15 cm,6/9/2017,141.330,
+246,,,,Washington_Gulch,Lower_Subalpine,3150,B,B2,2,Downslope,15 cm +,6/9/2017,28.718,
+247,,38.95514771,-107,Washington_Gulch,Lower_Subalpine,3150,C,C1,1,Upslope,0-5 cm,6/9/2017,69.386,
+248,,38.95514771,-107,Washington_Gulch,Lower_Subalpine,3150,C,C1,1,Upslope,5-15 cm,6/9/2017,,
+249,,38.95514771,-107,Washington_Gulch,Lower_Subalpine,3150,C,C1,1,Upslope,15 cm +,6/9/2017,,
+250,,,,Washington_Gulch,Lower_Subalpine,3150,C,C2,2,Downslope,0-5 cm,6/9/2017,343.838,
+251,,,,Washington_Gulch,Lower_Subalpine,3150,C,C2,2,Downslope,5-15 cm,6/9/2017,,
+252,,,,Washington_Gulch,Lower_Subalpine,3150,C,C2,2,Downslope,15 cm +,6/9/2017,64.318,
+256,,38.92021441,-106.9486837,East_River,Pumphouse_Hillslope,2765,A,A1,1,Upslope,0-5 cm,7/24/2017,49.220,
+257,,38.92021441,-106.9486837,East_River,Pumphouse_Hillslope,2765,A,A1,1,Upslope,15-May,7/24/2017,163.173,
+258,,38.92021441,-106.9486837,East_River,Pumphouse_Hillslope,2765,A,A1,1,Upslope,15 cm +,7/24/2017,191.302,
+259,,38.9202656,-106.9486333,East_River,Pumphouse_Hillslope,2765,A,A1,2,Downslope,0-5 cm,7/24/2017,148.226,
+260,,38.9202656,-106.9486333,East_River,Pumphouse_Hillslope,2765,A,A1,2,Downslope,15-May,7/24/2017,180.921,
+261,,38.9202656,-106.9486333,East_River,Pumphouse_Hillslope,2765,A,A1,2,Downslope,15 cm +,7/24/2017,176.126,
+262,,38.92030497,-106.9484184,East_River,Pumphouse_Hillslope,2765,B,B1,1,Upslope,0-5 cm,7/24/2017,201.621,
+263,,38.92030497,-106.9484184,East_River,Pumphouse_Hillslope,2765,B,B1,1,Upslope,15-May,7/24/2017,151.469,
+264,,38.92030497,-106.9484184,East_River,Pumphouse_Hillslope,2765,B,B1,1,Upslope,15 cm +,7/24/2017,149.587,
+265,,38.92035176,-106.948345,East_River,Pumphouse_Hillslope,2765,B,B1,2,Downslope,0-5 cm,7/24/2017,120.918,
+266,,38.92035176,-106.948345,East_River,Pumphouse_Hillslope,2765,B,B1,2,Downslope,15-May,7/24/2017,151.616,
+267,,38.92035176,-106.948345,East_River,Pumphouse_Hillslope,2765,B,B1,2,Downslope,15 cm +,7/24/2017,183.477,
+268,,38.92033763,-106.9484864,East_River,Pumphouse_Hillslope,2765,B,B2,1,Upslope,0-5 cm,7/24/2017,232.006,
+269,,38.92033763,-106.9484864,East_River,Pumphouse_Hillslope,2765,B,B2,1,Upslope,15-May,7/24/2017,159.991,
+270,,38.92033763,-106.9484864,East_River,Pumphouse_Hillslope,2765,B,B2,1,Upslope,15 cm +,7/24/2017,138.706,
+271,,38.92039429,-106.9484864,East_River,Pumphouse_Hillslope,2765,B,B2,2,Downslope,0-5 cm,7/24/2017,141.777,
+272,,38.92039429,-106.9484864,East_River,Pumphouse_Hillslope,2765,B,B2,2,Downslope,15-May,7/24/2017,199.578,
+273,,38.92039429,-106.9484864,East_River,Pumphouse_Hillslope,2765,B,B2,2,Downslope,15 cm +,7/24/2017,86.050,
+274,,38.92039446,-106.9486608,East_River,Pumphouse_Hillslope,2765,C,C1,1,Upslope,0-5 cm,7/24/2017,235.325,
+275,,38.92039446,-106.9486608,East_River,Pumphouse_Hillslope,2765,C,C1,1,Upslope,15-May,7/24/2017,188.285,
+276,,38.92039446,-106.9486608,East_River,Pumphouse_Hillslope,2765,C,C1,1,Upslope,15 cm +,7/24/2017,,
+277,,38.9204693,-106.9486782,East_River,Pumphouse_Hillslope,2765,C,C1,2,Downslope,0-5 cm,7/24/2017,,
+278,,38.9204693,-106.9486782,East_River,Pumphouse_Hillslope,2765,C,C1,2,Downslope,15-May,7/24/2017,104.849,
+279,,38.9204693,-106.9486782,East_River,Pumphouse_Hillslope,2765,C,C1,2,Downslope,15 cm +,7/24/2017,,
+280,, 38.92045273,-106.9488019,East_River,Pumphouse_Hillslope,2765,C,C2,1,Upslope,0-5 cm,7/24/2017,310.083,
+281,, 38.92045273,-106.9488019,East_River,Pumphouse_Hillslope,2765,C,C2,1,Upslope,15-May,7/24/2017,100.083,
+282,, 38.92045273,-106.9488019,East_River,Pumphouse_Hillslope,2765,C,C2,1,Upslope,15 cm +,7/24/2017,152.818,
+283,,38.92047172,-106.9487664,East_River,Pumphouse_Hillslope,2765,C,C2,2,Downslope,0-5 cm,7/24/2017,107.694,
+284,,38.92047172,-106.9487664,East_River,Pumphouse_Hillslope,2765,C,C2,2,Downslope,15-May,7/24/2017,116.333,
+285,,38.92047172,-106.9487664,East_River,Pumphouse_Hillslope,2765,C,C2,2,Downslope,15 cm +,7/24/2017,,
+286,,38.92100711, -106.94807801,East_River,Pumphouse_Floodplain,2750,F,F1,1,,0-5 cm,7/24/2017,,
+287,,38.92100711, -106.94807801,East_River,Pumphouse_Floodplain,2750,F,F1,1,,15-May,7/24/2017,,
+288,,38.92100711, -106.94807801,East_River,Pumphouse_Floodplain,2750,F,F1,1,,15 cm +,7/24/2017,,
+289,,38.92119667,-106.9479755,East_River,Pumphouse_Floodplain,2750,F,F2,2,,0-5 cm,7/24/2017,259.397,
+290,,38.92119667,-106.9479755,East_River,Pumphouse_Floodplain,2750,F,F2,2,,15-May,7/24/2017,,
+291,,38.92119667,-106.9479755,East_River,Pumphouse_Floodplain,2750,F,F2,2,,15 cm +,7/24/2017,,
+292,,38.92134673,-106.947799,East_River,Pumphouse_Floodplain,2750,F,F3,3,,0-5 cm,7/24/2017,,
+293,,38.92134673,-106.947799,East_River,Pumphouse_Floodplain,2750,F,F3,3,,15-May,7/24/2017,69.491,
+294,,38.92134673,-106.947799,East_River,Pumphouse_Floodplain,2750,F,F3,3,,15 cm +,7/24/2017,331.355,
+298,,38.9740448,-107.0367259,Washington_Gulch,Lower_Subalpine,3150,A,A1,1,Upslope,0-5 cm,8/1/2017,129.600,
+299,,38.9740448,-107.0367259,Washington_Gulch,Lower_Subalpine,3150,A,A1,1,Upslope,15-May,8/1/2017,224.807,
+300,,38.9740448,-107.0367259,Washington_Gulch,Lower_Subalpine,3150,A,A1,1,Upslope,15 cm +,8/1/2017,125.402,
+301,,38.9740448,-107.0367259,Washington_Gulch,Lower_Subalpine,3150,A,A1,2,Downslope,0-5 cm,8/1/2017,23.638,
+302,,38.9740448,-107.0367259,Washington_Gulch,Lower_Subalpine,3150,A,A1,2,Downslope,15-May,8/1/2017,70.227,
+303,,38.9740448,-107.0367259,Washington_Gulch,Lower_Subalpine,3150,A,A1,2,Downslope,15 cm +,8/1/2017,112.057,
+304,,38.97409283,-107.0367513,Washington_Gulch,Lower_Subalpine,3150,A,A2,1,Upslope,0-5 cm,8/1/2017,137.877,
+305,,38.97409283,-107.0367513,Washington_Gulch,Lower_Subalpine,3150,A,A2,1,Upslope,15-May,8/1/2017,127.195,
+306,,38.97409283,-107.0367513,Washington_Gulch,Lower_Subalpine,3150,A,A2,1,Upslope,15 cm +,8/1/2017,93.390,
+307,,38.97409283,-107.0367513,Washington_Gulch,Lower_Subalpine,3150,A,A2,2,Downslope,0-5 cm,8/1/2017,128.308,
+308,,38.97409283,-107.0367513,Washington_Gulch,Lower_Subalpine,3150,A,A2,2,Downslope,15-May,8/1/2017,90.311,
+309,,38.97409283,-107.0367513,Washington_Gulch,Lower_Subalpine,3150,A,A2,2,Downslope,15 cm +,8/1/2017,46.696,
+310,,38.97438861,-107.0365253,Washington_Gulch,Lower_Subalpine,3150,B,B1,1,Upslope,0-5 cm,8/1/2017,122.070,
+311,,38.97438861,-107.0365253,Washington_Gulch,Lower_Subalpine,3150,B,B1,1,Upslope,15-May,8/1/2017,109.726,
+312,,38.97438861,-107.0365253,Washington_Gulch,Lower_Subalpine,3150,B,B1,1,Upslope,15 cm +,8/1/2017,66.865,
+313,,38.97438861,-107.0365253,Washington_Gulch,Lower_Subalpine,3150,B,B1,2,Downslope,0-5 cm,8/1/2017,120.008,
+314,,38.97438861,-107.0365253,Washington_Gulch,Lower_Subalpine,3150,B,B1,2,Downslope,15-May,8/1/2017,76.755,
+315,,38.97438861,-107.0365253,Washington_Gulch,Lower_Subalpine,3150,B,B1,2,Downslope,15 cm +,8/1/2017,59.426,
+316,,38.97443553,-107.0365009,Washington_Gulch,Lower_Subalpine,3150,B,B2,1,Upslope,0-5 cm,8/1/2017,168.908,
+317,,38.97443553,-107.0365009,Washington_Gulch,Lower_Subalpine,3150,B,B2,1,Upslope,15-May,8/1/2017,140.658,
+318,,38.97443553,-107.0365009,Washington_Gulch,Lower_Subalpine,3150,B,B2,1,Upslope,15 cm +,8/1/2017,89.080,
+319,,38.97443553,-107.0365009,Washington_Gulch,Lower_Subalpine,3150,B,B2,2,Downslope,0-5 cm,8/1/2017,199.881,
+320,,38.97443553,-107.0365009,Washington_Gulch,Lower_Subalpine,3150,B,B2,2,Downslope,15-May,8/1/2017,178.484,
+321,,38.97443553,-107.0365009,Washington_Gulch,Lower_Subalpine,3150,B,B2,2,Downslope,15 cm +,8/1/2017,85.336,
+322,,38.95514771,-107.0276516,Washington_Gulch,Lower_Subalpine,3150,C,C1,1,Upslope,0-5 cm,8/1/2017,99.876,
+323,,38.95514771,-107.0276516,Washington_Gulch,Lower_Subalpine,3150,C,C1,1,Upslope,15-May,8/1/2017,98.218,
+324,,38.95514771,-107.0276516,Washington_Gulch,Lower_Subalpine,3150,C,C1,1,Upslope,15 cm +,8/1/2017,,
+325,,38.95514771,-107.0276516,Washington_Gulch,Lower_Subalpine,3150,C,C1,2,Downslope,0-5 cm,8/1/2017,206.349,
+326,,38.95514771,-107.0276516,Washington_Gulch,Lower_Subalpine,3150,C,C1,2,Downslope,15-May,8/1/2017,81.910,
+327,,38.95514771,-107.0276516,Washington_Gulch,Lower_Subalpine,3150,C,C1,2,Downslope,15 cm +,8/1/2017,58.005,
+328,,38.95514736,-107.0284548,Washington_Gulch,Lower_Subalpine,3150,C,C2,1,Upslope,0-5 cm,8/1/2017,102.428,
+329,,38.95514736,-107.0284548,Washington_Gulch,Lower_Subalpine,3150,C,C2,1,Upslope,15-May,8/1/2017,65.172,
+330,,38.95514736,-107.0284548,Washington_Gulch,Lower_Subalpine,3150,C,C2,1,Upslope,15 cm +,8/1/2017,113.197,
+331,,38.95514736,-107.0284548,Washington_Gulch,Lower_Subalpine,3150,C,C2,2,Downslope,0-5 cm,8/1/2017,291.412,
+332,,38.95514736,-107.0284548,Washington_Gulch,Lower_Subalpine,3150,C,C2,2,Downslope,15-May,8/1/2017,123.123,
+333,,38.95514736,-107.0284548,Washington_Gulch,Lower_Subalpine,3150,C,C2,2,Downslope,15 cm +,8/1/2017,47.098,
+334,,,,Washington_Gulch,Lower_Subalpine,3150,Willow,Willow,1,Upslope,0-5 cm,8/1/2017,146.382,
+335,,,,Washington_Gulch,Lower_Subalpine,3150,Willow,Willow,1,Upslope,15-May,8/1/2017,48.678,
+336,,,,Washington_Gulch,Lower_Subalpine,3150,Willow,Willow,1,Upslope,15 cm +,8/1/2017,84.660,
+337,,,,Washington_Gulch,Lower_Subalpine,3150,Willow,Willow,2,Downslope,0-5 cm,8/1/2017,149.671,
+338,,,,Washington_Gulch,Lower_Subalpine,3150,Willow,Willow,2,Downslope,15-May,8/1/2017,195.850,
+339,,,,Washington_Gulch,Lower_Subalpine,3150,Willow,Willow,2,Downslope,15 cm +,8/1/2017,86.093,
+340,,,,Washington_Gulch,Lower_Subalpine,3150,Veratrum,Veratrum,1,Upslope,0-5 cm,8/1/2017,246.390,
+341,,,,Washington_Gulch,Lower_Subalpine,3150,Veratrum,Veratrum,1,Upslope,15-May,8/1/2017,111.421,
+342,,,,Washington_Gulch,Lower_Subalpine,3150,Veratrum,Veratrum,1,Upslope,15 cm +,8/1/2017,152.927,
+343,,,,Washington_Gulch,Lower_Subalpine,3150,Veratrum,Veratrum,2,Downslope,0-5 cm,8/1/2017,148.255,
+344,,,,Washington_Gulch,Lower_Subalpine,3150,Veratrum,Veratrum,2,Downslope,15-May,8/1/2017,105.885,
+345,,,,Washington_Gulch,Lower_Subalpine,3150,Veratrum,Veratrum,2,Downslope,15 cm +,8/1/2017,138.541,
+349,,38.92022187,-106.9487122,East_River,Pumphouse_Hillslope,2765,A,A1,1,Upslope,0-5 cm,9/15/2017,,
+350,,38.92022187,-106.9487122,East_River,Pumphouse_Hillslope,2765,A,A1,1,Upslope,15-May,9/15/2017,,
+351,,38.92022187,-106.9487122,East_River,Pumphouse_Hillslope,2765,A,A1,1,Upslope,15 cm +,9/15/2017,,
+352,,38.92025461,-106.9487841,East_River,Pumphouse_Hillslope,2765,A,A1,2,Downslope,0-5 cm,9/15/2017,69.513,
+353,,38.92025461,-106.9487841,East_River,Pumphouse_Hillslope,2765,A,A1,2,Downslope,15-May,9/15/2017,27.193,
+354,,38.92025461,-106.9487841,East_River,Pumphouse_Hillslope,2765,A,A1,2,Downslope,15 cm +,9/15/2017,143.742,
+355,IEWFS0019,38.92029456,-106.9487578,East_River,Pumphouse_Hillslope,2765,A,A2,1,Upslope,0-5 cm,9/15/2017,,
+356,IEWFS001A,38.92029456,-106.9487578,East_River,Pumphouse_Hillslope,2765,A,A2,1,Upslope,15-May,9/15/2017,25.941,
+357,IEWFS001B,38.92029456,-106.9487578,East_River,Pumphouse_Hillslope,2765,A,A2,1,Upslope,15 cm +,9/15/2017,,
+358,,38.92022187,-106.9487122,East_River,Pumphouse_Hillslope,2765,A,A2,2,Downslope,0-5 cm,9/15/2017,150.487,
+359,,38.92022187,-106.9487122,East_River,Pumphouse_Hillslope,2765,A,A2,2,Downslope,15-May,9/15/2017,207.852,
+360,,38.92022187,-106.9487122,East_River,Pumphouse_Hillslope,2765,A,A2,2,Downslope,15 cm +,9/15/2017,165.564,
+361,,38.92026851,-106.9483737,East_River,Pumphouse_Hillslope,2765,B,B1,1,Upslope,0-5 cm,9/15/2017,,
+362,,38.92026851,-106.9483737,East_River,Pumphouse_Hillslope,2765,B,B1,1,Upslope,15-May,9/15/2017,122.909,
+363,,38.92026851,-106.9483737,East_River,Pumphouse_Hillslope,2765,B,B1,1,Upslope,15 cm +,9/15/2017,119.293,
+364,,38.92031195,-106.9484883,East_River,Pumphouse_Hillslope,2765,B,B1,2,Downslope,0-5 cm,9/15/2017,168.151,
+365,,38.92031195,-106.9484883,East_River,Pumphouse_Hillslope,2765,B,B1,2,Downslope,15-May,9/15/2017,115.570,
+366,,38.92031195,-106.9484883,East_River,Pumphouse_Hillslope,2765,B,B1,2,Downslope,15 cm +,9/15/2017,142.419,
+367,IEWFS001C,38.92040645,-106.9484762,East_River,Pumphouse_Hillslope,2765,B,B2,1,Upslope,0-5 cm,9/15/2017,247.433,
+368,IEWFS001D,38.92040645,-106.9484762,East_River,Pumphouse_Hillslope,2765,B,B2,1,Upslope,15-May,9/15/2017,173.244,
+369,IEWFS001E,38.92040645,-106.9484762,East_River,Pumphouse_Hillslope,2765,B,B2,1,Upslope,15 cm +,9/15/2017,169.431,
+370,,38.92038771,-106.9486663,East_River,Pumphouse_Hillslope,2765,B,B2,2,Downslope,0-5 cm,9/15/2017,162.062,
+371,,38.92038771,-106.9486663,East_River,Pumphouse_Hillslope,2765,B,B2,2,Downslope,15-May,9/15/2017,239.058,
+372,,38.92038771,-106.9486663,East_River,Pumphouse_Hillslope,2765,B,B2,2,Downslope,15 cm +,9/15/2017,77.787,
+373,,38.92037722,-106.9486393,East_River,Pumphouse_Hillslope,2765,C,C1,1,Upslope,0-5 cm,9/15/2017,216.402,
+374,,38.92037722,-106.9486393,East_River,Pumphouse_Hillslope,2765,C,C1,1,Upslope,15-May,9/15/2017,186.564,
+375,,38.92037722,-106.9486393,East_River,Pumphouse_Hillslope,2765,C,C1,1,Upslope,15 cm +,9/15/2017,77.710,
+376,,38.92038771,-106.9486663,East_River,Pumphouse_Hillslope,2765,C,C1,2,Downslope,0-5 cm,9/15/2017,187.791,
+377,,38.92038771,-106.9486663,East_River,Pumphouse_Hillslope,2765,C,C1,2,Downslope,15-May,9/15/2017,136.010,
+378,,38.92038771,-106.9486663,East_River,Pumphouse_Hillslope,2765,C,C1,2,Downslope,15 cm +,9/15/2017,132.214,
+379,IEWFS001F,38.92048757,-106.9487855,East_River,Pumphouse_Hillslope,2765,C,C2,1,Upslope,0-5 cm,9/15/2017,198.581,
+380,IEWFS001G,38.92048757,-106.9487855,East_River,Pumphouse_Hillslope,2765,C,C2,1,Upslope,15-May,9/15/2017,190.208,
+381,IEWFS001H,38.92048757,-106.9487855,East_River,Pumphouse_Hillslope,2765,C,C2,1,Upslope,15 cm +,9/15/2017,105.444,
+382,,38.92043812,-106.9488231,East_River,Pumphouse_Hillslope,2765,C,C2,2,Downslope,0-5 cm,9/15/2017,255.133,
+383,,38.92043812,-106.9488231,East_River,Pumphouse_Hillslope,2765,C,C2,2,Downslope,15-May,9/15/2017,70.611,
+384,,38.92043812,-106.9488231,East_River,Pumphouse_Floodplain,2765,C,C2,2,Downslope,15 cm +,9/15/2017,71.920,
+385,,38.92100711, -106.94807801,East_River,Pumphouse_Floodplain,2750,F,F1,1,,0-5 cm,9/15/2017,353.491,
+386,,38.92100711, -106.94807801,East_River,Pumphouse_Floodplain,2750,F,F1,1,,15-May,9/15/2017,291.679,
+387,,38.92100711, -106.94807801,East_River,Pumphouse_Floodplain,2750,F,F1,1,,15 cm +,9/15/2017,102.250,
+388,,38.92119667,-106.9479755,East_River,Pumphouse_Floodplain,2750,F,F2,2,,0-5 cm,9/15/2017,2781.195,
+389,,38.92119667,-106.9479755,East_River,Pumphouse_Floodplain,2750,F,F2,2,,15-May,9/15/2017,330.868,
+390,,38.92119667,-106.9479755,East_River,Pumphouse_Floodplain,2750,F,F2,2,,15 cm +,9/15/2017,620.515,
+391,,38.92134673,-106.947799,East_River,Pumphouse_Floodplain,2750,F,F3,3,,0-5 cm,9/15/2017,653.861,
+392,,38.92134673,-106.947799,East_River,Pumphouse_Floodplain,2750,F,F3,3,,15-May,9/15/2017,586.596,
+393,,38.92134673,-106.947799,East_River,Pumphouse_Floodplain,2750,F,F3,3,,15 cm +,9/15/2017,183.575,
+397,,38.92022382,-106.9486684,East_River,Pumphouse_Hillslope,2765,A,A1,1,Upslope,0-5 cm,10/27/2017,282.789,
+398,,38.92022382,-106.9486684,East_River,Pumphouse_Hillslope,2765,A,A1,1,Upslope,15-May,10/27/2017,190.219,
+399,,38.92022382,-106.9486684,East_River,Pumphouse_Hillslope,2765,A,A1,1,Upslope,15 cm +,10/27/2017,170.521,
+400,,38.92025713,-106.9488282,East_River,Pumphouse_Hillslope,2765,A,A1,1,Downslope,0-5 cm,10/27/2017,208.759,
+401,,38.92025713,-106.9488282,East_River,Pumphouse_Hillslope,2765,A,A1,1,Downslope,15-May,10/27/2017,187.001,
+402,,38.92025713,-106.9488282,East_River,Pumphouse_Hillslope,2765,A,A1,1,Downslope,15 cm +,10/27/2017,263.670,
+403,,38.92029456,-106.9487578,East_River,Pumphouse_Hillslope,2765,A,A2,2,Upslope,0-5 cm,10/27/2017,239.071,
+404,,38.92029456,-106.9487578,East_River,Pumphouse_Hillslope,2765,A,A2,2,Upslope,15-May,10/27/2017,142.782,
+405,,38.92029456,-106.9487578,East_River,Pumphouse_Hillslope,2765,A,A2,2,Upslope,15 cm +,10/27/2017,157.713,
+406,,38.92029456,-106.9487578,East_River,Pumphouse_Hillslope,2765,A,A2,2,Downslope,0-5 cm,10/27/2017,351.437,
+407,,38.92029456,-106.9487578,East_River,Pumphouse_Hillslope,2765,A,A2,2,Downslope,15-May,10/27/2017,251.412,
+408,,38.92029456,-106.9487578,East_River,Pumphouse_Hillslope,2765,A,A2,2,Downslope,15 cm +,10/27/2017,302.227,
+409,,38.92030867,-106.9483985,East_River,Pumphouse_Hillslope,2765,B,B1,1,Upslope,0-5 cm,10/27/2017,332.819,
+410,,38.92030867,-106.9483985,East_River,Pumphouse_Hillslope,2765,B,B1,1,Upslope,15-May,10/27/2017,292.709,
+411,,38.92030867,-106.9483985,East_River,Pumphouse_Hillslope,2765,B,B1,1,Upslope,15 cm +,10/27/2017,266.730,
+412,,38.92035345,-106.9483429,East_River,Pumphouse_Hillslope,2765,B,B1,2,Downslope,0-5 cm,10/27/2017,295.144,
+413,,38.92035345,-106.9483429,East_River,Pumphouse_Hillslope,2765,B,B1,2,Downslope,15-May,10/27/2017,221.411,
+414,,38.92035345,-106.9483429,East_River,Pumphouse_Hillslope,2765,B,B1,2,Downslope,15 cm +,10/27/2017,249.155,
+415,,38.92034899,-106.948502,East_River,Pumphouse_Hillslope,2765,B,B2,1,Upslope,0-5 cm,10/27/2017,267.054,
+416,,38.92034899,-106.948502,East_River,Pumphouse_Hillslope,2765,B,B2,1,Upslope,15-May,10/27/2017,224.560,
+417,,38.92034899,-106.948502,East_River,Pumphouse_Hillslope,2765,B,B2,1,Upslope,15 cm +,10/27/2017,146.159,
+418,,38.92040645,-106.9484762,East_River,Pumphouse_Hillslope,2765,B,B2,2,Downslope,0-5 cm,10/27/2017,354.377,
+419,,38.92040645,-106.9484762,East_River,Pumphouse_Hillslope,2765,B,B2,2,Downslope,15-May,10/27/2017,156.862,
+420,,38.92040645,-106.9484762,East_River,Pumphouse_Hillslope,2765,B,B2,2,Downslope,15 cm +,10/27/2017,166.056,
+421,,38.92039992,-106.9486791,East_River,Pumphouse_Hillslope,2765,C,C1,1,Upslope,0-5 cm,10/27/2017,322.406,
+422,,38.92039992,-106.9486791,East_River,Pumphouse_Hillslope,2765,C,C1,1,Upslope,15-May,10/27/2017,179.192,
+423,,38.92039992,-106.9486791,East_River,Pumphouse_Hillslope,2765,C,C1,1,Upslope,15 cm +,10/27/2017,137.320,
+424,,38.92045283,-106.9486804,East_River,Pumphouse_Hillslope,2765,C,C1,2,Downslope,0-5 cm,10/27/2017,367.726,
+425,,38.92045283,-106.9486804,East_River,Pumphouse_Hillslope,2765,C,C1,2,Downslope,15-May,10/27/2017,217.400,
+426,,38.92045283,-106.9486804,East_River,Pumphouse_Hillslope,2765,C,C1,2,Downslope,15 cm +,10/27/2017,160.679,
+427,,38.92043957,-106.9488032,East_River,Pumphouse_Hillslope,2765,C,C2,1,Upslope,0-5 cm,10/27/2017,317.374,
+428,,38.92043957,-106.9488032,East_River,Pumphouse_Hillslope,2765,C,C2,1,Upslope,15-May,10/27/2017,496.068,
+429,,38.92043957,-106.9488032,East_River,Pumphouse_Hillslope,2765,C,C2,1,Upslope,15 cm +,10/27/2017,272.967,
+430,,38.92048757,-106.9487855,East_River,Pumphouse_Hillslope,2765,C,C2,2,Downslope,0-5 cm,10/27/2017,359.056,
+431,,38.92048757,-106.9487855,East_River,Pumphouse_Hillslope,2765,C,C2,2,Downslope,15-May,10/27/2017,190.331,
+432,,38.92048757,-106.9487855,East_River,Pumphouse_Floodplain,2765,C,C2,2,Downslope,15 cm +,10/27/2017,121.778,
+433,,38.92102414,-106.9480933,East_River,Pumphouse_Floodplain,2750,F,F1,1,,0-5 cm,10/27/2017,995.680,
+434,,38.92102414,-106.9480933,East_River,Pumphouse_Floodplain,2750,F,F1,1,,15-May,10/27/2017,441.063,
+435,,38.92102414,-106.9480933,East_River,Pumphouse_Floodplain,2750,F,F1,1,,15 cm +,10/27/2017,244.096,
+436,,38.92120107,-106.9479522,East_River,Pumphouse_Floodplain,2750,F,F2,2,,0-5 cm,10/27/2017,382.849,
+437,,38.92120107,-106.9479522,East_River,Pumphouse_Floodplain,2750,F,F2,2,,15-May,10/27/2017,214.672,
+438,,38.92120107,-106.9479522,East_River,Pumphouse_Floodplain,2750,F,F2,2,,15 cm +,10/27/2017,128.956,
+439,,38.92135999,-106.9478277,East_River,Pumphouse_Floodplain,2750,F,F3,3,,0-5 cm,10/27/2017,296.922,
+440,,38.92135999,-106.9478277,East_River,Pumphouse_Floodplain,2750,F,F3,3,,15-May,10/27/2017,390.179,
+441,,38.92135999,-106.9478277,East_River,Pumphouse_Floodplain,2750,F,F3,3,,15 cm +,10/27/2017,309.301,
+442,,38.92068916,-106.9484571,East_River,Pumphouse_Toeslope,2750,TS,TS,1,,0-5 cm,10/27/2017,274.302,
+443,,38.92068916,-106.9484571,East_River,Pumphouse_Toeslope,2750,TS,TS,1,,15-May,10/27/2017,93.259,
+444,,38.92068916,-106.9484571,East_River,Pumphouse_Toeslope,2750,TS,TS,1,,15 cm +,10/27/2017,215.885,

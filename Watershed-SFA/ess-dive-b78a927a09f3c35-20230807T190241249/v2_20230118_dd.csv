@@ -1,0 +1,38 @@
+Name,Unit,Definition,Type,Data_Type
+Name,N/A,Column headers from each csv file in the dataset.,Column header,text
+Unit,N/A,Units that apply to a given column in the dataset.,Column header,text
+Definition,N/A,Description of the information in a given column in the dataset.,Column header,text
+Type,N/A,Type of term (column header; row header; data flag).,Column header,text
+Data_Type,N/A,Type of data (text; numeric; date).,Column header,text
+File_Name,N/A,Name of the files in the dataset/data package.,Column header,text
+File_Description,N/A,A brief description of the files in the dataset/data package.,Column header,text
+Standard,N/A,Standard applied to the data file.,Column header,text
+Start_Date,YYYY-MM-DD,The earliest date in the file.,Column header,date
+End_Date,YYYY-MM-DD,The latest date in the file.,Column header,date
+Latitude,decimal_degrees_WGS84,Latitude of sensor measurement.,Column header,numeric
+Longitude,decimal_degrees_WGS84,Longitude of sensor measurement.,Column header,numeric
+InstallationMethod_ID,N/A,Unique user-determined ID for a method described in the InstallationMethods_Description column in InstallationMethods.csv and listed as a metadata header row term in the data file(s).,Column header,text
+InstallationMethod_Description,N/A,"Free text field to describe the sensor installation/deployment design, structure, or general information.",Column header,text
+Site_ID,N/A,Unique Location_ID identifier for a particular site within the Watershed Function SFA field site,Column header,text
+Depth,centimeters,Depth at which the sensor is deployed.,Column header,numeric
+Elevation,meters,Elevation at which the sensor is deployed.,Column header,numeric
+Site_Name,N/A,Site name of location where the data is from.,Column header,text
+Site_Type,N/A,Water body type or local environmental context in which sensor was deployed. The field uses the ENVO controlled vocabulary https://www.ebi.ac.uk/ols/ontologies/envo).,Column header,text
+Configuration,N/A,Description of sensor installation/deployment configuration. The field uses the following controlled vocabulary: Well; Piezometer; Open water column; Buried in sediment or soil; Surface of sediment or soil; Engineered flow-through structure.,Column header,text
+DateTime_Start,YYYY-MM-DD hh:mm:ss,Start date and time of an InstallationMethod_ID. YYYY-MM-DD hh:mm:ss.,Column header,date
+DateTime_End,YYYY-MM-DD hh:mm:ss,End date and time of an InstallationMethod_ID. YYYY-MM-DD hh:mm:ss.,Column header,date
+UTC_Offset,N/A,UTC offset of date/timestamp.,Column header,text
+HeaderRows_*,N/A,"The number of header rows in a given data file(s). In each file, the number of header rows replaces the asterisk.",N/A,text
+Instrument_Summary,N/A,Free text field providing general information about the instrumentation used for a given column of data (e.g. make and model of sensor).,N/A,text
+DateTime,YYYY-MM-DD hh:mm:ss,Date and time of waterlevel measurement.,Column header,date
+Date,YYYY-MM-DD,Date of waterlevel measurement.,Column header,date
+Waterlevel_5min,meters,Measurement of waterlevel for 5 minute frequency. Waterlevel measured with In-Situ Aqua TROLL 200 Data Logger sensor.,Column header,numeric
+Waterlevel_1hr,meters,Measurement of waterlevel for 1 hour frequency. Waterlevel measured with In-Situ Aqua TROLL 200 Data Logger sensor.,Column header,numeric
+Waterlevel_1d,meters,Measurement of waterlevel for daily frequency. Waterlevel measured with In-Situ Aqua TROLL 200 Data Logger sensor. ,Column header,numeric
+Waterlevel_5min_trend,meters,Temporal trend of 5 minute interval with removed high-frequency data.,Column header,numeric
+Waterlevel_1hr_trend,meters,Temporal trend of 1 hour interval with removed high-frequency data.,Column header,numeric
+Waterlevel_1d_trend,meters,Temporal trend of daily interval with removed high-frequency data.,Column header,numeric
+dupl_time,N/A,Data flag for duplicated date within data file.,data flag,N/A
+flag_na_Date,N/A,Data flag for missing date within data file.,data flag,N/A
+flag_na_WL,N/A,Data flag for missing waterlevel within data file.,data flag,N/A
+flag_outl_WL,N/A,Data flag for outlier waterlevel measurements.,data flag,N/A

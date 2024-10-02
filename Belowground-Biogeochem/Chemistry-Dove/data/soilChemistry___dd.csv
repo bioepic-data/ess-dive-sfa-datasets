@@ -1,0 +1,8 @@
+Column_or_Row_Name,Unit,Definition,Column_or_Row_Long_Name,Data_Type
+sampleID,N/A,"Descriptive sample identifier indicating sampling site and date, core number and sampling depth.",Unique sample identifier,text
+IGSN,N/A,Unique geologic sample registration identifier.,Intervational Geo Sample Number,text
+plot,N/A,"Experimental field plot replicate number. Each numberc corresponds to a pair of plots, where one was heated by 4 degree Celsius above ambient temperature and the other was not; see Field_Treatment",Field soil plot,text
+soilDepth,cm,"Soil depth interval, below the surface.",Depth interval,text
+fieldTreatment,N/A,"Experimental temperature regime of the  field plot: Heated, soil plot heated by 4 degree Celsius above ambient temperature; or Control, unheated control soil plot.",Field temperature treatment,text
+totalC,Percent,Soil carbon percentage. Missing data = -9999,Percent Carbon,numeric
+totalN,Percent,Soil nitrogen percentage. Missing data = -9999,Percent Nitrogen,numeric

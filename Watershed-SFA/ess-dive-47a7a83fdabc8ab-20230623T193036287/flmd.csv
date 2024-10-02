@@ -1,0 +1,9 @@
+File_Name,File_Description,Standard,Contact,Date_Start,Date_End,Data_Orientation
+flmd.csv,File-level metadata associated with dataset describing files contained within dataset.,ESS-DIVE FLMD,Boris Faybishenko,-9999,-9999,vertical
+dd.csv,Data dictionary defining column headers and other terms contained within data files across the dataset.,ESS-DIVE FLMD,Boris Faybishenko,-9999,-9999,vertical
+All_sites_AI.csv,"Data file containing aridity index (AI) for all 17 sites within the East River Watershed, Colorado.",N/A,Boris Faybishenko,1966-01,2021-12,vertical
+All_sites_ET.csv,"Data file containing actual evapotranspiration (ET) for all 17 sites within the East River Watershed, Colorado.",N/A,Boris Faybishenko,1966-01-01,2023-12-21,vertical
+All_sites_input_data.csv,"Data file containing input parameters of monthly precipitation, air temperature (minimum, mean, and maximum), vapor pressure deficit (minimum and maximum), and dewpoint temperature (mean) downloaded from the PRISM database for all 17 sites within the East River Watershed, Colorado. ",N/A,Boris Faybishenko,1966-01,2021-12,vertical
+All_sites_PET_PM.csv,"Data file containing potential evapotranspiration (PET) using the PenmanâMonteith (PM) equation for all 17 sites within the East River Watershed, Colorado.",N/A,Boris Faybishenko,1966-01,2021-12,vertical
+All_sites_SPEI.csv,"Data file containing standard precipitation-evapotranspiration index (SPEI) for all 17 sites within the East River Watershed, Colorado.",N/A,Boris Faybishenko,1966-01,2021-12,vertical
+All_sites_spi.csv,"Data file containing standard precipitation index (SPI) for all 17 sites within the East River Watershed, Colorado.",N/A,Boris Faybishenko,1966-01,2021-12,vertical

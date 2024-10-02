@@ -1,0 +1,16 @@
+FILE DESCRIPTION,
+"This is a list of field sites associated with the Watershed Function SFA and its broader community at the East River, Colorado, United States. A published data package associated with this sheet is located in the DOE's East River data repository (doi:10.15485/1660962). ",
+The metadata collected for these sites is for the purpose of providing information regarding the SFA field activities and enabling easier discovery of sites associated with a particular research theme or measurement.,
+,
+There are 3 primary sheets organized by a spatial hierarchy. ,
+"Point Locations (Surface): The locations tab is primarily intended to capture information related to surface point locations (lat/long) in the East River Community Observatory. These can be either locations with permanent installs or locations with one-off samples. Permanent installs are required to have an SFA-compatible location ID. One-off sampling efforts do not need an SFA-ID, but it is recommended that an identifer unique across the SFA are chosen for these sample locations. Depth or height measurements are indicated in the metadata associated with each point location. ",
+Plots: Contains a list of measurement plots. Plots can be parent locations for point locations. ,
+Geographic Region: Consists a list of primary regions (drainages) and subregions (specifc regions of intensive/satellite sampling) within the East River Community Observatory domain. These regions are parent locations for plots or points.,
+Metadata describing the column headers for each of these sheets are listed in separate tabs,
+,
+MISSING VALUES,
+Missing text values are indicated as N/A and may be caused either because the information was not provided or because it was not applicable for a location. Missing numeric values are indicated with -9999.,
+"If a location is missing from these sheets, please contact wfsfa-data@googlegroups.com to register the site.",
+,
+Version number,3.1
+Last update,7/12/2023

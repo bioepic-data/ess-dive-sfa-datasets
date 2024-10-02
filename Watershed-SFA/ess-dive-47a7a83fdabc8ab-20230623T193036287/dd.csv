@@ -1,0 +1,42 @@
+Column_or_Row_Name,Unit,Definition,Data_Type
+File_Name,N/A,Name of the files in the dataset/data package.,text
+File_Description,N/A,A brief description of the files in the dataset/data package.,text
+Standard,N/A,Standard applied to the data file.,text
+UTC_Offset,N/A,UTC offset of date/timestamp.,numeric
+Contact,N/A,Contact for the associated file.,text
+Date_Start,YYYY-MM-DD,"Start of data contained within file, to known accuracy.",date
+Date_End,YYYY-MM-DD,"Start of data contained within file, to known accuracy.",date
+Missing_Value_Codes,N/A,Missing value codes used within dataset.,text
+Data_Orientation,N/A,Orientation of the field name row or column.,text
+Column_or_Row_Name,N/A,Column or row name contained within a file.,text
+Unit,N/A,Unit of column or row name within file.,text
+Definition,N/A,Definition of column or row name.,text
+Date.m,YYYY-MM,"Date, including year and month, for associated data from the East River Watershed",date
+Almont,N/A,"Almont location containing either aridity index (AI), actual evapotranspiration (ET), potential evapotranspiration (PET), standard precipitation-evapotranspiration index (SPEI), or standard precipitation index (SPI) measurements at a monthly interval",numeric
+Billy_Barr,N/A,"Billy Barr location containing either aridity index (AI), actual evapotranspiration (ET), potential evapotranspiration (PET), standard precipitation-evapotranspiration index (SPEI), or standard precipitation index (SPI) measurements at a monthly interval",numeric
+Castnet,N/A,"Castnet location containing either aridity index (AI), actual evapotranspiration (ET), potential evapotranspiration (PET), standard precipitation-evapotranspiration index (SPEI), or standard precipitation index (SPI) measurements at a monthly interval",numeric
+Judd_Falls,N/A,"Judd Falls location containing either aridity index (AI), actual evapotranspiration (ET), potential evapotranspiration (PET), standard precipitation-evapotranspiration index (SPEI), or standard precipitation index (SPI) measurements at a monthly interval",numeric
+KCOCREST10,N/A,"KCOCREST10 location containing either aridity index (AI), actual evapotranspiration (ET), potential evapotranspiration (PET), standard precipitation-evapotranspiration index (SPEI), or standard precipitation index (SPI) measurements at a monthly interval",numeric
+KCOCREST4,N/A,"KCOCREST4 location containing either aridity index (AI), actual evapotranspiration (ET), potential evapotranspiration (PET), standard precipitation-evapotranspiration index (SPEI), or standard precipitation index (SPI) measurements at a monthly interval",numeric
+KCOCREST6,N/A,"KCOCREST6 location containing either aridity index (AI), actual evapotranspiration (ET), potential evapotranspiration (PET), standard precipitation-evapotranspiration index (SPEI), or standard precipitation index (SPI) measurements at a monthly interval",numeric
+KCOMTCRE2,N/A,"KCOMTCRE2 location containing either aridity index (AI), actual evapotranspiration (ET), potential evapotranspiration (PET), standard precipitation-evapotranspiration index (SPEI), or standard precipitation index (SPI) measurements at a monthly interval",numeric
+Kettle_Ponds,N/A,"Kettle Ponds location containing either aridity index (AI), actual evapotranspiration (ET), potential evapotranspiration (PET), standard precipitation-evapotranspiration index (SPEI), or standard precipitation index (SPI) measurements at a monthly interval",numeric
+Mexican_Cut,N/A,"Mexican Cut location containing either aridity index (AI), actual evapotranspiration (ET), potential evapotranspiration (PET), standard precipitation-evapotranspiration index (SPEI), or standard precipitation index (SPI) measurements at a monthly interval",numeric
+MRMEX,N/A,"MRMEX location containing either aridity index (AI), actual evapotranspiration (ET), potential evapotranspiration (PET), standard precipitation-evapotranspiration index (SPEI), or standard precipitation index (SPI) measurements at a monthly interval",numeric
+MTAPC2,N/A,"MTAPC2 location containing either aridity index (AI), actual evapotranspiration (ET), potential evapotranspiration (PET), standard precipitation-evapotranspiration index (SPEI), or standard precipitation index (SPI) measurements at a monthly interval",numeric
+NRCS_1141,N/A,"NRCS 1141 location containing either aridity index (AI), actual evapotranspiration (ET), potential evapotranspiration (PET), standard precipitation-evapotranspiration index (SPEI), or standard precipitation index (SPI) measurements at a monthly interval",numeric
+NRCS_380,N/A,"NRCS 380 location containing either aridity index (AI), actual evapotranspiration (ET), potential evapotranspiration (PET), standard precipitation-evapotranspiration index (SPEI), or standard precipitation index (SPI) measurements at a monthly interval",numeric
+NRCS_680,N/A,"NRCS 680 location containing either aridity index (AI), actual evapotranspiration (ET), potential evapotranspiration (PET), standard precipitation-evapotranspiration index (SPEI), or standard precipitation index (SPI) measurements at a monthly interval",numeric
+NRCS_737,N/A,"NRCS 737 location containing either aridity index (AI), actual evapotranspiration (ET), potential evapotranspiration (PET), standard precipitation-evapotranspiration index (SPEI), or standard precipitation index (SPI) measurements at a monthly interval",numeric
+Snodgrass,N/A,"Snodgrass location containing either aridity index (AI), actual evapotranspiration (ET), potential evapotranspiration (PET), standard precipitation-evapotranspiration index (SPEI), or standard precipitation index (SPI) measurements at a monthly interval",numeric
+Site,N/A,Site/location with associated input data retrieved from the PRISM database for the East River Watershed,text
+Lon,decimal degrees,Longitude in decimal degrees for an associated location  within the East River Watershed,numeric
+Lat,decimal degrees,Latitude in decimal degrees for an associated location  within the East River Watershed,numeric
+Elev_m,meters,Elevation in meters for an associated location within the East River Watershed,numeric
+Precip_mm_mo,mm,Monthly precipitation average in mm,numeric
+Tmin_oC,degrees Celsius,Air temperature minimum in degrees Celsius,numeric
+Ta_oC,degrees Celsius,Air temperature average (mean) in degrees Celsius,numeric
+Tmax_oC,degrees Celsius,AIr temperature maximum in degrees Celsius,numeric
+Td_oC,degrees Celsius,Dewpoint temperature mean in degrees Celsius,numeric
+VPDmin_hPa,Hectopascal (hPa),Minimum vapor pressure deficit in hPa (hectopascal),numeric
+VPDmax_hPa,Hectopascal (hPa),Maximum vapor pressure deficit in hPa (hectopascal),numeric

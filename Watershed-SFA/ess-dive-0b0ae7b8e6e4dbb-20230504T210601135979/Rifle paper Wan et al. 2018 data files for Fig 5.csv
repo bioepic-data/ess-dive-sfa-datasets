@@ -1,0 +1,59 @@
+﻿Figure 5. Estimated carbon fluxes along Rifle transect,,,,
+,,,,
+Rifle Carbon cycle estimates,,,,
+"9/16/2015,  updated 5-19-2016",,,,
+,,,"TOC, mass %",0.20
+"TIC, mass %",1.00,,"TOC,  kg/Mg",2.00
+"TIC,  kg/Mg",10.00,,"bulk density, Mg/m3",1.40
+"bulk density, Mg/m3",1.40,,"TOC,  kg/m3",2.80
+"TIC,  kg/m3",14.00,,"vadose profile depth, m",3.50
+"vadose profile depth, m",3.50,,"vadose TOC,  kg/m2",9.80
+"vadose TIC,  kg/m2",49.00,,"zero-order TOC deplete time, years",30.06
+,,,,
+,,,"Upper soil DOC,  mM = mol/m3",3.50
+,,,"Vadose Zone DIC,  mM = mol/m3",10.00
+,,,"Vadose Zone deeper DOC,  mM = mol/m3",1.70
+,,,"representative volumetric water, m3/m3",0.25
+"CO2 flux,  g C/m2/year",326.00,,,
+"CO2 flux,  g C/m2/day",0.89,,"snowmelt recharge pulse (soil to deep vadose),  m/y",0.35
+"transect CO2 flux to atmosphere, kg C/y",81.50,,"estimated DOC translocated to deep vadose, mol C/m2/y",1.23
+,,,"estimated DOC translocated to deep vadose, mol C/(250 m2)/y",306.25
+,,,"estimated DOC translocated to deep vadose, kg C/(250 m2)/y",3.68
+TT Transect dimensions (extended to Colorado River),,, ,
+"Length, m",250.00,,"assumed annual net recharge,  m/y",0.030
+"unit width,  m",1.00,,"volume recharge (per 250 m2),  m3/y",7.50
+"vadose depth, m",3.50,,"est. DIC recharge to groundwater, mol/(m2 y)",0.30
+"vadose zone footprint,  m2",250.00,,"est. DIC recharge to groundwater, g C/(m2 y)",3.60
+"aquifer thickness, m",3.50,,"transect DIC recharge to aquifer, kg C/y",0.90
+"aquifer unit cross-section,  m2",3.50,,"est. DOC recharge to groundwater, mol/(m2 y)",0.05
+,,,"est. DOC recharge to groundwater, g C/(m2 y)",0.61
+,,,"transect DOC recharge to aquifer, kg C/y",0.15
+(soilCO2 OUT)/(GW DIC OUT),6.12,,,
+(GW DIC OUT)/(soilCO2 OUT),0.16,,"assumed average aquifer pore water inflow,  m/d",0.30
+,,,"assumed average aquifer pore water inflow,  m/y",109.50
+,,,assumed aquifer effective porosity,0.27
+,,,"estimated groundwater darcy influx,  m/y",29.57
+(soilCO2 OUT)/(GW DOC OUT),125.44,,"estimated groundwater volume influx,  m3/y",103.48
+(GW DOC OUT)/(soilCO2 OUT),0.01,,"estimated groundwatervolume flux to River,  m3/y",110.98
+,,,"estimated groundwater darcy flux to River,  m/y",31.71
+"total C export from 250 m transect,  kg C/y",95.47,,,
+,,,"saturated zone DIC,  mM = mol/m3",10.00
+CO2 to atm fraction of total export,0.85,,"saturated zone DOC,  mM = mol/m3",0.40
+DIC to river fraction of total C export,0.14,,,
+DOC to river fraction of total C export,0.01,,"est. groundwater DIC flux IN,  mol/(m2 y)",295.65
+,,,"est. groundwater DIC flux IN, kg C/(m2 y)",3.55
+,,,"est. groundwater DIC flux IN,  kg C/ y",12.42
+,,,"est. groundwater DOC flux IN,  mol/(m2 y)",11.83
+,,,"est. groundwater DOC flux IN, kg C/(m2 y)",0.14
+,,,"est. groundwater DOC flux IN, kg C/ y",0.50
+,,,,
+,,,"est. aquifer DIC flux OUT to river, kg C/m2/y",3.80
+,,,"est. aquifer DIC flux OUT to river, kg C/y",13.32
+,,,"est. aquifer DOC flux OUT to river,  kg C/m2/y",0.19
+,,,"est. aquifer DOC flux OUT to river,  kg C/y",0.65
+,,,,
+,,,,
+,,,"total C in,  kg C/y",12.91
+,,,"total C out,  kgC/y",95.47
+,,,"deficit,  kg C/y",82.55
+,,,"deficit,  kg C/m2/y",0.33

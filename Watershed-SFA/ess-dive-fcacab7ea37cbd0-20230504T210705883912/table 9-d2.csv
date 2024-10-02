@@ -1,0 +1,10 @@
+Simulation,"Dissolved inorganic carbon export, ","Dissolved organic carbon export, "
+,[g m-2 d-1],[g m-2 d-1]
+S1,1.208,0.048
+S2,1.21,0.042
+S3,1.212,0.042
+S3.1’ ,1.21,0.041
+S3.2’ ,3.265,0.121
+(with temperature dependence of only abiotic processes),,
+S3.2’ ,3.303,0.342
+(with temperature dependence of abiotic and biotic processes),,

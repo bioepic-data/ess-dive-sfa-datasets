@@ -1,0 +1,88 @@
+File_Name,File_Description,Standard,UTC_Offset,File_Version,Contact,Date_Start,Date_End,Missing_Value_Codes,Data_Orientation,File_Path
+flmd.csv,File-level metadata associated with dataset describing files contained within dataset,ESS-DIVE Reporting Format for File-level Metadata v1.0.0,-9999,1,Nicholas Thiros,-9999,-9999,N/A; -9999,vertical,N/A
+dd.csv,Data dictionary defining column headers and other terms contained within data files across the dataset,ESS-DIVE Reporting Format for File-level Metadata v1.0.0,-9999,1,Nicholas Thiros,-9999,-9999,N/A; -9999,vertical,N/A
+README.md,"README file contains description of dataset contents, directory notes and procedure, and steps to re-create manuscript python steps.",N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC
+C_in_dict.pk,tracer concentration input time series,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc
+ens_dict.pk,posterior predictive tracer concentration uncertainty distributions,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc
+J_ens.txt,He4 accumulation rate uncertainty distribution,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc
+map_dict.pk,maximum a posteriori posterior predictive tracer concentrations,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc
+run_age_mcmc_utils.py,python utility script for convolution intergral,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc
+run_age_mcmc.post_plots.comp.py,python plotting script,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc
+run_age_mcmc.py,python script to perfrom age mcmc analysis,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc
+PLM1.CFC12.exponential.0.netcdf,saved groundwater age mcmc trace,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc/conv_traces
+PLM1.CFC12.SF6.H3.He4_ter.exp_pist_flow-piston.123.netcdf,saved groundwater age mcmc trace,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc/conv_traces
+PLM1.CFC12.SF6.H3.He4_ter.exp_pist_flow.123.netcdf,saved groundwater age mcmc trace,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc/conv_traces
+PLM1.CFC12.SF6.H3.He4_ter.exponential-piston.123.netcdf,saved groundwater age mcmc trace,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc/conv_traces
+PLM1.CFC12.SF6.H3.He4_ter.exponential.123.netcdf,saved groundwater age mcmc trace,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc/conv_traces
+PLM1.H3.exponential.0.netcdf,saved groundwater age mcmc trace,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc/conv_traces
+PLM1.He4_ter.exponential.0.netcdf,saved groundwater age mcmc trace,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc/conv_traces
+PLM1.SF6.exponential.0.netcdf,saved groundwater age mcmc trace,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc/conv_traces
+PLM6.CFC12.exponential.0.netcdf,saved groundwater age mcmc trace,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc/conv_traces
+PLM6.CFC12.SF6.H3.He4_ter.exp_pist_flow-piston.123.netcdf,saved groundwater age mcmc trace,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc/conv_traces
+PLM6.CFC12.SF6.H3.He4_ter.exp_pist_flow.123.netcdf,saved groundwater age mcmc trace,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc/conv_traces
+PLM6.CFC12.SF6.H3.He4_ter.exponential.123.netcdf,saved groundwater age mcmc trace,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc/conv_traces
+PLM6.H3.exponential.0.netcdf,saved groundwater age mcmc trace,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc/conv_traces
+PLM6.He4_ter.exponential.0.netcdf,saved groundwater age mcmc trace,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc/conv_traces
+PLM6.SF6.exponential.0.netcdf,saved groundwater age mcmc trace,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc/conv_traces
+PLM7.CFC12.exponential.0.netcdf,saved groundwater age mcmc trace,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc/conv_traces
+PLM7.CFC12.SF6.H3.He4_ter.exp_pist_flow-piston.123.netcdf,saved groundwater age mcmc trace,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc/conv_traces
+PLM7.CFC12.SF6.H3.He4_ter.exp_pist_flow.123.netcdf,saved groundwater age mcmc trace,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc/conv_traces
+PLM7.CFC12.SF6.H3.He4_ter.exponential.123.netcdf,saved groundwater age mcmc trace,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc/conv_traces
+PLM7.H3.exponential.0.netcdf,saved groundwater age mcmc trace,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc/conv_traces
+PLM7.He4_ter.exponential.0.netcdf,saved groundwater age mcmc trace,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc/conv_traces
+PLM7.SF6.exponential.0.netcdf,saved groundwater age mcmc trace,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/age_ens_runs_mcmc/conv_traces
+age_modeling_mcmc.J_explore.py,python script to generate predictive distributions of 4He accumulation rates,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/aux_scripts
+age_modeling_mcmc.rtd_explore.py,python script to perform prior predictive groundwater age analysis,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/aux_scripts
+rtd_df_master.csv,saved output of age mcmc analysis in single csv file,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,vertical,NobleGas_RTD_MCMC/aux_scripts
+PLM_noblegas_2021.xlsx,"Field data used in modelling effort for manuscript. Noble gas data collection from sites ER-PLM1, ER-PLM6, ER-PLM7, ER-PLM8, and ER-PLM9 with sampling dates from 2021-05-04 to 2021-05-08.",N/A,-7:00:00,1,Nicholas Thiros,2021-05-04,2021-05-08,N/A,vertical,NobleGas_RTD_MCMC/Field_Data
+PLM_noblegas_2021.csv,"Field data used in modelling effort for manuscript. Noble gas data collection from sites ER-PLM1, ER-PLM6, ER-PLM7, ER-PLM8, and ER-PLM9 with sampling dates from 2021-05-04 to 2021-05-08.",N/A,-7:00:00,1,Nicholas Thiros,2021-05-04,2021-05-08,N/A,vertical,NobleGas_RTD_MCMC/Field_Data
+PLM_tracers_2021.xlsx,"Field data used in modelling effort for manuscript. Trace data collection from sites ER-PLM1, ER-PLM6, ER-PLM7, ER-PLM8, and ER-PLM9 with sampling dates from 2021-05-04 to 2021-05-08.",N/A,-7:00:00,1,Nicholas Thiros,2021-05-04,2021-05-08,N/A,vertical,NobleGas_RTD_MCMC/Field_Data
+PLM_tracers_2021.csv,"Field data used in modelling effort for manuscript. Trace data collection from sites ER-PLM1, ER-PLM6, ER-PLM7, ER-PLM8, and ER-PLM9 with sampling dates from 2021-05-04 to 2021-05-08.",N/A,-7:00:00,1,Nicholas Thiros,2021-05-04,2021-05-08,N/A,vertical,NobleGas_RTD_MCMC/Field_Data
+Atmos_tracer_input.jpg,figure of tracer input timeseries,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/Input_Series
+CB_tracer_atmos.csv,tracer input timeseries used in manauscript,N/A,-9999,1,Nicholas Thiros,1765-12-31,2020-12-31,N/A,vertical,NobleGas_RTD_MCMC/Input_Series
+Gen_atmos_tracers_v3.monthly.py,python script to generate tracer input timeseries at monthly resolutions,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/Input_Series
+Gen_atmos_tracers_v3.py,python script to generate tracer input timeseries at yearly timescales,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/Input_Series
+CFC_atmospheric_histories_revised_2015_Table1.csv,reconstructed cfc input concentration timeseries,N/A,-9999,1,Nicholas Thiros,1765,2015,N/A,vertical,NobleGas_RTD_MCMC/Input_Series/NOAA_cfc_sf6
+cfc_sf6_atmhist_1765-2021.csv,reconstructed cfc and sf6 input concentration timeseries,N/A,-9999,1,Nicholas Thiros,1765,2021,N/A,vertical,NobleGas_RTD_MCMC/Input_Series/NOAA_cfc_sf6
+gen_cfc_sf6_ts.py,python script to compile cfc and sf6 into timeseries,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/Input_Series/NOAA_cfc_sf6
+HATS_global_F11.txt,cfc11 input timeseries raw data,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/Input_Series/NOAA_cfc_sf6
+HATS_global_F12.txt,cfc12 input timeseries raw data,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/Input_Series/NOAA_cfc_sf6
+HATS_global_F113.txt,cfc113 input timeseries raw data,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/Input_Series/NOAA_cfc_sf6
+HATS_global_SF6.txt,sf6 input timeseries raw data,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/Input_Series/NOAA_cfc_sf6
+README.txt,file that describes the content of the directory,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/Input_Series/NOAA_cfc_sf6
+NOAA_cfc11.txt,noaa cfc11 input series,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/Input_Series/NOAA_cfc_sf6/NOAA_NIWOT
+NOAA_cfc12.txt,noaa cfc12 input series,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/Input_Series/NOAA_cfc_sf6/NOAA_NIWOT
+NOAA_cfc13.txt,noaa cfc113 input series,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/Input_Series/NOAA_cfc_sf6/NOAA_NIWOT
+NOAA_sf6.txt,noaa sf6 input series,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/Input_Series/NOAA_cfc_sf6/NOAA_NIWOT
+CorrelationCoefficients_Jurgens2018.csv,spatial tritium correlation cofficients,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,vertical,NobleGas_RTD_MCMC/Input_Series/Tritium
+TritiumInQuadrangeles_Jurgens2018.csv,spatial tritium concentrations,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,vertical,NobleGas_RTD_MCMC/Input_Series/Tritium
+wiser_gnip-monthly-at-gnipmat01.csv,global network of isotopes in precipitation data file,N/A,-9999,1,Nicholas Thiros,1960-01-15,2018-12-15,N/A,vertical,NobleGas_RTD_MCMC/Input_Series/Tritium
+wiser_gnip-monthly-ca-gnipmca01.csv,global network of isotopes in precipitation data file,N/A,-9999,1,Nicholas Thiros,1953-01-15,2019-12-15,N/A,vertical,NobleGas_RTD_MCMC/Input_Series/Tritium
+wiser_gnip-monthly-ca-gnipmca01.xlsx,global network of isotopes in precipitation data file,N/A,-9999,1,Nicholas Thiros,1953-01-15,2019-12-15,N/A,vertical,NobleGas_RTD_MCMC/Input_Series/Tritium
+wiser_gnip-monthly-us-gnipmus02.csv,global network of isotopes in precipitation data file,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/Input_Series/Tritium
+wiser_gnip-monthly-us-gnipmus02.xlsx,global network of isotopes in precipitation data file,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/Input_Series/Tritium
+dNe_comp.csv,modeled delta Ne ,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,vertical,NobleGas_RTD_MCMC/ng_interp
+ng_map_df.csv,modeled noble gas recharge parameters,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,vertical,NobleGas_RTD_MCMC/ng_interp
+ng_optPLM1.csv,modeled noble gas recharge parameters at well PLM1,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,vertical,NobleGas_RTD_MCMC/ng_interp
+ng_optPLM6.csv,modeled noble gas recharge parameters at well PLM6,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,vertical,NobleGas_RTD_MCMC/ng_interp
+ng_optPLM7.csv,modeled noble gas recharge parameters at well PLM7,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,vertical,NobleGas_RTD_MCMC/ng_interp
+noble_gas_mcmc.compplots.py,python script to generate figures,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/ng_interp
+noble_gas_mcmc.py,python script to perform noble gas mcmc analysis,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/ng_interp
+ng_conc_4_panga.csv,noble gas concentrations in format that can be imported into PANGA software,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,vertical,NobleGas_RTD_MCMC/ng_interp/panga_comp
+panga_compare.py,python script to compare noble gas mcmc and PANGA software,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/ng_interp/panga_comp
+PLM1_trans.netcdf,saved noble gas mcmc output,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/ng_interp/traces
+PLM1.netcdf,saved noble gas mcmc output,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/ng_interp/traces
+PLM6_trans.netcdf,saved noble gas mcmc output,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/ng_interp/traces
+PLM6.netcdf,saved noble gas mcmc output,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/ng_interp/traces
+PLM7_trans.netcdf,saved noble gas mcmc output,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/ng_interp/traces
+PLM7.netcdf,saved noble gas mcmc output,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/ng_interp/traces
+cfc_utils.py,python utilities for cfc and sf6 interpretation,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/utils
+convolution_integral_utils.py,python utilities to perfrom convolution integral,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/utils
+noble_gas_utils.py,python utilities for noble gas interpretation,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/utils
+lapse_rate_mcmc.png,noble gas lapse rate figure,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/WeatherStations
+lapse_rate_mcmc.py,python script to generate prior predictive lapse rates,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/WeatherStations
+lapse_rate_mcmc.svg,noble gas lapse rate figure,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/WeatherStations
+snotel_airtemp.csv,snotel air temperature and elevation data from the East River Watershed,N/A,-9999,1,Nicholas Thiros,2014-01-01,2021-10-31,N/A,vertical,NobleGas_RTD_MCMC/WeatherStations
+ws_airtemp.csv,weather station air temperature and elevation data from the East River Watershed,N/A,-9999,1,Nicholas Thiros,2016-09-28,2021-09-24,N/A,vertical,NobleGas_RTD_MCMC/WeatherStations
+WS_lat_long.xlsx,weather station latitude and longitudes,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/WeatherStations
+WS_lat_long.csv,weather station latitude and longitudes,N/A,-9999,1,Nicholas Thiros,-9999,-9999,N/A,N/A,NobleGas_RTD_MCMC/WeatherStations

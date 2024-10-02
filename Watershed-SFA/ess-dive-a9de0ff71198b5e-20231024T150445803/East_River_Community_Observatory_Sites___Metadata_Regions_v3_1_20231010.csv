@@ -1,0 +1,6 @@
+Column_Name,Unit,Description
+Location_ID,AA(*),"Persistent site identifier that is unique across the East River Community Observatory. Typically this is a two-letter code AA. In some cases the location identifer from another reference was used, where they were not marked as two-letter codes. Drainages are all two letter codes and are used as prefix for point and plot location identifiers."
+Location_Name,Free Text,"A location name that is more commonly used. Location names are not necessarily unique, can change over time, and should not be solely used to identify sites."
+Location_Type,Free Text,Indicate if it is a region or sub-region.
+Parent_Location_ID,Controlled List,"This is used to construct the location hierarchy, and should be either another region/sub-region that the location is a part of."
+Description,Free Text,A brief description of the region.

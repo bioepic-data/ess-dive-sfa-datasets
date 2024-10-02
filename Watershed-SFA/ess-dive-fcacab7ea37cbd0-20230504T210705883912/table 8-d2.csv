@@ -1,0 +1,7 @@
+Mineral,Density (g cm-3),Molar volume ,Volume fraction (-)  ,Specific surface area (m2 mineral. m-3mineral) (a)
+,,(cm3 mol-1),,
+Goethite,4.268,20.82,1.2 x 10-3 (b),60000
+Calcite ,2.71,36.934,0.01 (c),60000
+Siderite,3.944,29.378,4.09 x 10-3 (d),60000
+Pyrite ,5.012,23.94,3.6 x 10-5 (e),60000
+SOM,1.5,108.059 (f),0.0626,1.13 x 105 (g)
